@@ -1,0 +1,255 @@
+[
+    {
+        "ma": "ബോംബാക്രമണത്തിനും രാഷ്ട്രീയ കൊലപാതകത്തിനും പേരുകേട്ട ജില്ല ഏതാണ്?",
+        "en": "Which district is mainly known for bombing and political assassination?",
+        "o": {
+            "a": "Kochi",
+            "b": "Kottayam",
+            "c": "Kannur",
+            "d": "Idukki"
+        },
+        "an": 3
+    },
+    {
+        "ma": "മുഴപ്പിലങ്ങാട് ഡ്രൈവ്-ഇൻ ബീച്ച് സ്ഥിതി ചെയ്യുന്നത്?",
+        "en": "Muzhappilangad drive-in beach is located at?",
+        "o": {
+            "a": "Palakkad",
+            "b": "Kannur",
+            "c": "Wayanad",
+            "d": "Thrissur"
+        },
+        "an": 2
+    },
+    {
+        "ma": "മലമ്പുഴ അണക്കെട്ട് സ്ഥിതി ചെയ്യുന്നത്?",
+        "en": "Malampuzha dam is located at?",
+        "o": {
+            "a": "Thiruvanathapuram",
+            "b": "Kochi",
+            "c": "Alapuzha",
+            "d": "Palakkad"
+        },
+        "an": 4
+    },
+    {
+        "ma": "കേരളത്തിലെ ഏത് ജില്ലയിലാണ് ഫുട്ബോൾ കൂടുതൽ പ്രശസ്തമായത്?",
+        "en": "Football is more famous at which district in Kerala?",
+        "o": {
+            "a": "Kannur",
+            "b": "Malappuram",
+            "c": "Idukki",
+            "d": "Alapuzha"
+        },
+        "an": 2
+    },
+    {
+        "ma": "കേരളത്തിലെ ശബരിമല ആർക്ക് സമർപ്പിച്ചിരിക്കുന്ന പ്രശസ്തമായ സ്ഥലമാണ്?",
+        "en": "Sabarimala in kerala is a famous place devoted to ________?",
+        "o": {
+            "a": "Aiyanar",
+            "b": "Ayyappan",
+            "c": "Muthappan",
+            "d": "Kotilingeshwara"
+        },
+        "an": 2
+    },
+    {
+        "ma": "കേരളത്തിലെ പ്രളയബാധിത പ്രദേശങ്ങളിൽ ഇന്ത്യൻ സൈന്യം ഏത് രക്ഷാപ്രവർത്തനമാണ് ആരംഭിച്ചത്?",
+        "en": "Which rescue operation has been launched by Indian Army in the flood-hit areas of Kerala?",
+        "o": {
+            "a": "Operation Madad",
+            "b": "Operation Sahyog",
+            "c": "Operation Surya Hope",
+            "d": "Operation Raksha"
+        },
+        "an": 2
+    },
+    {
+        "ma": "കേരളത്തിൽ അടുത്തിടെ അന്തരിച്ച കലാഭവൻ മണി ഏത് തൊഴിലുമായി ബന്ധപ്പെട്ടിരുന്നു?",
+        "en": "Kalabhavan Mani, who recently passed away in Kerala, was associated with which profession?",
+        "o": {
+            "a": "Actor",
+            "b": "Dancer",
+            "c": "Scientist",
+            "d": "Physical Trainer"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ട്രേഡ് മാർക്ക് രജിസ്ട്രാറിൽ കേരളം ഒരു കേസ് വിജയിച്ചു, അതിന്റെ ഏത് സംരംഭത്തിന്റെ ചുരുക്കെഴുത്തിലാണ് 'K' എന്ന അക്ഷരം ഉപയോഗിക്കേണ്ടത്?",
+        "en": "Kerala has won a legal case at the Registrar of TradeMarks, to use the letter 'K' in acronym of which of its undertakings?",
+        "o": {
+            "a": "KSEB",
+            "b": "KSRTC",
+            "c": "KPSC",
+            "d": "KSRLM"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഏത് ഉൽപ്പന്നത്തിൽ നിന്നാണ് ബയോഡീസൽ കണ്ടുപിടിച്ചതിന് കേരളത്തിലെ വെറ്റ് ഡോക്ടർക്ക് അടുത്തിടെ പേറ്റന്റ് ലഭിച്ചത്?",
+        "en": "A Kerala Vet Doctor has recently received patent for inventing biodiesel from which product?",
+        "o": {
+            "a": "Glass",
+            "b": "Cotton",
+            "c": "Chicken waste",
+            "d": "Fish waste"
+        },
+        "an": 3
+    },
+    {
+        "ma": "കേരളത്തിന്റെ സംസ്ഥാന മൃഗമായി അംഗീകരിക്കപ്പെട്ട മൃഗം ഏതാണ്?",
+        "en": "Which one is recognized as the State animal of Kerala?",
+        "o": {
+            "a": "Tiger",
+            "b": "Elephant",
+            "c": "Lion",
+            "d": "Cow"
+        },
+        "an": 2
+    },
+    {
+        "ma": "കേരളത്തിലെ ആകെ ജില്ലകളുടെ എണ്ണം?",
+        "en": "Total number of districts in Kerala?",
+        "o": {
+            "a": "11",
+            "b": "13",
+            "c": "14",
+            "d": "16"
+        },
+        "an": 3
+    },
+    {
+        "ma": "കേരളത്തിലെ ഏറ്റവും വലിയ ജില്ല ഏതാണ്? പ്രദേശത്തിന്റെ അടിസ്ഥാനത്തിൽ?",
+        "en": "Which one is the largest district by area wise in Kerala?",
+        "o": {
+            "a": "Kollam",
+            "b": "Ernakulam",
+            "c": "Alappuzha",
+            "d": "Idukki"
+        },
+        "an": 4
+    },
+    {
+        "ma": "കേരളത്തിലെ ഏറ്റവും ചെറിയ ജില്ല ഏതാണ്? പ്രദേശത്തിന്റെ അടിസ്ഥാനത്തിൽ?",
+        "en": "Which one is the smallest district by area wise in Kerala?",
+        "o": {
+            "a": "Alappuzha",
+            "b": "Ernakulam",
+            "c": "Kozhikode",
+            "d": "Kottayam"
+        },
+        "an": 1
+    },
+    {
+        "ma": "കേരളത്തിൽ ഏറ്റവും കൂടുതൽ ജനസംഖ്യയുള്ള ജില്ല ഏതാണ്?",
+        "en": "Which one is the highest populated district in Kerala?",
+        "o": {
+            "a": "Malappuram",
+            "b": "Idukki",
+            "c": "Kozhikode",
+            "d": "Pathanamthitta"
+        },
+        "an": 1
+    },
+    {
+        "ma": "കേരളത്തിലെ ഏറ്റവും നീളം കൂടിയ നദി ഏതാണ്?",
+        "en": "Which one is the longest river in Kerala?",
+        "o": {
+            "a": "Bharathappuzha",
+            "b": "Neyyar",
+            "c": "Pamba River",
+            "d": "Periyar"
+        },
+        "an": 4
+    },
+    {
+        "ma": "കേരളത്തിലെ ഏറ്റവും വലിയ തടാകം ഏതാണ്?",
+        "en": "Which one is the largest lake in Kerala?",
+        "o": {
+            "a": "Sasthamcotta Lake",
+            "b": "Vembanadu Lake",
+            "c": "Pookode Lake",
+            "d": "Ashtamudi Lake"
+        },
+        "an": 2
+    },
+    {
+        "ma": "കേരളത്തിലെ ആദ്യത്തെ മുഖ്യമന്ത്രി ആരാണ്?",
+        "en": "Who is the first Chief Minister of Kerala?",
+        "o": {
+            "a": "Pattom A. Thanu Pillai",
+            "b": "C. Achutha Menon",
+            "c": "E. M. S. Namboodiripad",
+            "d": "K. Karunakaran"
+        },
+        "an": 3
+    },
+    {
+        "ma": "കേരളത്തിൽ ഏറ്റവും കൂടുതൽ കാലം മുഖ്യമന്ത്രിയായിരുന്ന വ്യക്തി ആരാണ്?",
+        "en": "Who is the longest serving Chief Minister of Kerala?",
+        "o": {
+            "a": "A K Anthony",
+            "b": "K Karunakaran",
+            "c": "V S Achuthanandan",
+            "d": "E K Nayanar"
+        },
+        "an": 4
+    },
+    {
+        "ma": "കേരളത്തിൽ ഏറ്റവും കൂടുതൽ ജനസംഖ്യയുള്ള നഗരം ഏതാണ്?",
+        "en": "Which one is the highest populated city in Kerala?",
+        "o": {
+            "a": "Kochi",
+            "b": "Thrissur",
+            "c": "Thiruvananthapuram",
+            "d": "Kollam"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഇന്ത്യയിലെ ഏറ്റവും വലിയ കശുവണ്ടി കയറ്റുമതി ചെയ്യുന്ന കേരളത്തിലെ ഒരു നഗരം ഏതാണ്?",
+        "en": "Which one city of Kerala is the major exporter of cashews in India?",
+        "o": {
+            "a": "Kollam",
+            "b": "Munnar",
+            "c": "Thrissur",
+            "d": "Kochi"
+        },
+        "an": 1
+    },
+    {
+        "ma": "മലയാള ഭാഷയുടെ പിതാവ് എന്നറിയപ്പെടുന്നത് ആരാണ്?",
+        "en": "Who is also known as the father of Malayalam language?",
+        "o": {
+            "a": "Poonthanam",
+            "b": "Ramapurathu Warrier",
+            "c": "Ezhuthachan",
+            "d": "Melpathur Narayana Bhattathiri"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഏറ്റവും നീളം കൂടിയ തീരപ്രദേശം ഏത് ജില്ലയിലാണ്?",
+        "en": "Which district have longest coastline?",
+        "o": {
+            "a": "Kasargod",
+            "b": "Kozhikode",
+            "c": "Alappuzha",
+            "d": "Kannur"
+        },
+        "an": 4
+    },
+    {
+        "ma": "കേരളത്തിലെ എല്ലാ ഉത്സവങ്ങളുടെയും മാതാവ് എന്നറിയപ്പെടുന്ന ആഘോഷം ഏതാണ്?",
+        "en": "Which festival is called the mother of all festivals in Kerala?",
+        "o": {
+            "a": "Onam",
+            "b": "Thiruvathira",
+            "c": "Vishu",
+            "d": "Thrissur Pooram"
+        },
+        "an": 4
+    }
+]
