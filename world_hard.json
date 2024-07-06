@@ -1,0 +1,684 @@
+[
+    {
+        "ma": "എപ്പോഴാണ് അമേരിക്കക്കാരുടെ സ്വാതന്ത്ര്യസമരം നടന്നത്?",
+        "en": "When did the war of Americans Independence take place?",
+        "o": {
+            "a": "1770",
+            "b": "1772",
+            "c": "1774",
+            "d": "1776"
+        },
+        "an": 4
+    },
+    {
+        "ma": "താഴെ പറയുന്നവയിൽ ഏത് രാജ്യമാണ് പൂർണ്ണമായും മറ്റൊരു രാജ്യത്തിനുള്ളിൽ ഉള്ളത്?",
+        "en": "Which of the following landlocked countries is entirely contained within another country?",
+        "o": {
+            "a": "Lesotho",
+            "b": "Burkina Faso",
+            "c": "Mongolia",
+            "d": "Luxembourg"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏതാണ് ദക്ഷിണധ്രുവത്തോട് ഏറ്റവും അടുത്തുള്ളത്?",
+        "en": "Which of the following countries is closest to the South Pole?",
+        "o": {
+            "a": "Libya",
+            "b": "Finload",
+            "c": "South Africa",
+            "d": "Mexico"
+        },
+        "an": 3
+    },
+    {
+        "ma": "1939 -ന് മുമ്പ് തായ്‌ലാൻഡിന്റെ  ഔയോഗിക നാമം എന്തായിരുന്നു?",
+        "en": "What was the official name of Thailand before 1939?",
+        "o": {
+            "a": "Ankara",
+            "b": "Burma",
+            "c": "Ceylon",
+            "d": "Siam"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും നീളം കൂടിയ നദി ഏതാണ്?",
+        "en": "What's the longest river in the world?",
+        "o": {
+            "a": "Nile",
+            "b": "Yangtze",
+            "c": "Mississippi",
+            "d": "Amazon"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഗ്രാൻഡ് സെൻട്രൽ ടെർമിനൽ, പാർക്ക് അവന്യൂ, ന്യൂയോർക്ക് എന്നിവയാണ് ലോകത്തിലെ...",
+        "en": "Grand Central Terminal, Park Avenue, New York is the world's",
+        "o": {
+            "a": "largest railway station",
+            "b": "highest railway station",
+            "c": "longest railway station",
+            "d": "None of the above"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ആദ്യത്തെ അഫ്ഗാൻ യുദ്ധം നടന്നത്",
+        "en": "First Afghan War took place in",
+        "o": {
+            "a": "1839",
+            "b": "1843",
+            "c": "1833",
+            "d": "1848"
+        },
+        "an": 1
+    },
+    {
+        "ma": "...തമ്മിലാണ് ആദ്യത്തെ ചൈന യുദ്ധം നടന്നത്?",
+        "en": "First China War was fought between?",
+        "o": {
+            "a": "China and Britain",
+            "b": "China and France",
+            "c": "China and Egypt",
+            "d": "China and Greek"
+        },
+        "an": 1
+    },
+    {
+        "ma": "എല്ലാ വർഷവും ലോക റെഡ് ക്രോസ്, റെഡ് ക്രസന്റ് ദിനം ആഘോഷിക്കുന്നു",
+        "en": "Each year World Red Cross and Red Crescent Day is celebrated on",
+        "o": {
+            "a": "May 8",
+            "b": "May 18",
+            "c": "June 8",
+            "d": "June 18"
+        },
+        "an": 1
+    },
+    {
+        "ma": "എപ്പോഴാണ് ജോർജിയ, ഉസ്ബെക്കിസ്ഥാൻ, തുർക്ക്മെനിസ്ഥാൻ എന്നിവ യുഎൻഒയിൽ അംഗമായത്?",
+        "en": "Georgia, Uzbekistan and Turkmenistan became the members of UNO in",
+        "o": {
+            "a": "1991",
+            "b": "1992",
+            "c": "1993",
+            "d": "1994"
+        },
+        "an": 2
+    },
+    {
+        "ma": "രണ്ടാം ലോകമഹായുദ്ധസമയത്ത്, ജർമ്മനി ഫ്രാൻസിനെ ആക്രമിച്ചത് എപ്പോഴാണ്?",
+        "en": "During World War II, when did Germany attack France?",
+        "o": {
+            "a": "1940",
+            "b": "1941",
+            "c": "1942",
+            "d": "1943"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഏത് ഗ്രൂപ്പിംഗിന്റെ സാമ്പത്തികമാണ് ജി -15?",
+        "en": "G-15 is an economic grouping of?",
+        "o": {
+            "a": "First World Nations",
+            "b": "Second World Nations",
+            "c": "Third World Nations",
+            "d": "Fourth World Nations"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഐക്യരാഷ്ട്രസഭയുടെ 191 -ാമത് അംഗമായ ഈസ്റ്റ് തിമോർ എവിടെയാണ് ഭൂഖണ്ഡത്തിലുള്ളത്?",
+        "en": "East Timor, which became the 191st member of the UN, is in the continent of",
+        "o": {
+            "a": "Asia",
+            "b": "Africa",
+            "c": "Europe",
+            "d": "South America"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇവയിൽ ഏതിനാണ് ക്യൂബ പ്രത്യേകിച്ചും പ്രസിദ്ധമായത്?",
+        "en": "For which of these is Cuba especially famous?",
+        "o": {
+            "a": "Cigars",
+            "b": "Coffee",
+            "c": "Chocolate",
+            "d": "Tea"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സ്റ്റാർബക്സ് കോർപ്പറേറ്റ് ആസ്ഥാനം ഏത് നഗരത്തിലാണ്?",
+        "en": "What city is the Starbucks corporate headquarters located in?",
+        "o": {
+            "a": "Seattle, WA",
+            "b": "Quincy, MA",
+            "c": "Portland, OR",
+            "d": "Oak Brook, IL"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇവയിൽ ഏതാണ് പരമ്പരാഗതമായി ഹവായിയൻ സ്ത്രീകൾ നൃത്തം ചെയ്യുന്നത്?",
+        "en": "Which of these is traditionally danced by Hawaiian women?",
+        "o": {
+            "a": "Rumba",
+            "b": "Samba",
+            "c": "Hula",
+            "d": "Lambada"
+        },
+        "an": 3
+    },
+    {
+        "ma": "വടക്കൻ അയർലണ്ടിലെ കറൻസി യൂണിറ്റ് എന്താണ്?",
+        "en": "What is the unit of currency in Northern Ireland?",
+        "o": {
+            "a": "Dollar",
+            "b": "Lira",
+            "c": "Euro",
+            "d": "Pound"
+        },
+        "an": 4
+    },
+    {
+        "ma": "നെപ്പോളിയൻ ബോണപാർട്ടെയുടെ അവസാന യുദ്ധം ഏതാണ്?",
+        "en": "What was Napoleon Bonaparte's last battle?",
+        "o": {
+            "a": "Battle of Wagram",
+            "b": "Battle of Waterloo",
+            "c": "Battle of Trafalgar",
+            "d": "Battle of Leipzig"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഏത് യുഎസ് നഗരത്തിലാണ് FBI ആസ്ഥാനം?",
+        "en": "In what US city are the FBI headquarters?",
+        "o": {
+            "a": "New York City",
+            "b": "Chicago",
+            "c": "Boston",
+            "d": "Washington, D.C"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ആദ്യകാല മനുഷ്യർ ഏത് ഭൂഖണ്ഡത്തിൽ നിന്നാണ് ലോകത്തിന്റെ മറ്റു ഭാഗങ്ങളിലേക്ക് കുടിയേറിയത്?",
+        "en": "Early humans migrated to other parts of the world starting from which continent?",
+        "o": {
+            "a": "Europe",
+            "b": "America",
+            "c": "Africa",
+            "d": "Asia"
+        },
+        "an": 3
+    },
+    {
+        "ma": "അരികുകളുള്ള വൈക്കോൽ തൊപ്പിയുടെയും പ്രശസ്തമായ ഒരു കനാലിന്റെയും പേരെന്താണ്?",
+        "en": "What is the name of a brimmed straw hat as well as a famous canal?",
+        "o": {
+            "a": "Suez",
+            "b": "Boater",
+            "c": "Panama",
+            "d": "St. Lawrence"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ജെറ്റ് എയർവേസിന്റെ അന്താരാഷ്ട്ര ഹബ്ബ് സ്ഥിതി ചെയ്യുന്നത്?",
+        "en": "The international hub of Jet Airways is located at?",
+        "o": {
+            "a": "England",
+            "b": "Germany",
+            "c": "France",
+            "d": "Belgium"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഏഷ്യയിലെ ഏറ്റവും വലിയ ചേരി പ്രദേശം ഏതാണ്?",
+        "en": "Which one is the biggest slum area in Asia?",
+        "o": {
+            "a": "Dharavi, Mumbai",
+            "b": "East Cipinang, Jakarta",
+            "c": "Orangi, Karachi",
+            "d": "None of the above"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ജീവജാലങ്ങളും പരിസ്ഥിതിയും തമ്മിലുള്ള പരസ്പര ബന്ധത്തെക്കുറിച്ചുള്ള പഠനം അറിയപ്പെടുന്നത്?",
+        "en": "Study of interaction between living organisms and environment is known as?",
+        "o": {
+            "a": "Pedology",
+            "b": "Ecology",
+            "c": "Biology",
+            "d": "Zoology"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഭൂമിയിലെ ആദ്യത്തെ സൂപ്പർ ഭൂഖണ്ഡത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of Earth’s first super continent?",
+        "o": {
+            "a": "Pangea",
+            "b": "Vaalbara",
+            "c": "Gondwana",
+            "d": "Columbia"
+        },
+        "an": 2
+    },
+    {
+        "ma": "മധ്യേഷ്യയുടെ ക്രോസ്‌റോഡ്‌സ് എന്നറിയപ്പെടുന്ന ഇനിപ്പറയുന്ന രാജ്യങ്ങളിൽ ഏതാണ്?",
+        "en": "Which among the following country is also known as Crossroads of Central Asia?",
+        "o": {
+            "a": "Uzbekistan",
+            "b": "Afghanistan",
+            "c": "Tajikistan",
+            "d": "Turkmenistan"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വിള്ളൽ താഴ്‌വരകളും സമുദ്ര വരമ്പുകളും ഏത് ഫലകത്തിന്റെ അതിർത്തിയിലാണ് സംഭവിക്കുന്നത്?",
+        "en": "At which plate boundaries do rift valleys and ocean ridges occur?",
+        "o": {
+            "a": "Convergent",
+            "b": "Divergent",
+            "c": "Transform",
+            "d": "None of the above"
+        },
+        "an": 2
+    },
+    {
+        "ma": "അഗ്നിപർവ്വതത്തിന്റെ മുകളിലെ കപ്പ് അല്ലെങ്കിൽ സോസർ ആകൃതിയിലുള്ള ഡിപ്രഷൻ എന്താണ്?",
+        "en": "What is the upper cup or saucer shaped depression of the volcano called?",
+        "o": {
+            "a": "Vent",
+            "b": "Crater",
+            "c": "Cinder",
+            "d": "Dome"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഭൂമിയിലെ ഏറ്റവും സ്ഫോടനാത്മകമായ അഗ്നിപർവ്വതങ്ങൾ ഏതാണ്?",
+        "en": "Which among the following are the most explosive volcanoes of the Earth?",
+        "o": {
+            "a": "Shield volcanoes",
+            "b": "Composite volcanoes",
+            "c": "Caldera",
+            "d": "Flood Basalt provinces"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്ന ഭൂപ്രകൃതികളിൽ ഏതാണ് മഞ്ഞുപാളികളുമായി ബന്ധപ്പെട്ടിരിക്കുന്നത്?",
+        "en": "Which among the following geomorphic processes is associated with snow patches?",
+        "o": {
+            "a": "Abrasion",
+            "b": "Attrition",
+            "c": "Nivation",
+            "d": "Deflation"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏറ്റവും വലിയ നദീതടം ഏതാണ്?",
+        "en": "Which among the following is the largest river basin?",
+        "o": {
+            "a": "Amazon",
+            "b": "Congo",
+            "c": "Nile",
+            "d": "Mississippi"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വടക്കേ അമേരിക്കയിലെ ഏറ്റവും ആഴമേറിയ തടാകം ഏതാണ്?",
+        "en": "Which is the deepest lake in North America?",
+        "o": {
+            "a": "Great Bear Lake",
+            "b": "Lake Superior",
+            "c": "Lake Ontario",
+            "d": "Great Slave Lake"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ ആൽക്കലൈൻ തടാകം ഏതാണ്?",
+        "en": "Which is the world’s largest alkaline lake?",
+        "o": {
+            "a": "Lake Titicaca",
+            "b": "Lake Superior",
+            "c": "Lake Turcana",
+            "d": "Lake Vostok"
+        },
+        "an": 3
+    },
+    {
+        "ma": "'മാർവെലസ് സിറ്റി' എന്നറിയപ്പെടുന്ന തീരദേശ നഗരം?",
+        "en": "Which coastal city is known as the ‘Marvelous City’?",
+        "o": {
+            "a": "Miami",
+            "b": "New Orleans",
+            "c": "Venice",
+            "d": "Rio de Janeiro"
+        },
+        "an": 4
+    },
+    {
+        "ma": "താഴെപ്പറയുന്നവയിൽ ഏത് മരുഭൂമിയാണ് ഇറാനിൽ സ്ഥിതി ചെയ്യുന്നത്?",
+        "en": "Which among the following deserts is located in Iran?",
+        "o": {
+            "a": "Dasht-e Kavir",
+            "b": "Kyzylkum",
+            "c": "Gobi",
+            "d": "Sonoran"
+        },
+        "an": 1
+    },
+    {
+        "ma": "കാറ്റിന്റെ ദിശയിൽ ഭൂമി ഭ്രമണം ചെയ്യുന്നതിന്റെ ഫലത്തെ എന്ത് വിളിക്കുന്നു?",
+        "en": "What is the effect of rotation of earth on the direction of the winds called?",
+        "o": {
+            "a": "Pressure Gradient Effect",
+            "b": "Coriolis Effect",
+            "c": "Frictional Effect",
+            "d": "Centripetal Effect"
+        },
+        "an": 2
+    },
+    {
+        "ma": "സാമ്പത്തിക കാഴ്ചപ്പാടിൽ ഏറ്റവും പ്രധാനപ്പെട്ട സമുദ്രം ഏതാണ്?",
+        "en": "Which is the most important ocean from the economic point of view?",
+        "o": {
+            "a": "Atlantic",
+            "b": "Pacific",
+            "c": "Arctic",
+            "d": "Indian"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഏറ്റവും പ്രശസ്തമായ കറവപ്പശു, ഹോൾസ്റ്റീൻ-ഫ്രീസിയൻ എവിടെ നിന്നാണ് ഉത്ഭവിച്ചത്?",
+        "en": "Where did the most popular dairy cow, the Holstein-Friesian originate?",
+        "o": {
+            "a": "Netherlands",
+            "b": "Channel Islands",
+            "c": "Switzerland",
+            "d": "Scotland"
+        },
+        "an": 1
+    },
+    {
+        "ma": "താഴെ പറയുന്നവയിൽ ഏത് രാജ്യമാണ് ടിൻ ഉൽപാദനത്തിൽ മുന്നിൽ നിൽക്കുന്നത്",
+        "en": "Which of the following countries lead in the production of tin",
+        "o": {
+            "a": "Malaysia",
+            "b": "USA",
+            "c": "China",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഭൂമിയുടെ ഉപരിതലത്തിൽ ഏറ്റവും കൂടുതലായി കാണപ്പെടുന്ന ലോഹം ഏതാണ്?",
+        "en": "Which metal is most abundantly found on the Earth’s surface?",
+        "o": {
+            "a": "Aluminium",
+            "b": "Zinc",
+            "c": "Silicon",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "താഴെപ്പറയുന്നവയിൽ ഏത് രാജ്യമാണ് ന്യൂസ് പ്രിന്റ് നിർമ്മാണത്തിൽ മുന്നിൽ നിൽക്കുന്നത്?",
+        "en": "Which of the following countries leads in the production of newsprint?",
+        "o": {
+            "a": "Japan",
+            "b": "China",
+            "c": "India",
+            "d": "Canada"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഏറ്റവും കൂടുതൽ വളം ഉത്പാദിപ്പിക്കുന്നത്?",
+        "en": "The largest producer of fertilizer is?",
+        "o": {
+            "a": "China",
+            "b": "Russia",
+            "c": "USA",
+            "d": "India"
+        },
+        "an": 3
+    },
+    {
+        "ma": "താഴെ പറയുന്നവയിൽ ഏതാണ് കരിമ്പ് ഉൽപാദനത്തിൽ മുന്നിൽ നിൽക്കുന്നത്?",
+        "en": "Which of the following countries leads in the production of sugarcane?",
+        "o": {
+            "a": "Brazil",
+            "b": "China",
+            "c": "India",
+            "d": "Spain"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇന്നത്തെ ലോകത്ത് പരമാവധി ഊർജ്ജം നൽകുന്നത്",
+        "en": "The maximum amount of energy in the present day world is provided by",
+        "o": {
+            "a": "Coal",
+            "b": "Atomic Energy",
+            "c": "Hydroelectric power resources",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏറ്റവും കൂടുതൽ ചെമ്പ് ഉത്പാദിപ്പിക്കുന്നത് ഏതാണ്?",
+        "en": "Which of the following is the largest producer of copper?",
+        "o": {
+            "a": "Russia",
+            "b": "China",
+            "c": "Chile",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ സമുദ്രനിരപ്പിൽ നിന്ന് ഏറ്റവും ഉയരമുള്ള തടാകം?",
+        "en": "The highest lake above the sea level in the world is?",
+        "o": {
+            "a": "Lake Titicaca",
+            "b": "Lake Tanzania",
+            "c": "Lake Avernus",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ യുറേനിയം ഉത്പാദിപ്പിക്കുന്നത്?",
+        "en": "The biggest producer of Uranium in the world is?",
+        "o": {
+            "a": "Kazakhstan",
+            "b": "Canada",
+            "c": "China",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്ത് ഏറ്റവും കൂടുതൽ പുകയില ഉത്പാദിപ്പിക്കുന്നത്?",
+        "en": "The largest producer of Tobacco in the world is?",
+        "o": {
+            "a": "USA",
+            "b": "China",
+            "c": "India",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "താഴെപ്പറയുന്നവയിൽ ഏത് രാജ്യമാണ് സിങ്കിന്റെ(Zinc) ഉത്പാദനത്തിൽ മുന്നിൽ നിൽക്കുന്നത്?",
+        "en": "Which of the following countries leads in the production of Zinc?",
+        "o": {
+            "a": "Russia",
+            "b": "Canada",
+            "c": "Germany",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "സൾഫറിന്റെ മുൻനിര നിർമ്മാതാവ്?",
+        "en": "The leading producer of sulphur is?",
+        "o": {
+            "a": "USA",
+            "b": "China",
+            "c": "Italy",
+            "d": "Brazil"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏത് രാജ്യമാണ് നിക്കലിന്റെ(Nickel) ഉത്പാദനത്തിൽ മുന്നിൽ നിൽക്കുന്നത്?",
+        "en": "Which of the following countries leads in the production of Nickel?",
+        "o": {
+            "a": "China",
+            "b": "India",
+            "c": "USA",
+            "d": "Canada"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏതാണ് ലോകത്തിലെ ഏറ്റവും വലിയ കൽക്കരി ഉൽപ്പാദിപ്പിക്കുന്ന രാജ്യം?",
+        "en": "Which of the following countries is the world’s largest producer of coal?",
+        "o": {
+            "a": "China",
+            "b": "USA",
+            "c": "Russia",
+            "d": "India"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ജിബ്രാൾട്ടർ(Gibraltar) അറിയപ്പെടുന്നത്?",
+        "en": "Gibraltar is known as a?",
+        "o": {
+            "a": "Smallest Colony",
+            "b": "Largest Colony",
+            "c": "Least dense colony",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ ഉൾക്കടൽ?",
+        "en": "The largest bay of the world is?",
+        "o": {
+            "a": "San Francisco Bay",
+            "b": "Bay of Biscay",
+            "c": "Hudson Bay",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ ഗൾഫ് ഏതാണ്?",
+        "en": "Which is the largest gulf in the world?",
+        "o": {
+            "a": "Arabian Gulf",
+            "b": "Gulf of Mexico",
+            "c": "Gulf of Oman",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ആഴമേറിയ സമുദ്രം ഏതാണ്?",
+        "en": "Which is the deepest ocean in the world?",
+        "o": {
+            "a": "Arctic Ocean",
+            "b": "Pacific Ocean",
+            "c": "Atlantic Ocean",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ആഴം കുറഞ്ഞ കടൽ ഏതാണ്?",
+        "en": "Which is the shallowest sea of the world?",
+        "o": {
+            "a": "North Sea",
+            "b": "Gulf of St Lawrence",
+            "c": "Gulf of Mexico",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "സെന്റ് ലോറൻസ് ഉൾക്കടലിന്റെ ശരാശരി ആഴം എത്രയാണ്?",
+        "en": "What is the average depth of Gulf of St Lawrence?",
+        "o": {
+            "a": "110 m",
+            "b": "120 m",
+            "c": "130 m",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ബിഗ് ബെൻ, ബ്രിട്ടീഷ് പാർലമെന്റിന്റെ ടവറിൽ ഒരു കൂറ്റൻ ക്ലോക്ക് സ്ഥാപിച്ചത് ഏത് വർഷമാണ്?",
+        "en": "Big Ben, a huge clock on the tower of the British Parliament was installed in the which year?",
+        "o": {
+            "a": "1859",
+            "b": "1852",
+            "c": "1855",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും തണുപ്പുള്ള സ്ഥലം ഏതാണ്?",
+        "en": "Which is the Coldest Place of the world?",
+        "o": {
+            "a": "Verkhoyansk, Russia",
+            "b": "Oymyakon, Russia",
+            "c": "Vostok Station, Antarctica",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വരണ്ട സ്ഥലം ഏതാണ്?",
+        "en": "Which is the driest place of the world?",
+        "o": {
+            "a": "Jacobabad (Pakistan)",
+            "b": "Tripoli (Libya)",
+            "c": "Atacama Desert (Chile)",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും നീളം കൂടിയ റെയിൽ തുരങ്കത്തിന്റെ പേര്?",
+        "en": "Name the longest Rail tunnel of the world?",
+        "o": {
+            "a": "Channel (UK)",
+            "b": "Seikan (Japan)",
+            "c": "Shuttle Endeavour",
+            "d": "None of these"
+        },
+        "an": 2
+    }
+]

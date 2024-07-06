@@ -1,0 +1,1454 @@
+[
+    {
+        "ma": "വിംബിൾഡൺ ഏത് കായിക ഇനത്തിന് പ്രശസ്തമാണ്?",
+        "en": "For what sport is Wimbledon famous?",
+        "o": {
+            "a": "Tennis",
+            "b": "Football",
+            "c": "Cricket",
+            "d": "Ice hockey"
+        },
+        "an": 1
+    },
+    {
+        "ma": "താഴെപ്പറയുന്നവയിൽ ഏതാണ് ഇരു ടീമുകളുടെയും ടീമുകളിൽ ഏറ്റവും കൂടുതൽ പേർ പങ്കെടുക്കുന്നത്?",
+        "en": "Which among the following sports have largest number of participants in teams of either side?",
+        "o": {
+            "a": "Rugby Football",
+            "b": "Water polo",
+            "c": "Baseball",
+            "d": "Soccer"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഒരു ക്രിക്കറ്റ് പിച്ചിന്റെ ഇരുവശത്തുമുള്ള മൂന്ന് സ്റ്റമ്പുകളിൽ എത്ര ബെയിലുകൾ സ്ഥാപിച്ചിട്ടുണ്ട്?",
+        "en": "How many bails are placed on three stumps on either side of a cricket pitch?",
+        "o": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "1"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഒളിമ്പിക്‌സ് മെഡൽ നേടിയ ആദ്യ ഇന്ത്യൻ ബാഡ്മിന്റൺ താരം ആരാണ്?",
+        "en": "Who is the first Indian Badminton Player to win an Olympic Medal?",
+        "o": {
+            "a": "Srikanth Kidambi",
+            "b": "P.V. Sindhu",
+            "c": "P.V. Nehwal",
+            "d": "Saina Nehwal"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഇതിഹാസം 'മുഹമ്മദ് അലി' ഏത് കായിക ഇനമാണ്?",
+        "en": "Which Sport is Performed by the Legend 'Muhammad Ali'?",
+        "o": {
+            "a": "Weight Lifting",
+            "b": "Swiming",
+            "c": "Boxing",
+            "d": "Shooting"
+        },
+        "an": 3
+    },
+    {
+        "ma": "2018 ലെ ഫിഫ ലോകകപ്പ് നേടിയത് ആരാണ്?",
+        "en": "Who won the FIFA World Cup in 2018?",
+        "o": {
+            "a": "France",
+            "b": "Germany",
+            "c": "Portugal",
+            "d": "Uraguay"
+        },
+        "an": 1
+    },
+    {
+        "ma": "എന്താണ് ചൈനയുടെ ദേശീയ കായിക വിനോദം?",
+        "en": "What is the National Sports of China?",
+        "o": {
+            "a": "Table Tennis",
+            "b": "Baseball",
+            "c": "Cricket",
+            "d": "Swimming"
+        },
+        "an": 1
+    },
+    {
+        "ma": "യുഎസ്എയുടെ ദേശീയ ഗെയിം എന്താണ്?",
+        "en": "What is the National Game of the USA?",
+        "o": {
+            "a": "Tennis",
+            "b": "Soccer",
+            "c": "Baseball",
+            "d": "Basket Ball"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ക്രിക്കറ്റ് ദൈവം എന്ന വിളിപ്പേര് ആർക്കാണ് നൽകിയിരിക്കുന്നത്?",
+        "en": "To whom the Nickname 'God of Cricket' is given?",
+        "o": {
+            "a": "Ricky Ponting",
+            "b": "MS Dhoni",
+            "c": "Sachin Tendulkar",
+            "d": "Anil Kumble"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഏറ്റവും കൂടുതൽ ഫിഫ ലോകകപ്പ് നേടിയ രാജ്യം?",
+        "en": "Which Country Won the most FIFA World Cup?",
+        "o": {
+            "a": "Germany",
+            "b": "Argentina",
+            "c": "Brazil",
+            "d": "France"
+        },
+        "an": 3
+    },
+    {
+        "ma": "എന്താണ് ഇന്ത്യയുടെ ദേശീയ ഗെയിം?",
+        "en": "What is the National Game of India?",
+        "o": {
+            "a": "Kabaddi",
+            "b": "Hockey",
+            "c": "Cricket",
+            "d": "Football"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഏത് കായിക ഇനമാണ് റോജർ ഫെഡറർ കളിക്കുന്നത്?",
+        "en": "Which Sport does Roger Federer play?",
+        "o": {
+            "a": "Volleyball",
+            "b": "Tennis",
+            "c": "Table Tennis",
+            "d": "Badminton"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ജപ്പാന്റെ ദേശീയ ഗെയിം എന്താണ്?",
+        "en": "What is the National Game of Japan?",
+        "o": {
+            "a": "Boat Racing",
+            "b": "Wrestling",
+            "c": "Sipa",
+            "d": "Sumo"
+        },
+        "an": 4
+    },
+    {
+        "ma": "സ്പെയിനിന്റെ ദേശീയ ഗെയിം എന്താണ്?",
+        "en": "What is the National Game of Spain?",
+        "o": {
+            "a": "Wrestling",
+            "b": "Football",
+            "c": "Basket Ball",
+            "d": "Baseball"
+        },
+        "an": 2
+    },
+    {
+        "ma": "എന്താണ് ബ്രസീലിന്റെ ദേശീയ കായിക വിനോദം?",
+        "en": "What is the National Sports of Brazil?",
+        "o": {
+            "a": "Football",
+            "b": "Pato",
+            "c": "Capoeira",
+            "d": "Oina"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ന്യൂസിലാന്റിന്റെ ദേശീയ ഗെയിം എന്താണ്?",
+        "en": "What is the National Game of New Zealand?",
+        "o": {
+            "a": "Archery",
+            "b": "Rugby Union",
+            "c": "Cricket",
+            "d": "Golf"
+        },
+        "an": 2
+    },
+    {
+        "ma": "എന്താണ് കാനഡയുടെ ദേശീയ കായിക വിനോദം?",
+        "en": "What is the National Sports of Canada?",
+        "o": {
+            "a": "Cricket",
+            "b": "Ice hockey",
+            "c": "Field Hockey",
+            "d": "Football"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വോളിബോൾ ദേശീയ കായിക വിനോദമായ രാജ്യം ഏതാണ്?",
+        "en": "Which Country has Volleyball as its National Sport?",
+        "o": {
+            "a": "Nepal",
+            "b": "Brazil",
+            "c": "Cuba",
+            "d": "Philippines"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സ്‌നൂക്കർ ഗെയിം എവിടെ നിന്നാണ് ഉത്ഭവിച്ചത്?",
+        "en": "Where did Snooker Game Originate from?",
+        "o": {
+            "a": "Austria",
+            "b": "England",
+            "c": "India",
+            "d": "Wales"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഏത് രാജ്യമാണ് ഫുട്ബോളിനെ സോക്കർ എന്ന് വിളിക്കുന്നത്?",
+        "en": "Which Country calls Football as Soccer?",
+        "o": {
+            "a": "USA",
+            "b": "India",
+            "c": "China",
+            "d": "UK"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഹോക്കിയിലെ കളിക്കാരുടെ എണ്ണം എത്രയാണ്?",
+        "en": "What is the Number of Players in Hockey?",
+        "o": {
+            "a": "10",
+            "b": "11",
+            "c": "12",
+            "d": "9"
+        },
+        "an": 2
+    },
+    {
+        "ma": "എന്താണ് ബംഗ്ലാദേശിന്റെ ദേശീയ കായിക വിനോദം?",
+        "en": "What is the National Sports of Bangladesh?",
+        "o": {
+            "a": "Kabaddi",
+            "b": "Volleyball",
+            "c": "Cricket",
+            "d": "Swimming"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലയണൽ മെസ്സി ഏത് രാജ്യക്കാരനാണ്?",
+        "en": "Which Country does Lionel Messi belong to?",
+        "o": {
+            "a": "PSG",
+            "b": "Argentina",
+            "c": "Portugal",
+            "d": "FC Barcelona"
+        },
+        "an": 2
+    },
+    {
+        "ma": "എന്താണ് രഞ്ജി ട്രോഫി ടൂർണമെന്റ്?",
+        "en": "What is Ranji Trophy Tournament?",
+        "o": {
+            "a": "Volleyball",
+            "b": "Kabaddi",
+            "c": "Football",
+            "d": "Cricket"
+        },
+        "an": 4
+    },
+    {
+        "ma": "എത്ര വർഷങ്ങൾക്ക് ശേഷമാണ് ഒളിമ്പിക് ഗെയിംസ് നടക്കുന്നത്?",
+        "en": "After how many Years the Olympic Games are held?",
+        "o": {
+            "a": "3 Years",
+            "b": "4 Years",
+            "c": "2 Years",
+            "d": "1 Year"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഒളിമ്പിക് പതാകയിലെ 5 വളയങ്ങൾ എന്തിനെ പ്രതിനിധീകരിക്കുന്നു?",
+        "en": "What do the 5 Rings in the Olympic Flag represent?",
+        "o": {
+            "a": "5 Cities Of The World",
+            "b": "5 Countries Of The World",
+            "c": "5 Continents Of The World",
+            "d": "5 Sports Of The World"
+        },
+        "an": 3
+    },
+    {
+        "ma": "2028 ഒളിമ്പിക് ഗെയിംസിന് ആതിഥേയത്വം വഹിക്കുന്ന നഗരം ഏതാണ്?",
+        "en": "Which City will host the 2028 Olympic Games?",
+        "o": {
+            "a": "London",
+            "b": "Los Angeles",
+            "c": "Paris",
+            "d": "Beijing"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ചന്ദ്രനിൽ ആദ്യമായി കളിച്ച കായികം ഏതാണ്?",
+        "en": "Which was the first Sport played on the Moon?",
+        "o": {
+            "a": "Golf",
+            "b": "Tennis",
+            "c": "Badminton",
+            "d": "Archery"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഒരു ഫുട്ബോൾ മത്സരത്തിൽ എത്ര മിനിറ്റിന് ശേഷം ഹാഫ് ടൈം ആരംഭിക്കുന്നു?",
+        "en": "After how many Minutes Half Time starts in a Football match?",
+        "o": {
+            "a": "30 Mins",
+            "b": "39 Mins",
+            "c": "45 Mins",
+            "d": "40 Mins"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഒരു ക്രിക്കറ്റ് മത്സരത്തിൽ എത്ര അമ്പയർമാരുണ്ട്?",
+        "en": "How many Umpires are there in a Cricket Match?",
+        "o": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "an": 2
+    },
+    {
+        "ma": "'ജല്ലിക്കട്ട്' കായികം ഏത് രാജ്യത്തിന്റേതാണ്?",
+        "en": "The Sport 'Jallikattu' belongs to which Country?",
+        "o": {
+            "a": "China",
+            "b": "India",
+            "c": "Sri Lanka",
+            "d": "Bangladesh"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഭൂട്ടാന്റെ ദേശീയ കായിക വിനോദം ഏതാണ്?",
+        "en": "What is the National Sport of Bhutan?",
+        "o": {
+            "a": "Volleyball",
+            "b": "Tennis",
+            "c": "Archery",
+            "d": "Badminton"
+        },
+        "an": 1
+    },
+    {
+        "ma": "നമ്മുടെ സൗരയൂഥത്തിലെ ഏറ്റവും ചെറിയ ഗ്രഹം ഏതാണ്?",
+        "en": "What is the smallest planet in our solar system?",
+        "o": {
+            "a": "Mercury",
+            "b": "Venus",
+            "c": "Earth",
+            "d": "Mars"
+        },
+        "an": 1
+    },
+    {
+        "ma": "നമ്മുടെ സൗരയൂഥത്തിലെ ഏറ്റവും വലിയ ഗ്രഹമേത്?",
+        "en": "What is the largest planet in our solar system?",
+        "o": {
+            "a": "Mercury",
+            "b": "Venus",
+            "c": "Earth",
+            "d": "Jupiter"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഭൂമിയുടെ അന്തരീക്ഷത്തിൽ ഏറ്റവും കൂടുതലുള്ള വാതകം ഏതാണ്?",
+        "en": "What is the most abundant gas in Earth's atmosphere?",
+        "o": {
+            "a": "Nitrogen",
+            "b": "Oxygen",
+            "c": "Carbon Dioxide",
+            "d": "Methane"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സസ്യങ്ങളിലെ ഫോട്ടോസിന്തസിസ് പ്രക്രിയയെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the process of photosynthesis in plants called?",
+        "o": {
+            "a": "Cellular Respiration",
+            "b": "Fermentation",
+            "c": "Photosynthesis",
+            "d": "Metabolism"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഭക്ഷണത്തെ ഊർജ്ജമാക്കി മാറ്റുന്ന പ്രക്രിയയെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the process of breaking down food into energy called?",
+        "o": {
+            "a": "Digestion",
+            "b": "Cellular Respiration",
+            "c": "Fermentation",
+            "d": "Metabolism"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ജനിതക വസ്തുക്കൾ അടങ്ങിയ കോശങ്ങളിലെ ഘടനയെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the structure in cells that contains genetic material called?",
+        "o": {
+            "a": "Nucleus",
+            "b": "Mitochondria",
+            "c": "Ribosome",
+            "d": "Endoplasmic Reticulum"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ജീവജാലങ്ങൾക്ക് ഊർജ്ജത്തിന്റെ പ്രധാന ഉറവിടം ഏതാണ്?",
+        "en": "What is the main source of energy for living organisms?",
+        "o": {
+            "a": "Glucose",
+            "b": "Fat",
+            "c": "Protein",
+            "d": "Carbohydrates"
+        },
+        "an": 1
+    },
+    {
+        "ma": "കോശവിഭജന പ്രക്രിയയെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the process of cell division called?",
+        "o": {
+            "a": "Mitosis",
+            "b": "Meiosis",
+            "c": "Fertilization",
+            "d": "Embryogenesis"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സന്താനങ്ങളെ ഉൽപ്പാദിപ്പിക്കുന്ന പ്രക്രിയയെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the process of producing offspring called?",
+        "o": {
+            "a": "Reproduction",
+            "b": "Regeneration",
+            "c": "Metamorphosis",
+            "d": "Transformation"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഒരു തലമുറയിൽ നിന്ന് മറ്റൊന്നിലേക്ക് സ്വഭാവവിശേഷങ്ങൾ കൈമാറുന്ന പ്രക്രിയയെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the process of passing traits from one generation to another called?",
+        "o": {
+            "a": "Evolution",
+            "b": "Heredity",
+            "c": "Natural Selection",
+            "d": "Adaptation"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ജീവജാലങ്ങളെയും അവയുടെ പരസ്പര ബന്ധത്തെയും പരിസ്ഥിതിയെയും കുറിച്ചുള്ള പഠനത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the study of living organisms and their relationships with each other and their environment?",
+        "o": {
+            "a": "Biology",
+            "b": "Zoology",
+            "c": "Botany",
+            "d": "Ecology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഭൂമിയുടെ ഭൗതികവും പ്രകൃതിദത്തവുമായ പ്രതിഭാസങ്ങളെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the physical and natural phenomena of the Earth called?",
+        "o": {
+            "a": "Geology",
+            "b": "Paleontology",
+            "c": "Meteorology",
+            "d": "Hydrology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ജീവജാലങ്ങളുടെ പെരുമാറ്റത്തെയും മാനസിക പ്രക്രിയകളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and mental processes of living organisms called?",
+        "o": {
+            "a": "Psychology",
+            "b": "Sociology",
+            "c": "Anthropology",
+            "d": "Economics"
+        },
+        "an": 1
+    },
+    {
+        "ma": "മനുഷ്യ ശരീരത്തിന്റെ ഘടനയെയും പ്രവർത്തനത്തെയും കുറിച്ചുള്ള പഠനത്തിന്റെ പേര്?",
+        "en": "What is the study of the structure and function of the human body called?",
+        "o": {
+            "a": "Anatomy",
+            "b": "Physiology",
+            "c": "Pathology",
+            "d": "Immunology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ദ്രവ്യത്തെയും ഊർജ്ജത്തെയും അവ തമ്മിലുള്ള പ്രതിപ്രവർത്തനത്തെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of matter and energy and the interactions between them called?",
+        "o": {
+            "a": "Physics",
+            "b": "Chemistry",
+            "c": "Biology",
+            "d": "Mathematics"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഭൂമിയുടെ അന്തരീക്ഷത്തെയും കാലാവസ്ഥയെയും കുറിച്ചുള്ള പഠനത്തിന്റെ പേര്?",
+        "en": "What is the study of the Earth's atmosphere and weather patterns called?",
+        "o": {
+            "a": "Meteorology",
+            "b": "Geology",
+            "c": "Oceanography",
+            "d": "Hydrology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഭൂമിയിലെ സമുദ്രങ്ങളെ കുറിച്ചുള്ള പഠനത്തിന്റെ പേര്?",
+        "en": "What is the study of the Earth's oceans called?",
+        "o": {
+            "a": "Oceanography",
+            "b": "Geology",
+            "c": "Meteorology",
+            "d": "Hydrology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഫോസിലുകളെയും പ്രാചീന ജീവരൂപങ്ങളെയും കുറിച്ചുള്ള പഠനത്തിന്റെ പേര്?",
+        "en": "What is the study of fossils and ancient life forms called?",
+        "o": {
+            "a": "Paleontology",
+            "b": "Archaeology",
+            "c": "Geology",
+            "d": "Botany"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സസ്യങ്ങളെക്കുറിച്ചുള്ള പഠനത്തിന്റെ പേര്?",
+        "en": "What is the study of plants called?",
+        "o": {
+            "a": "Botany",
+            "b": "Zoology",
+            "c": "Paleontology",
+            "d": "Ecology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "മൃഗങ്ങളെക്കുറിച്ചുള്ള പഠനത്തിന്റെ പേര് എന്താണ്?",
+        "en": "What is the study of animals called?",
+        "o": {
+            "a": "Botany",
+            "b": "Zoology",
+            "c": "Paleontology",
+            "d": "Ecology"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ജീവജാലങ്ങളുടെ വിതരണത്തെയും സമൃദ്ധിയെയും അവയുടെ പരിസ്ഥിതിയുമായുള്ള അവയുടെ ഇടപെടലിനെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the distribution and abundance of living organisms and their interactions with their environment called?",
+        "o": {
+            "a": "Botany",
+            "b": "Zoology",
+            "c": "Paleontology",
+            "d": "Ecology"
+        },
+        "an": 4
+    },
+    {
+        "ma": "സൂക്ഷ്മാണുക്കളെയും മറ്റ് ജീവജാലങ്ങളുമായുള്ള അവയുടെ ബന്ധത്തെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of microorganisms and their relationship with other living organisms called?",
+        "o": {
+            "a": "Microbiology",
+            "b": "Immunology",
+            "c": "Pathology",
+            "d": "Anatomy"
+        },
+        "an": 1
+    },
+    {
+        "ma": "രോഗപ്രതിരോധ വ്യവസ്ഥയെയും രോഗങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the immune system and diseases called?",
+        "o": {
+            "a": "Microbiology",
+            "b": "Immunology",
+            "c": "Pathology",
+            "d": "Anatomy"
+        },
+        "an": 2
+    },
+    {
+        "ma": "രോഗങ്ങളെയും അവയുടെ കാരണങ്ങളെയും പ്രക്രിയകളെയും ചികിത്സകളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of diseases and their causes, processes, and treatments called?",
+        "o": {
+            "a": "Microbiology",
+            "b": "Immunology",
+            "c": "Pathology",
+            "d": "Anatomy"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ജീവജാലങ്ങളും അവയുടെ ഭൗതികവും രാസപരവുമായ പരിതസ്ഥിതികൾ തമ്മിലുള്ള പ്രതിപ്രവർത്തനങ്ങളെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the interactions between organisms and their physical and chemical environment called?",
+        "o": {
+            "a": "Hydrology",
+            "b": "Meteorology",
+            "c": "Oceanography",
+            "d": "Ecology"
+        },
+        "an": 4
+    },
+    {
+        "ma": "പ്രകാശത്തിന്റെ സ്വഭാവത്തെയും സ്വഭാവത്തെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the properties and behavior of light called?",
+        "o": {
+            "a": "Optics",
+            "b": "Photonics",
+            "c": "Electromagnetism",
+            "d": "Acoustics"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ശബ്ദത്തിന്റെ സ്വഭാവത്തെയും സ്വഭാവത്തെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the properties and behavior of sound called?",
+        "o": {
+            "a": "Optics",
+            "b": "Photonics",
+            "c": "Electromagnetism",
+            "d": "Acoustics"
+        },
+        "an": 4
+    },
+    {
+        "ma": "കാന്തിക മണ്ഡലങ്ങളും വൈദ്യുത പ്രവാഹങ്ങളും തമ്മിലുള്ള പ്രതിപ്രവർത്തനത്തെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the interaction between magnetic fields and electric currents called?",
+        "o": {
+            "a": "Optics",
+            "b": "Photonics",
+            "c": "Electromagnetism",
+            "d": "Acoustics"
+        },
+        "an": 3
+    },
+    {
+        "ma": "പ്രകാശത്തിന്റെ ഉത്പാദനം, നിയന്ത്രണം, കൃത്രിമത്വം എന്നിവയെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the generation, control, and manipulation of light called?",
+        "o": {
+            "a": "Optics",
+            "b": "Photonics",
+            "c": "Electromagnetism",
+            "d": "Acoustics"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഊർജ്ജത്തെ പദാർത്ഥമാക്കി മാറ്റുന്ന പ്രക്രിയയെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the process of turning energy into matter called?",
+        "o": {
+            "a": "Annihilation",
+            "b": "Fusion",
+            "c": "Fission",
+            "d": "Antimatter"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ആറ്റോമിക് ന്യൂക്ലിയസുകളെ വിഭജിച്ച് ഊർജ്ജം പുറത്തുവിടുന്ന പ്രക്രിയയെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the process of releasing energy by splitting atomic nuclei called?",
+        "o": {
+            "a": "Annihilation",
+            "b": "Fusion",
+            "c": "Fission",
+            "d": "Antimatter"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ആറ്റോമിക് ന്യൂക്ലിയസുമായി ചേർന്ന് ഊർജ്ജം പുറത്തുവിടുന്ന പ്രക്രിയയെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the process of releasing energy by joining atomic nuclei called?",
+        "o": {
+            "a": "Annihilation",
+            "b": "Fusion",
+            "c": "Fission",
+            "d": "Antimatter"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഒരു ഉപ ആറ്റോമിക് തലത്തിൽ ദ്രവ്യത്തിന്റെയും ഊർജ്ജത്തിന്റെയും സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of matter and energy at a subatomic level called?",
+        "o": {
+            "a": "Quantum Mechanics",
+            "b": "Astrophysics",
+            "c": "Particle Physics",
+            "d": "Thermodynamics"
+        },
+        "an": 1
+    },
+    {
+        "ma": "നക്ഷത്രങ്ങളുടേയും ഗാലക്സികളുടേയും ഭൗതിക സവിശേഷതകളെയും സ്വഭാവങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the physical properties and behavior of stars and galaxies called?",
+        "o": {
+            "a": "Quantum Mechanics",
+            "b": "Astrophysics",
+            "c": "Particle Physics",
+            "d": "Thermodynamics"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഊഷ്മാവ്, ചൂട് എന്നിവയുമായി ബന്ധപ്പെട്ട ദ്രവ്യത്തിന്റെയും ഊർജത്തിന്റെയും സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of matter and energy related to temperature and heat called?",
+        "o": {
+            "a": "Quantum Mechanics",
+            "b": "Astrophysics",
+            "c": "Particle Physics",
+            "d": "Thermodynamics"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ദ്രവ്യത്തിന്റെയും ഊർജത്തിന്റെയും അടിസ്ഥാന നിർമാണ ബ്ലോക്കുകളെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the fundamental building blocks of matter and energy called?",
+        "o": {
+            "a": "Quantum Mechanics",
+            "b": "Astrophysics",
+            "c": "Particle Physics",
+            "d": "Thermodynamics"
+        },
+        "an": 3
+    },
+    {
+        "ma": "വസ്തുക്കളുടെ സ്വഭാവവും സ്വഭാവവും വിവിധ ശക്തികളുമായും പ്രതിഭാസങ്ങളുമായും ഉള്ള ബന്ധങ്ങളെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of materials and their relationships with various forces and phenomena called?",
+        "o": {
+            "a": "Mechanics",
+            "b": "Materials Science",
+            "c": "Nanotechnology",
+            "d": "Polymer Science"
+        },
+        "an": 2
+    },
+    {
+        "ma": "നാനോ സ്കെയിൽ തലത്തിലുള്ള വസ്തുക്കളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of materials at a nanoscale level called?",
+        "o": {
+            "a": "Mechanics",
+            "b": "Materials Science",
+            "c": "Nanotechnology",
+            "d": "Polymer Science"
+        },
+        "an": 3
+    },
+    {
+        "ma": "പോളിമെറിക് മെറ്റീരിയലുകളുടെയും അവയുടെ പ്രയോഗങ്ങളുടെയും സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of polymeric materials and their applications called?",
+        "o": {
+            "a": "Mechanics",
+            "b": "Materials Science",
+            "c": "Nanotechnology",
+            "d": "Polymer Science"
+        },
+        "an": 4
+    },
+    {
+        "ma": "എഞ്ചിനീയറിംഗ് തത്വങ്ങളെയും സാങ്കേതികതകളെയും കുറിച്ചുള്ള പഠനത്തെയും ഘടനകളുടെയും യന്ത്രങ്ങളുടെയും സംവിധാനങ്ങളുടെയും രൂപകൽപ്പനയെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the principles and techniques of engineering and design of structures, machines, and systems called?",
+        "o": {
+            "a": "Mechanical Engineering",
+            "b": "Electrical Engineering",
+            "c": "Civil Engineering",
+            "d": "Chemical Engineering"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇലക്ട്രിക്കൽ സിസ്റ്റങ്ങളുടെയും ഉപകരണങ്ങളുടെയും എഞ്ചിനീയറിംഗിന്റെയും രൂപകൽപ്പനയുടെയും തത്വങ്ങളെയും സാങ്കേതികതകളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the principles and techniques of engineering and design of electrical systems and equipment called?",
+        "o": {
+            "a": "Mechanical Engineering",
+            "b": "Electrical Engineering",
+            "c": "Civil Engineering",
+            "d": "Chemical Engineering"
+        },
+        "an": 2
+    },
+    {
+        "ma": "കെട്ടിടങ്ങൾ, റോഡുകൾ, പാലങ്ങൾ, മറ്റ് അടിസ്ഥാന സൗകര്യങ്ങൾ എന്നിവയുടെ എഞ്ചിനീയറിംഗിന്റെയും രൂപകൽപ്പനയുടെയും തത്വങ്ങളെയും സാങ്കേതികതകളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the principles and techniques of engineering and design of buildings, roads, bridges, and other infrastructure called?",
+        "o": {
+            "a": "Mechanical Engineering",
+            "b": "Electrical Engineering",
+            "c": "Civil Engineering",
+            "d": "Chemical Engineering"
+        },
+        "an": 3
+    },
+    {
+        "ma": "കെമിക്കൽ പ്രക്രിയകളുടെയും ഉപകരണങ്ങളുടെയും എഞ്ചിനീയറിംഗിന്റെയും രൂപകൽപ്പനയുടെയും തത്വങ്ങളെയും സാങ്കേതികതകളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the principles and techniques of engineering and design of chemical processes and equipment called?",
+        "o": {
+            "a": "Mechanical Engineering",
+            "b": "Electrical Engineering",
+            "c": "Civil Engineering",
+            "d": "Chemical Engineering"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ദ്രാവകങ്ങൾ, വാതകങ്ങൾ, പ്ലാസ്മ എന്നിവയുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of liquids, gases, and plasmas called?",
+        "o": {
+            "a": "Fluid Mechanics",
+            "b": "Thermodynamics",
+            "c": "Heat Transfer",
+            "d": "Combustion Science"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഊഷ്മാവ്, ചൂട് എന്നിവയുമായി ബന്ധപ്പെട്ട് ദ്രവ്യത്തിന്റെയും ഊർജത്തിന്റെയും സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of matter and energy in relation to temperature and heat called?",
+        "o": {
+            "a": "Fluid Mechanics",
+            "b": "Thermodynamics",
+            "c": "Heat Transfer",
+            "d": "Combustion Science"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഒരു ശരീരത്തിൽ നിന്ന് മറ്റൊന്നിലേക്ക് താപം കൈമാറുന്നതിനെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the transfer of heat from one body to another called?",
+        "o": {
+            "a": "Fluid Mechanics",
+            "b": "Thermodynamics",
+            "c": "Heat Transfer",
+            "d": "Combustion Science"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഇന്ധനങ്ങളുടെയും ജ്വലന പ്രക്രിയകളുടെയും സ്വഭാവത്തെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior of fuels and combustion processes called?",
+        "o": {
+            "a": "Fluid Mechanics",
+            "b": "Thermodynamics",
+            "c": "Heat Transfer",
+            "d": "Combustion Science"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഖരവസ്തുക്കളുടെ സ്വഭാവത്തെയും അവയുടെ മെക്കാനിക്കൽ ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior of solids and their mechanical properties called?",
+        "o": {
+            "a": "Strength of Materials",
+            "b": "Materials Science",
+            "c": "Solid Mechanics",
+            "d": "Nanotechnology"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഭാരത്തിലും സമ്മർദ്ദത്തിലും ഉള്ള വസ്തുക്കളുടെ സ്വഭാവത്തെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior of materials under load and stress called?",
+        "o": {
+            "a": "Strength of Materials",
+            "b": "Materials Science",
+            "c": "Solid Mechanics",
+            "d": "Nanotechnology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഭൂകമ്പസമയത്ത് പ്രകൃതിദത്തവും മനുഷ്യനിർമ്മിതവുമായ ഘടനകളുടെയും സംവിധാനങ്ങളുടെയും സ്വഭാവത്തെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior of natural and man-made structures and systems during earthquakes called?",
+        "o": {
+            "a": "Seismology",
+            "b": "Structural Engineering",
+            "c": "Earthquake Engineering",
+            "d": "Geotechnical Engineering"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഭൂകമ്പങ്ങളും അഗ്നിപർവ്വത പ്രവർത്തനങ്ങളും ഉൾപ്പെടെ ഭൂമിയുടെ ആന്തരിക സ്വഭാവത്തെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior of the Earth's interior, including earthquakes and volcanic activity called?",
+        "o": {
+            "a": "Seismology",
+            "b": "Structural Engineering",
+            "c": "Earthquake Engineering",
+            "d": "Geotechnical Engineering"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോഡുകളിലും പാരിസ്ഥിതിക സാഹചര്യങ്ങളിലും പ്രകൃതിദത്തവും മനുഷ്യനിർമ്മിതവുമായ ഘടനകളുടെയും സിസ്റ്റങ്ങളുടെയും സ്വഭാവത്തെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior of natural and man-made structures and systems under loads and environmental conditions called?",
+        "o": {
+            "a": "Seismology",
+            "b": "Structural Engineering",
+            "c": "Earthquake Engineering",
+            "d": "Geotechnical Engineering"
+        },
+        "an": 2
+    },
+    {
+        "ma": "മണ്ണിന്റെയും പാറകളുടെയും സ്വഭാവത്തെക്കുറിച്ചും ഘടനകളുമായും സംവിധാനങ്ങളുമായും അവയുടെ പ്രതിപ്രവർത്തനത്തെക്കുറിച്ചുമുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior of soils and rocks, and their interaction with structures and systems called?",
+        "o": {
+            "a": "Seismology",
+            "b": "Structural Engineering",
+            "c": "Earthquake Engineering",
+            "d": "Geotechnical Engineering"
+        },
+        "an": 4
+    },
+    {
+        "ma": "പ്രകാശത്തിന്റെയും വൈദ്യുതകാന്തിക വികിരണത്തിന്റെയും സ്വഭാവത്തെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior of light and electromagnetic radiation called?",
+        "o": {
+            "a": "Optics",
+            "b": "Photonics",
+            "c": "Electromagnetics",
+            "d": "Electrodynamics"
+        },
+        "an": 1
+    },
+    {
+        "ma": "പ്രകാശത്തിന്റെയും വൈദ്യുതകാന്തിക വികിരണത്തിന്റെയും അവയുടെ പ്രയോഗങ്ങളുടെയും സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of light and electromagnetic radiation and their applications called?",
+        "o": {
+            "a": "Optics",
+            "b": "Photonics",
+            "c": "Electromagnetics",
+            "d": "Electrodynamics"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വൈദ്യുത, ​​കാന്തിക മണ്ഡലങ്ങളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും അവയുടെ പരസ്പരവും വസ്തുക്കളുമായുള്ള ഇടപെടലുകളെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of electric and magnetic fields and their interactions with each other and with materials called?",
+        "o": {
+            "a": "Optics",
+            "b": "Photonics",
+            "c": "Electromagnetics",
+            "d": "Electrodynamics"
+        },
+        "an": 3
+    },
+    {
+        "ma": "വൈദ്യുത, ​​കാന്തിക മണ്ഡലങ്ങളുടെ സ്വഭാവത്തെയും ചാർജിത കണങ്ങളുമായുള്ള അവയുടെ പ്രതിപ്രവർത്തനത്തെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior of electric and magnetic fields and their interactions with charged particles called?",
+        "o": {
+            "a": "Optics",
+            "b": "Photonics",
+            "c": "Electromagnetics",
+            "d": "Electrodynamics"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ക്വാണ്ടം സിസ്റ്റങ്ങളുടെയും അവയുടെ പ്രയോഗങ്ങളുടെയും സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of quantum systems and their applications called?",
+        "o": {
+            "a": "Quantum Mechanics",
+            "b": "Quantum Physics",
+            "c": "Quantum Computing",
+            "d": "Quantum Information Science"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ക്വാണ്ടം സിസ്റ്റങ്ങളുടെ സ്വഭാവത്തെയും സവിശേഷതകളെയും ഭൗതിക ലോകവുമായുള്ള അവയുടെ ഇടപെടലുകളെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of quantum systems and their interactions with the physical world called?",
+        "o": {
+            "a": "Quantum Mechanics",
+            "b": "Quantum Physics",
+            "c": "Quantum Computing",
+            "d": "Quantum Information Science"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ക്വാണ്ടം മെക്കാനിക്‌സിന്റെ തത്വങ്ങളെ അടിസ്ഥാനമാക്കി കമ്പ്യൂട്ടറുകളുടെയും കമ്പ്യൂട്ടർ സിസ്റ്റങ്ങളുടെയും രൂപകൽപ്പന, വികസനം, ഉപയോഗം എന്നിവയെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the design, development, and use of computers and computer systems based on the principles of quantum mechanics called?",
+        "o": {
+            "a": "Quantum Mechanics",
+            "b": "Quantum Physics",
+            "c": "Quantum Computing",
+            "d": "Quantum Information Science"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ക്വാണ്ടം സിസ്റ്റങ്ങളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും വിവര സംസ്കരണത്തിനും ആശയവിനിമയത്തിനും ഉപയോഗിക്കുന്നതിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of quantum systems and their use for information processing and communication called?",
+        "o": {
+            "a": "Quantum Mechanics",
+            "b": "Quantum Physics",
+            "c": "Quantum Computing",
+            "d": "Quantum Information Science"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഭൂമിയുടെ അന്തരീക്ഷത്തിന്റെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും മനുഷ്യ പ്രവർത്തനത്തിന്റെ ഫലങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the Earth's atmosphere and the effects of human activity on it called?",
+        "o": {
+            "a": "Meteorology",
+            "b": "Climatology",
+            "c": "Atmospheric Science",
+            "d": "Environmental Science"
+        },
+        "an": 3
+    },
+    {
+        "ma": "കാലാവസ്ഥയുടെയും കാലാവസ്ഥാ പാറ്റേണുകളുടെയും സ്വഭാവത്തെയും സവിശേഷതകളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of weather and weather patterns called?",
+        "o": {
+            "a": "Meteorology",
+            "b": "Climatology",
+            "c": "Atmospheric Science",
+            "d": "Environmental Science"
+        },
+        "an": 1
+    },
+    {
+        "ma": "കാലാവസ്ഥയുടെയും കാലാവസ്ഥാ പാറ്റേണുകളുടെയും സ്വഭാവത്തെയും സവിശേഷതകളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of climates and climate patterns called?",
+        "o": {
+            "a": "Meteorology",
+            "b": "Climatology",
+            "c": "Atmospheric Science",
+            "d": "Environmental Science"
+        },
+        "an": 2
+    },
+    {
+        "ma": "പരിസ്ഥിതിയുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും അതിൽ മനുഷ്യന്റെ പ്രവർത്തനത്തിന്റെ ഫലങ്ങളെയും കുറിച്ച് എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the environment and the effects of human activity on it called?",
+        "o": {
+            "a": "Meteorology",
+            "b": "Climatology",
+            "c": "Atmospheric Science",
+            "d": "Environmental Science"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ദ്രവ്യത്തിന്റെയും ഊർജത്തിന്റെയും സ്വഭാവവും ഗുണങ്ങളും അവയുടെ ഇടപെടലുകളും പഠിക്കുന്നതിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of matter and energy and their interactions called?",
+        "o": {
+            "a": "Physics",
+            "b": "Chemistry",
+            "c": "Biology",
+            "d": "Geology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "രാസവസ്തുക്കളുടെ സ്വഭാവത്തെയും സ്വഭാവത്തെയും അവയുടെ പ്രതിപ്രവർത്തനങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of chemical substances and their reactions called?",
+        "o": {
+            "a": "Physics",
+            "b": "Chemistry",
+            "c": "Biology",
+            "d": "Geology"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ജീവജാലങ്ങളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും അവയുടെ പരസ്പരവും അവയുടെ പരിസ്ഥിതിയുമായുള്ള ഇടപെടലും എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of living organisms and their interactions with each other and with their environment called?",
+        "o": {
+            "a": "Physics",
+            "b": "Chemistry",
+            "c": "Biology",
+            "d": "Geology"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഭൂമിയുടെ സ്വഭാവവും ഗുണങ്ങളും, പാറകളും ധാതുക്കളും, ഭൂമിശാസ്ത്രപരമായ ഘടനകളും പ്രക്രിയകളും സംബന്ധിച്ച പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the Earth, its rocks and minerals, and its geological structures and processes called?",
+        "o": {
+            "a": "Physics",
+            "b": "Chemistry",
+            "c": "Biology",
+            "d": "Geology"
+        },
+        "an": 4
+    },
+    {
+        "ma": "സസ്യങ്ങളുടെ സ്വഭാവവും സ്വഭാവവും പരിസ്ഥിതിയുമായുള്ള അവയുടെ ഇടപെടലുകളും പഠിക്കുന്നതിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of plants and their interactions with the environment called?",
+        "o": {
+            "a": "Botany",
+            "b": "Zoology",
+            "c": "Microbiology",
+            "d": "Ecology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "മൃഗങ്ങളുടെ സ്വഭാവത്തെയും സ്വഭാവത്തെയും കുറിച്ചുള്ള പഠനത്തെയും അവയുടെ പരസ്പരവും അവയുടെ പരിസ്ഥിതിയുമായുള്ള ഇടപെടലുകളും എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of animals and their interactions with each other and with their environment called?",
+        "o": {
+            "a": "Botany",
+            "b": "Zoology",
+            "c": "Microbiology",
+            "d": "Ecology"
+        },
+        "an": 2
+    },
+    {
+        "ma": "സൂക്ഷ്മാണുക്കളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും അവയുടെ പരസ്പരവും അവയുടെ പരിസ്ഥിതിയുമായുള്ള ഇടപെടലുകളും എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of microorganisms and their interactions with each other and with their environment called?",
+        "o": {
+            "a": "Botany",
+            "b": "Zoology",
+            "c": "Microbiology",
+            "d": "Ecology"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ആവാസവ്യവസ്ഥകളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും അവയുടെ പരസ്പരവും പരിസ്ഥിതിയുമായുള്ള ഇടപെടലുകളെപ്പറ്റിയുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of ecosystems and their interactions with each other and with the environment called?",
+        "o": {
+            "a": "Botany",
+            "b": "Zoology",
+            "c": "Microbiology",
+            "d": "Ecology"
+        },
+        "an": 4
+    },
+    {
+        "ma": "മനുഷ്യ ശരീരത്തിന്റെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും അതിന്റെ പ്രവർത്തനങ്ങളെയും സിസ്റ്റങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the human body and its functions and systems called?",
+        "o": {
+            "a": "Anatomy",
+            "b": "Physiology",
+            "c": "Neuroscience",
+            "d": "Human Biology"
+        },
+        "an": 2
+    },
+    {
+        "ma": "മനുഷ്യ ശരീരത്തിന്റെയും അതിന്റെ ഭാഗങ്ങളുടെയും ഘടനയെയും ഓർഗനൈസേഷനെയും കുറിച്ചുള്ള പഠനം എന്താണ്?",
+        "en": "What is the study of the structure and organization of the human body and its parts called?",
+        "o": {
+            "a": "Anatomy",
+            "b": "Physiology",
+            "c": "Neuroscience",
+            "d": "Human Biology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "നാഡീവ്യവസ്ഥയുടെയും മസ്തിഷ്കത്തിന്റെയും സ്വഭാവവും ഗുണങ്ങളും അവയുടെ പ്രവർത്തനങ്ങളും പ്രക്രിയകളും പഠിക്കുന്നതിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the nervous system and the brain and their functions and processes called?",
+        "o": {
+            "a": "Anatomy",
+            "b": "Physiology",
+            "c": "Neuroscience",
+            "d": "Human Biology"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ജീവശാസ്ത്രപരവും വൈദ്യശാസ്ത്രപരവുമായ പശ്ചാത്തലത്തിൽ മനുഷ്യശരീരത്തിന്റെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും അതിന്റെ പ്രവർത്തനങ്ങളെയും പ്രക്രിയകളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the human body and its functions and processes in a biological and medical context called?",
+        "o": {
+            "a": "Anatomy",
+            "b": "Physiology",
+            "c": "Neuroscience",
+            "d": "Human Biology"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഊർജ്ജം, ശക്തികൾ, ചലനം എന്നിവയുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും അവയുടെ ഇടപെടലുകളെയും പരിവർത്തനങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of energy, forces, and motion and their interactions and transformations called?",
+        "o": {
+            "a": "Mechanics",
+            "b": "Electromagnetism",
+            "c": "Thermodynamics",
+            "d": "Quantum Mechanics"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വൈദ്യുത കാന്തിക മണ്ഡലങ്ങളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചും ചാർജ്ജ് ചെയ്ത കണികകളുമായും വസ്തുക്കളുമായും ഉള്ള അവയുടെ പ്രതിപ്രവർത്തനത്തെ കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of electric and magnetic fields and their interactions with charged particles and materials called?",
+        "o": {
+            "a": "Mechanics",
+            "b": "Electromagnetism",
+            "c": "Thermodynamics",
+            "d": "Quantum Mechanics"
+        },
+        "an": 2
+    },
+    {
+        "ma": "താപത്തിന്റെയും താപനിലയുടെയും സ്വഭാവത്തെയും ഗുണങ്ങളെയും അവയുടെ പ്രതിപ്രവർത്തനങ്ങളെയും പരിവർത്തനങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of heat and temperature and their interactions and transformations called?",
+        "o": {
+            "a": "Mechanics",
+            "b": "Electromagnetism",
+            "c": "Thermodynamics",
+            "d": "Quantum Mechanics"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ക്വാണ്ടം സിസ്റ്റങ്ങളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചും അവയുടെ ഇടപെടലുകളെയും പരിവർത്തനങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of quantum systems and their interactions and transformations called?",
+        "o": {
+            "a": "Mechanics",
+            "b": "Electromagnetism",
+            "c": "Thermodynamics",
+            "d": "Quantum Mechanics"
+        },
+        "an": 4
+    },
+    {
+        "ma": "പ്രകാശത്തിന്റെയും വൈദ്യുതകാന്തിക വികിരണത്തിന്റെയും സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും വസ്തുക്കളുമായും പരിസ്ഥിതിയുമായുള്ള അവയുടെ ഇടപെടലുകളെക്കുറിച്ചും എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of light and electromagnetic radiation and their interactions with materials and the environment called?",
+        "o": {
+            "a": "Optics",
+            "b": "Astrophysics",
+            "c": "Radiology",
+            "d": "Electromagnetism"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ജ്യോതിശാസ്ത്ര വസ്തുക്കളുടെ സ്വഭാവവും സ്വഭാവവും പരിസ്ഥിതിയുമായും പരസ്പരവുമായുള്ള അവയുടെ ഇടപെടലുകളെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of astronomical objects and their interactions with the environment and with each other called?",
+        "o": {
+            "a": "Optics",
+            "b": "Astrophysics",
+            "c": "Radiology",
+            "d": "Electromagnetism"
+        },
+        "an": 2
+    },
+    {
+        "ma": "എക്സ്-റേകളുടെയും മറ്റ് തരത്തിലുള്ള അയോണൈസിംഗ് റേഡിയേഷന്റെയും സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും വസ്തുക്കളുമായും പരിസ്ഥിതിയുമായും അവയുടെ ഇടപപെടലുകളെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of X-rays and other forms of ionizing radiation and their interactions with materials and the environment called?",
+        "o": {
+            "a": "Optics",
+            "b": "Astrophysics",
+            "c": "Radiology",
+            "d": "Electromagnetism"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഭൂമിയുടെ അന്തരീക്ഷത്തിന്റെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായുള്ള അതിന്റെ ഇടപെടലുകളെക്കുറിച്ചും എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the Earth's atmosphere and its interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Meteorology",
+            "b": "Oceanography",
+            "c": "Hydrology",
+            "d": "Geology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഭൂമിയിലെ സമുദ്രങ്ങളുടെ സ്വഭാവവും സ്വഭാവവും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായുള്ള അവയുടെ ഇടപെടലുകളെക്കുറിച്ചും പഠിക്കുന്നതിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the Earth's oceans and their interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Meteorology",
+            "b": "Oceanography",
+            "c": "Hydrology",
+            "d": "Geology"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഭൂമിയുടെ ഉപരിതലത്തിലും താഴെയുമുള്ള ജലത്തിന്റെ സ്വഭാവവും സ്വഭാവവും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായും ഉള്ള ഇടപെടലുകളെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of water on and under the Earth's surface and its interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Meteorology",
+            "b": "Oceanography",
+            "c": "Hydrology",
+            "d": "Geology"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഭൂമിയുടെ ജിയോസ്ഫിയറിന്റെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായും ഉള്ള അതിന്റെ ഇടപെടലുകളെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the Earth's geosphere and its interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Geography",
+            "b": "Geology",
+            "c": "Geomorphology",
+            "d": "Geophysics"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഭൂമിയുടെ ഉപരിതലത്തിന്റെ സ്വഭാവവും സവിശേഷതകളും അതിന്റെ സവിശേഷതകളും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായുള്ള അവയുടെ ഇടപെടലുകളെക്കുറിച്ചും പഠിക്കുന്നതിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the Earth's surface and its features and their interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Geography",
+            "b": "Geology",
+            "c": "Geomorphology",
+            "d": "Geophysics"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഭൂമിയുടെ ലാൻഡ്‌ഫോമുകളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും കാലക്രമേണ അവയുടെ പരിണാമത്തെയും പ്രക്രിയകളെയും കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the Earth's landforms and their evolution and processes over time called?",
+        "o": {
+            "a": "Geography",
+            "b": "Geology",
+            "c": "Geomorphology",
+            "d": "Geophysics"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഭൂമിയുടെ ഭൗതിക ഘടനയുടെയും പ്രക്രിയകളുടെയും സ്വഭാവവും സ്വഭാവവും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായുള്ള അതിന്റെ ഇടപെടലുകളെക്കുറിച്ചും പഠിക്കുന്നതിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the Earth's physical structure and processes and its interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Geography",
+            "b": "Geology",
+            "c": "Geomorphology",
+            "d": "Geophysics"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ജനിതകശാസ്ത്രത്തിന്റെയും പാരമ്പര്യത്തിന്റെയും സ്വഭാവവും സ്വഭാവവും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായുള്ള അവയുടെ ഇടപെടലുകളെക്കുറിച്ചും പഠിക്കുന്നതിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of genetics and heredity and their interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Genetics",
+            "b": "Evolution",
+            "c": "Molecular Biology",
+            "d": "Genomics"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സ്പീഷിസുകളുടെ സ്വഭാവവും സ്വഭാവവും അവയുടെ പരിണാമവും കാലക്രമേണയുള്ള മാറ്റങ്ങളും പഠിക്കുന്നതിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of species and their evolution and changes over time called?",
+        "o": {
+            "a": "Genetics",
+            "b": "Evolution",
+            "c": "Molecular Biology",
+            "d": "Genomics"
+        },
+        "an": 2
+    },
+    {
+        "ma": "മോളിക്യുലാർ ബയോളജിയുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായും ഉള്ള അവയുടെ ഇടപെടലുകളെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of molecular biology and their interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Genetics",
+            "b": "Evolution",
+            "c": "Molecular Biology",
+            "d": "Genomics"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ജീനോമുകളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായുള്ള അവയുടെ ഇടപെടലുകളെക്കുറിച്ചും എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of genomes and their interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Genetics",
+            "b": "Evolution",
+            "c": "Molecular Biology",
+            "d": "Genomics"
+        },
+        "an": 4
+    },
+    {
+        "ma": "സൂക്ഷ്മാണുക്കളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായുള്ള അവയുടെ ഇടപെടലുകളെക്കുറിച്ചും എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of microorganisms and their interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Microbiology",
+            "b": "Virology",
+            "c": "Parasitology",
+            "d": "Immunology"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വൈറസുകളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായുള്ള അവയുടെ ഇടപെടലുകളെക്കുറിച്ചും പഠിക്കുന്നതിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of viruses and their interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Microbiology",
+            "b": "Virology",
+            "c": "Parasitology",
+            "d": "Immunology"
+        },
+        "an": 2
+    },
+    {
+        "ma": "പരാന്നഭോജികളുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായും അവയുടെ ഇടപെടലുകളെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of parasites and their interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Microbiology",
+            "b": "Virology",
+            "c": "Parasitology",
+            "d": "Immunology"
+        },
+        "an": 3
+    },
+    {
+        "ma": "രോഗപ്രതിരോധ വ്യവസ്ഥയുടെ സ്വഭാവത്തെയും ഗുണങ്ങളെയും കുറിച്ചുള്ള പഠനത്തെയും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായും ഉള്ള ഇടപെടലുകളെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of the immune system and its interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Microbiology",
+            "b": "Virology",
+            "c": "Parasitology",
+            "d": "Immunology"
+        },
+        "an": 4
+    },
+    {
+        "ma": "സസ്യങ്ങളുടെ സ്വഭാവവും സ്വഭാവവും പരിസ്ഥിതിയുമായും മനുഷ്യ പ്രവർത്തനങ്ങളുമായും അവയുടെ ഇടപെടലുകളെക്കുറിച്ചുള്ള പഠനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the study of the behavior and properties of plants and their interactions with the environment and with human activities called?",
+        "o": {
+            "a": "Botany",
+            "b": "Zoology",
+            "c": "Ecology",
+            "d": "Agriculture"
+        },
+        "an": 1
+    }
+]

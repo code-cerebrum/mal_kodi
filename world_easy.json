@@ -1,0 +1,915 @@
+[
+    {
+        "ma": "പാകിസ്ഥാൻ ജനങ്ങൾ സംസാരിക്കുന്ന ഭാഷ?",
+        "en": "The language spoken by the people of Pakistan is?",
+        "o": {
+            "a": "Hindi",
+            "b": "Palauan",
+            "c": "Sindhi",
+            "d": "Nauruan"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ മരുഭൂമി?",
+        "en": "The World Largest desert is?",
+        "o": {
+            "a": "Thar",
+            "b": "Kalahari",
+            "c": "Sahara",
+            "d": "Sonoran"
+        },
+        "an": 3
+    },
+    {
+        "ma": "സെൻട്രൽ റൈസ് റിസർച്ച് സ്റ്റേഷൻ സ്ഥിതി ചെയ്യുന്നത്?",
+        "en": "The Central Rice Research Station is situated in?",
+        "o": {
+            "a": "Chennai",
+            "b": "Cuttack",
+            "c": "Bangalore",
+            "d": "Quilon"
+        },
+        "an": 2
+    },
+    {
+        "ma": "എവറസ്റ്റ് കൊടുമുടി സ്ഥിതി ചെയ്യുന്നത്?",
+        "en": "Mount Everest is located in ?",
+        "o": {
+            "a": "India",
+            "b": "Nepal",
+            "c": "Tibet",
+            "d": "China"
+        },
+        "an": 2
+    },
+    {
+        "ma": "തായ്‌ലാൻഡിന്റെ തലസ്ഥാനം എന്താണ്?",
+        "en": "What is the capital of Thailand?",
+        "o": {
+            "a": "Korat",
+            "b": "Hanoi",
+            "c": "Bangkok",
+            "d": "Kuala Lumpur"
+        },
+        "an": 3
+    },
+    {
+        "ma": "രണ്ട് ഭൂഖണ്ഡങ്ങളിൽ സ്ഥിതി ചെയ്യുന്ന നഗരം?",
+        "en": "Which city is situated on two continents?",
+        "o": {
+            "a": "London",
+            "b": "Istanbul",
+            "c": "Moscow",
+            "d": "Milan"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഈ രാജ്യങ്ങളിൽ ഏറ്റവും കൂടുതൽ ജനസംഖ്യയുള്ള രാജ്യം ഏതാണ്?",
+        "en": "Which of these nations has the largest population?",
+        "o": {
+            "a": "France",
+            "b": "China",
+            "c": "U.S.",
+            "d": "Pakisthan"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ചെറിയ രാജ്യം ഏതാണ്?",
+        "en": "What's the smallest country in the world?",
+        "o": {
+            "a": "Monaco",
+            "b": "Liechtenstein",
+            "c": "Vatican city",
+            "d": "San mario"
+        },
+        "an": 3
+    },
+    {
+        "ma": "UNO യുടെ ആസ്ഥാനം സ്ഥിതി ചെയ്യുന്നത്",
+        "en": "Headquarters of UNO are situated at",
+        "o": {
+            "a": "New York, USA",
+            "b": "Hague",
+            "c": "Geneva",
+            "d": "Paris"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ആദ്യത്തെ അന്താരാഷ്ട്ര സമാധാന കോൺഗ്രസ് ലണ്ടനിൽ നടന്നത് എപ്പോഴാണ്?",
+        "en": "First International Peace Congress was held in London in",
+        "o": {
+            "a": "1564 AD",
+            "b": "1798 AD",
+            "c": "1843 AD",
+            "d": "1901 AD"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏതാണ് ഫ്രാൻസ് അതിർത്തി പങ്കിടാത്തത്?",
+        "en": "Which of the following countries does France not share a border with?",
+        "o": {
+            "a": "Italy",
+            "b": "Spain",
+            "c": "Netherland",
+            "d": "Belgium"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഭീമൻ പാണ്ടയുടെ ജന്മദേശം ...?",
+        "en": "The giant panda is native to...?",
+        "o": {
+            "a": "Australia",
+            "b": "Thailand",
+            "c": "Indonesia",
+            "d": "China"
+        },
+        "an": 4
+    },
+    {
+        "ma": "സീബ്രകൾ എവിടെയാണ് താമസിക്കുന്നത്?",
+        "en": "Where do zebras live?",
+        "o": {
+            "a": "South America",
+            "b": "Africa",
+            "c": "Australia",
+            "d": "Europe"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വെർസൈൽസ് കൊട്ടാരം ഏത് രാജ്യത്താണ് നമുക്ക് കാണാൻ കഴിയുക?",
+        "en": "In which country can we find the palace of Versailles?",
+        "o": {
+            "a": "Italy",
+            "b": "The Netherlands",
+            "c": "Austria",
+            "d": "France "
+        },
+        "an": 4
+    },
+    {
+        "ma": "ജപ്പാനിലെ ഏറ്റവും ഉയരം കൂടിയ കൊടുമുടി ഏതാണ്?",
+        "en": "What is Japan's highest peak?",
+        "o": {
+            "a": "Mount Ontake",
+            "b": "Mount Hodaka",
+            "c": "Mount Fuji",
+            "d": "Mount Akaishi"
+        },
+        "an": 3
+    },
+    {
+        "ma": "എന്ത് കാരണത്താലാണ് ബംഗ്ലാദേശിൽ ഓരോ വർഷവും ആയിരക്കണക്കിന് ആളുകൾ മരിക്കുന്നത്?",
+        "en": "Thousands of people die each year in Bangladesh because of what?",
+        "o": {
+            "a": "Vulcanic eruptions",
+            "b": "Flooding",
+            "c": "Wildfires",
+            "d": "Lightning strikes"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ചൈനയിലെ ഭീമാകാരമായ പാണ്ട ഏതാണ്ട് എന്ത് ഭക്ഷണമാണ് നൽകുന്നത്?",
+        "en": "The giant panda of China feed almost what food?",
+        "o": {
+            "a": "Hazelnuts",
+            "b": "Bamboo",
+            "c": "Apples",
+            "d": "Eucalyptus"
+        },
+        "an": 2
+    },
+    {
+        "ma": "മ്യാൻമർ ഏത് രാജ്യവുമായാണ് അന്താരാഷ്ട്ര അതിർത്തി പങ്കിടാത്തത്?",
+        "en": "Myanmar does not share its international boundary with__?",
+        "o": {
+            "a": "Laos",
+            "b": "Thailand",
+            "c": "Vietnam",
+            "d": "India"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏത് രാജ്യമാണ് ഉസ്ബെക്കിസ്ഥാനുമായി അതിർത്തി പങ്കിടാത്തത്?",
+        "en": "Which among the following countries does not border Uzbekistan?",
+        "o": {
+            "a": "Russia",
+            "b": "Kyrgyzstan",
+            "c": "Tajikistan",
+            "d": "Afghanistan"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏതാണ് ലോകത്തിലെ ഏറ്റവും വലിയ രാജ്യം?",
+        "en": "Which of the following countries has the largest area in the world?",
+        "o": {
+            "a": "Canada",
+            "b": "China",
+            "c": "USA",
+            "d": "Russia"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും കൂടുതൽ ജലം വഹിക്കുന്ന നദി ഏത്?",
+        "en": "Which river in the world carries the maximum volume of water?",
+        "o": {
+            "a": "Amazon",
+            "b": "Nile",
+            "c": "Mississippi",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും നീളം കൂടിയ കനാൽ?",
+        "en": "The longest canal in the world is:",
+        "o": {
+            "a": "Volga Baltic",
+            "b": "Beloye-More Baltic",
+            "c": "Grand China canal",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ചെറിയ രാജ്യം ഏതാണ്?",
+        "en": "Which is the smallest country in the world?",
+        "o": {
+            "a": "Naura",
+            "b": "Vatican City",
+            "c": "Monaco",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ പർവതനിര ഏതാണ്?",
+        "en": "Which is the world’s largest mountain range?",
+        "o": {
+            "a": "Alps",
+            "b": "Himalayas",
+            "c": "Andes",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏത് രാജ്യമാണ് സ്വർണ്ണ ഉൽപാദനത്തിൽ മുന്നിൽ നിൽക്കുന്നത്?",
+        "en": "Which of the following countries leads in the production of gold?",
+        "o": {
+            "a": "China",
+            "b": "Tibet",
+            "c": "Bhutan",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "താഴെപ്പറയുന്നവയിൽ ഏത് രാജ്യമാണ് തേയില ഉൽപാദനത്തിൽ മുന്നിൽ നിൽക്കുന്നത്?",
+        "en": "Which of the following countries leads in the production of tea?",
+        "o": {
+            "a": "Pakistan",
+            "b": "India",
+            "c": "Myanmar",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "താഴെപ്പറയുന്നവയിൽ ഏത് രാജ്യമാണ് ക്രോമൈറ്റിന്റെ ഉത്പാദനത്തിൽ മുന്നിൽ നിൽക്കുന്നത്?",
+        "en": "Which of the following countries leads in the production of Chromite?",
+        "o": {
+            "a": "South Africa",
+            "b": "China",
+            "c": "Canada",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "താഴെപ്പറയുന്നവയിൽ ഏത് രാജ്യമാണ് അരി കൂടുതൽ ഉൽപ്പാദിപ്പിക്കുന്നത്?",
+        "en": "Which of the following countries is the leading producer of rice?",
+        "o": {
+            "a": "Cuba",
+            "b": "China",
+            "c": "Argentina",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ കമ്പിളി ഉൽപ്പാദിപ്പിക്കുന്ന രാജ്യം?",
+        "en": "The World’s largest producer of wool is?",
+        "o": {
+            "a": "USA",
+            "b": "Russia",
+            "c": "Australia",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ സിന്തറ്റിക് റബ്ബർ, ടയർ നിർമ്മാണ കേന്ദ്രം?",
+        "en": "World’s largest synthetic rubber and tyre making center is?",
+        "o": {
+            "a": "Akron",
+            "b": "Sharon",
+            "c": "Cleveland",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏറ്റവും വേഗത്തിൽ വളരുന്ന വൃക്ഷം ഏതാണ്?",
+        "en": "Which of the following is fastest growing tree?",
+        "o": {
+            "a": "Teak",
+            "b": "Eucalyptus",
+            "c": "Banyan",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "താഴെപ്പറയുന്നവയിൽ ഏതാണ് ലോകത്തിലെ ഏറ്റവും ഉയർന്ന വനപ്രദേശം ഉൾക്കൊള്ളുന്നത്?",
+        "en": "Which one among the following covers the highest percentage of forest area in the world?",
+        "o": {
+            "a": "Temperate Coniferous forests",
+            "b": "Temperate Deciduous forests",
+            "c": "Tropical Rain forests",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ഉയരം കൂടിയ വെള്ളച്ചാട്ടമായ ഏഞ്ചൽ വെള്ളച്ചാട്ടം സ്ഥിതി ചെയ്യുന്നത്?",
+        "en": "The world’s highest waterfall, the Angel Falls is situated in?",
+        "o": {
+            "a": "USA",
+            "b": "Venezuela",
+            "c": "Canada",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ആഴമേറിയ തടാകം?",
+        "en": "The deepest lake in the world is?",
+        "o": {
+            "a": "Red Sea",
+            "b": "Dal Lake",
+            "c": "Baikal",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഏറ്റവും നീളം കൂടിയ റെയിൽവേ ലൈൻ?",
+        "en": "The longest railway line is?",
+        "o": {
+            "a": "Trans-Siberian Railway",
+            "b": "Indian Railway",
+            "c": "Canadian-Pacific Railway",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും പ്രശസ്തമായ വെള്ളച്ചാട്ടം ഏതാണ്?",
+        "en": "Which is the most famous waterfall of the world?",
+        "o": {
+            "a": "Superior",
+            "b": "Niagara",
+            "c": "Congo",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്ത് ഏറ്റവും കൂടുതൽ പഞ്ചസാര ഉത്പാദിപ്പിക്കുന്ന രാജ്യം ഏത്?",
+        "en": "Which country produces the maximum sugar in the world?",
+        "o": {
+            "a": "Uruguay",
+            "b": "China",
+            "c": "Brazil",
+            "d": "India"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഏറ്റവും വലിയ ജനാധിപത്യ രാജ്യമായി കണക്കാക്കപ്പെടുന്ന രാജ്യം ഏതാണ്?",
+        "en": "Which country is considered the largest democracy?",
+        "o": {
+            "a": "America",
+            "b": "India",
+            "c": "UK",
+            "d": "Bangladesh"
+        },
+        "an": 2
+    },
+    {
+        "ma": "താഴെപ്പറയുന്നവയിൽ ഏത് രാജ്യമാണ് മൈക്കയുടെ ഉത്പാദനത്തിൽ മുന്നിൽ നിൽക്കുന്നത്?",
+        "en": "Which of the following countries leads in the production of Mica?",
+        "o": {
+            "a": "India",
+            "b": "China",
+            "c": "UK",
+            "d": "South Africa"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ എണ്ണ ശുദ്ധീകരണശാല സ്ഥിതി ചെയ്യുന്നത്?",
+        "en": "The world’s largest oil refinery is located at?",
+        "o": {
+            "a": "Abadan (Iran)",
+            "b": "Tabriz (Iran)",
+            "c": "Riyadh (Saudi Arabia)",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഏറ്റവും കൂടുതൽ പട്ടുനൂൽ ഉത്പാദിപ്പിക്കുന്നത്?",
+        "en": "The largest producer of silk is?",
+        "o": {
+            "a": "Canada",
+            "b": "Russia",
+            "c": "China",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "അറിയപ്പെടുന്ന എല്ലാ മൃഗങ്ങളിലും ഏറ്റവും വലുത് ഏതാണ്?",
+        "en": "Which is the largest of all known animals?",
+        "o": {
+            "a": "Elephant",
+            "b": "Whale Shark",
+            "c": "Blue Whale",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ ഭൂഖണ്ഡം ഏതാണ്?",
+        "en": "Which is the largest continent of the world?",
+        "o": {
+            "a": "Asia",
+            "b": "America",
+            "c": "Australia",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ ദ്വീപ്?",
+        "en": "The largest islands in the world is?",
+        "o": {
+            "a": "Andaman and Nicobar",
+            "b": "Kalaallit Nunaal",
+            "c": "Caribbean",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ഉയരം കൂടിയ വെള്ളച്ചാട്ടമെന്ന നിലയിൽ താഴെപ്പറയുന്നവയിൽ ഏത് രാജ്യത്താണ് സ്ഥിതി ചെയ്യുന്നത്?",
+        "en": "In which of the following countries as the world’s highest waterfalls located?",
+        "o": {
+            "a": "Venezuela",
+            "b": "Canada",
+            "c": "Britian",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ റെയിൽവേ സ്റ്റേഷൻ?",
+        "en": "The largest railway station of the world is?",
+        "o": {
+            "a": "Grand Central Terminal, New York",
+            "b": "Trans Siberian railway station, Russia",
+            "c": "Shinjuku Station (Tokyo, Japan)",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ കാപ്പി(Coffee) നിർമ്മാതാവ്?",
+        "en": "The largest producer of coffee in the world is?",
+        "o": {
+            "a": "Philippines",
+            "b": "Brazil",
+            "c": "Srilanka",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ എണ്ണ ഉത്പാദക രാജ്യം ഏത്?",
+        "en": "Which country is the largest oil producer in the world?",
+        "o": {
+            "a": "Saudi Arabia",
+            "b": "Iran",
+            "c": "USA",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "പ്ലാറ്റിനം ഏറ്റവും കൂടുതൽ സംഭരണമുള്ള രാജ്യം ഏത്?",
+        "en": "Which country has the largest storage of platinum?",
+        "o": {
+            "a": "Peru",
+            "b": "South Africa",
+            "c": "Nigeria",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "റബ്ബർ ഉത്പാദനത്തിൽ മുന്നിൽ നിൽക്കുന്ന രാജ്യം?",
+        "en": "The country which leads in the production of rubber is?",
+        "o": {
+            "a": "Australia",
+            "b": "Indonesia",
+            "c": "Thailand",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും പഴക്കമുള്ള ദേശീയഗാനം ഏത് രാജ്യത്താണ്?",
+        "en": "Which country has the oldest anthem of the world?",
+        "o": {
+            "a": "Japan",
+            "b": "America",
+            "c": "Denmark",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും കൂടുതൽ വജ്രം ഉത്പാദിപ്പിക്കുന്നത്?",
+        "en": "The largest producer of diamond in the world is?",
+        "o": {
+            "a": "Russia",
+            "b": "Canada",
+            "c": "Australia",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഭൂമിയുടെ ഉപരിതലത്തിലെ ഏറ്റവും വലിയ ശുദ്ധജല ശേഖരം എവിടെയാണ്?",
+        "en": "The largest reserves of fresh water on the Earth’s surface is in?",
+        "o": {
+            "a": "North America",
+            "b": "Africa",
+            "c": "South America",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ഉയരം കൂടിയ രണ്ടാമത്തെ പർവതശിഖരം ഏതാണ്?",
+        "en": "which is the second highest mountain peak in the world?",
+        "o": {
+            "a": "Mount Everest",
+            "b": "K-2",
+            "c": "Nanga Parbat",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഏറ്റവും ഉയരമുള്ള കൊടുമുടിയായ എവറസ്റ്റിന്റെ ഉയരം എത്ര?",
+        "en": "What is the height of the highest peak Mount Everest?",
+        "o": {
+            "a": "8848 m",
+            "b": "8695 m",
+            "c": "8715 m",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വിസ്തൃതിയുടെ അടിസ്ഥാനത്തിൽ ലോകത്തിലെ ഏറ്റവും വലിയ കടൽ ഏതാണ്?",
+        "en": "Which is the biggest sea of the world area wise?",
+        "o": {
+            "a": "Caribbean Sea",
+            "b": "South China Sea",
+            "c": "Mediterranean Sea",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വിസ്തൃതിയുടെ അടിസ്ഥാനത്തിൽ ലോകത്തിലെ രണ്ടാമത്തെ വലിയ കടൽ ഏതാണ്?",
+        "en": "Which is the second biggest sea of the world area wise?",
+        "o": {
+            "a": "Caribbean Sea",
+            "b": "South China Sea",
+            "c": "Mediterranean Sea",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വിസ്തൃതിയുടെ അടിസ്ഥാനത്തിൽ ലോകത്തിലെ ഏറ്റവും ചെറിയ കടൽ ഏതാണ്?",
+        "en": "Which is the smallest sea of the world area wise?",
+        "o": {
+            "a": "Red Sea",
+            "b": "North Sea",
+            "c": "Baltic Sea",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ചെറിയ നദിക്ക് 61 മൈൽ നീളമുണ്ട്. അതിന്റെ പേരെന്താണ്?",
+        "en": "The shortest river of the world is just 61 miles long. What is its name?",
+        "o": {
+            "a": "Hwang Ho river",
+            "b": "Roe River in Montana",
+            "c": "Congo",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ തടാകം ഏതാണ്?",
+        "en": "Which is the largest lake of the world?",
+        "o": {
+            "a": "Caspian sea",
+            "b": "Superior lake",
+            "c": "Huron lake",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ആഴമേറിയ തടാകം?",
+        "en": "The deepest lake in the world is?",
+        "o": {
+            "a": "Baikal lake",
+            "b": "Huron lake",
+            "c": "Superior lake",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ആഴമേറിയ തടാകമായ ബൈക്കൽ സ്ഥിതി ചെയ്യുന്നത്?",
+        "en": "The deepest lake Baikal is located in?",
+        "o": {
+            "a": "Argentina",
+            "b": "Serbia",
+            "c": "Switzerland",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ മരുഭൂമി?",
+        "en": "The biggest desert of the world is?",
+        "o": {
+            "a": "Gobi Desert",
+            "b": "Sahara Desert",
+            "c": "Kalahari Desert",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ജനസംഖ്യയുള്ള നഗരം ഏതാണ്?",
+        "en": "Which is the most populous city of the world?",
+        "o": {
+            "a": "Tokyo",
+            "b": "Shanghai",
+            "c": "Mumbai",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ജനസാന്ദ്രതയുള്ള നഗരം ഏതാണ്?",
+        "en": "Which is the most densely populated city of the world?",
+        "o": {
+            "a": "Mumbai",
+            "b": "Tokyo",
+            "c": "Manila",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും കുറഞ്ഞ ജനസംഖ്യയുള്ള നഗരം ഏതാണ്?",
+        "en": "Which is the least populous city of the world?",
+        "o": {
+            "a": "Vatican",
+            "b": "Moroni",
+            "c": "Port Novo",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ഉയരം കൂടിയ വെള്ളച്ചാട്ടം?",
+        "en": "Highest waterfall of the world is?",
+        "o": {
+            "a": "Angels Falls",
+            "b": "Niagara fall",
+            "c": "Tugela",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ അണക്കെട്ട് ഏതാണ്?",
+        "en": "Which is the biggest dam in the world?",
+        "o": {
+            "a": "Nurek",
+            "b": "Nagarjuna Sagar Dam",
+            "c": "Atatürk Dam",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ഉയരം കൂടിയ അണക്കെട്ടാണ് നുറെക് അണക്കെട്ട്. ഇത് സ്ഥിതി ചെയ്യുന്നത്?",
+        "en": "Nurek Dam is the highest Dam in the world. It is located in?",
+        "o": {
+            "a": "India",
+            "b": "Tajikistan",
+            "c": "China",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും നീളം കൂടിയ രണ്ടാമത്തെ റെയിൽവേ പ്ലാറ്റ്ഫോം ഏതാണ്?",
+        "en": "Which is the second longest railway Platform in the world?",
+        "o": {
+            "a": "Lahore Station Platform, Pakistan",
+            "b": "Kharagpur railway platform, India",
+            "c": "Grand Central Terminal USA",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ ലൈബ്രറി ഏതാണ്?",
+        "en": "Which is the biggest library in the world?",
+        "o": {
+            "a": "British Library (UK)",
+            "b": "Library of Congress (USA)",
+            "c": "Lenin Library (Russia)",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ജനസംഖ്യ പ്രകാരം ലോകത്തിലെ ഏറ്റവും വലിയ രാജ്യം ഏതാണ്?",
+        "en": "By Population which is the largest country of the world?",
+        "o": {
+            "a": "India",
+            "b": "China",
+            "c": "Russia",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഏറ്റവും നീളം കൂടിയ കടൽത്തീരമുള്ള രാജ്യമേത്?",
+        "en": "Which country has the longest coastline?",
+        "o": {
+            "a": "USA",
+            "b": "Russia",
+            "c": "Canada",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ മസ്ജിദ് ഏതാണ്?",
+        "en": "Which is the largest Mosque in the world?",
+        "o": {
+            "a": "Badshahi Mosque",
+            "b": "Masjid Al-haram",
+            "c": "Sheikh Zayed Grand Mosque",
+            "d": "None of these"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും തിരക്കേറിയ വിമാനത്താവളം ഏതാണ്?",
+        "en": "Which is the busiest airport in the world?",
+        "o": {
+            "a": "Chicago O’Hare International Airport",
+            "b": "Lhasa Airport",
+            "c": "Hartsfield-Jackson Atlanta International Airport",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വലിയ വിമാനത്താവളം ഏതാണ്?",
+        "en": "Which is the largest airport of the world?",
+        "o": {
+            "a": "King Abdul Aziz International Airport",
+            "b": "Heathrow International Airport",
+            "c": "Frankfurt International Airport",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും പഴക്കമുള്ള പാർലമെന്റായി കണക്കാക്കപ്പെടുന്നത് ഏത് രാജ്യത്തെ പാർലമെന്റാണ്?",
+        "en": "Which country’s parliament is considered oldest parliament of the world?",
+        "o": {
+            "a": "UK",
+            "b": "India",
+            "c": "Iceland",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും നീളം കൂടിയ കപ്പൽ കനാൽ ഏതാണ്?",
+        "en": "Which is the Longest ship canal in the world?",
+        "o": {
+            "a": "Panama",
+            "b": "Suez canal, Egypt",
+            "c": "St. Laurence Seaway, USA & Canada",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും ഉപ്പുരസമുള്ള കടലിന്റെ പേര്?",
+        "en": "Name the saltiest Sea of the world?",
+        "o": {
+            "a": "Mediterranean ocean",
+            "b": "Indian Ocean",
+            "c": "Atlantic Ocean",
+            "d": "None of these"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഏറ്റവും കൂടുതൽ ആയുസ്സ് ഉള്ള മൃഗം ഏതാണ്?",
+        "en": "Name the animal which has the longest life Span?",
+        "o": {
+            "a": "Turtle",
+            "b": "Tortoise",
+            "c": "Elephant",
+            "d": "Ant"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും വേഗതയേറിയ മൃഗം ഏതാണ്?",
+        "en": "Which is the fastest animal of the world?",
+        "o": {
+            "a": "Lion",
+            "b": "Antelope",
+            "c": "Grey hound",
+            "d": "Cheetah"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഏറ്റവും വേഗതയേറിയതും 200 കി.മീ വേഗത കൈവരിക്കാൻ കഴിയുന്നതുമായ പക്ഷിയുടെ പേര്",
+        "en": "Name the bird which is fastest and can attain speed of 200 km",
+        "o": {
+            "a": "Condor",
+            "b": "Eagle",
+            "c": "Albatros",
+            "d": "Indian Swift"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ലോകത്തിലെ ഏറ്റവും പഴക്കം ചെന്ന ഭൂഗർഭ റെയിൽവേ സംവിധാനമുള്ള രാജ്യമേത്?",
+        "en": "Which country has the oldest underground railway system of the world?",
+        "o": {
+            "a": "USA",
+            "b": "Hungry",
+            "c": "India",
+            "d": "England"
+        },
+        "an": 4
+    }
+]

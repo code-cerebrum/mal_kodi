@@ -1,0 +1,728 @@
+[
+    {
+        "ma": "ഭൂമി സൂര്യനിൽ നിന്ന് എത്ര മൈൽ അകലെയാണ്?",
+        "en": "The Earth is approximately how many miles away from the Sun?",
+        "o": {
+            "a": "9.3 million",
+            "b": "39 million",
+            "c": "93 million",
+            "d": "193 million"
+        },
+        "an": 3
+    },
+    {
+        "ma": "താഴെ പറയുന്നവരിൽ ആരാണ് അദ്ദേഹത്തിന് പേരിട്ടിരിക്കുന്ന ഒരു രാസ മൂലകം ഇല്ലാത്തത്?",
+        "en": "Which of the following men does not have a chemical element named for him?",
+        "o": {
+            "a": "Albert Einstein",
+            "b": "Niels Bohr",
+            "c": "Isaac Newton",
+            "d": "Enrico Fermi"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഡ്രേക്ക് സമവാക്യം എന്താണ് കണക്കാക്കുന്നത്?",
+        "en": "What is the Drake equation used to calculate?",
+        "o": {
+            "a": "Derivative",
+            "b": "Distance to the moon",
+            "c": "Hypotenuse of a triangle",
+            "d": "Extraterrestrial life"
+        },
+        "an": 4
+    },
+    {
+        "ma": "അന്തരീക്ഷത്തിലെ ഏത് പാളിയാണ് ഓസോൺ കൊണ്ട് സമ്പന്നമായത്?",
+        "en": "Which layer of the atmosphere is rich in ozone?",
+        "o": {
+            "a": "Troposphere",
+            "b": "Stratosphere",
+            "c": "Mesosphere",
+            "d": "Thermosphere"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഫൈലേറിയ ഉണ്ടാകുന്നത്",
+        "en": "Filaria is caused by",
+        "o": {
+            "a": "Bacteria",
+            "b": "Mosquito",
+            "c": "Protozoa",
+            "d": "Virus"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഓസോൺ പാളി നിയന്ത്രിക്കുന്നു",
+        "en": "The ozone layer restricts",
+        "o": {
+            "a": "Visible light",
+            "b": "Infrared radiation",
+            "c": "X-rays and gamma rays",
+            "d": "Ultraviolet radiation"
+        },
+        "an": 4
+    },
+    {
+        "ma": "സുരക്ഷയ്ക്കായി, വൈദ്യുതിയുടെ ഗാർഹിക വിതരണത്തിനായി മെയിനുകളിൽ ഉപയോഗിക്കുന്ന ഫ്യൂസ് വയർ ലോഹത്താൽ നിർമ്മിക്കണം, എന്തുകൊണ്ട്?",
+        "en": "For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having",
+        "o": {
+            "a": "low melting point",
+            "b": "high resistance",
+            "c": "high melting point",
+            "d": "low specific heat"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഗാൽവാനൈസിംഗ് ഇരുമ്പിനായി ഇനിപ്പറയുന്ന ലോഹങ്ങളിൽ ഏതാണ് ഉപയോഗിക്കുന്നത്?",
+        "en": "For galvanizing iron which of the following metals is used?",
+        "o": {
+            "a": "Aluminium",
+            "b": "Copper",
+            "c": "Lead",
+            "d": "Zinc"
+        },
+        "an": 4
+    },
+    {
+        "ma": "കുടിവെള്ളം ശുദ്ധീകരിക്കുന്നതിന് എന്തുകൊണ്ടാണ് ആലം ഉപയോഗിക്കുന്നത്?",
+        "en": "For purifying drinking water alum is used?",
+        "o": {
+            "a": "for coagulation of mud particles",
+            "b": "to kill bacteria",
+            "c": "to remove salts",
+            "d": "to remove gases"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ദ്രാവകത്തിന്റെ സ്വതന്ത്ര ഉപരിതലം ഒരു ഷീറ്റ് പോലെ പെരുമാറുകയും സാധ്യമായ ഏറ്റവും ചെറിയ പ്രദേശത്തേക്ക് ചുരുങ്ങുകയും ചെയ്യുന്നത് എന്തുകൊണ്ട്?",
+        "en": "Free surface of a liquid behaves like a sheet and tends to contract to the smallest possible area due to the",
+        "o": {
+            "a": "force of adhesion",
+            "b": "force of friction",
+            "c": "centrifugal force",
+            "d": "force of cohesion"
+        },
+        "an": 4
+    },
+    {
+        "ma": "കുട്ടികളിൽ പിറ്റ്യൂട്ടറി ഗ്രന്ഥിയിൽ നിന്നുള്ള അമിതമായ സ്രവണം എന്തിനു കാരണമാകുന്നു?",
+        "en": "Excessive secretion from the pituitary gland in the children results in",
+        "o": {
+            "a": "increased height",
+            "b": "retarded growth",
+            "c": "weakening of bones",
+            "d": "None of the above"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഒരു എക്‌സ്‌ഹോസ്റ്റിന്റെ ഏത് ഭാഗമാണ് ജ്വലനത്തിന്റെ വിഷ ഉപോൽപ്പന്നങ്ങളെ കുറഞ്ഞ വിഷമുള്ളതായി മാറ്റുന്നത്?",
+        "en": "What part of an exhaust converts toxic byproducts of combustion into less toxic ones?",
+        "o": {
+            "a": "Particle Accelerator",
+            "b": "Slurry tanker",
+            "c": "Radioactive heater",
+            "d": "Catalytic converter"
+        },
+        "an": 4
+    },
+    {
+        "ma": "പുരുഷ ഗർഭനിരോധന മാർഗ്ഗം ഏതാണ്?",
+        "en": "Which is the form of male contraception?",
+        "o": {
+            "a": "Pinealectomy",
+            "b": "Phlebotomy",
+            "c": "Colostomy",
+            "d": "Vasectomy"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ലൈംഗികമായി പകരുന്ന അണുബാധയുടെ ഒരു ഉദാഹരണം ഏതാണ്?",
+        "en": "Which is an example of a sexually transmitted infection?",
+        "o": {
+            "a": "Parkinson's",
+            "b": "Thyroid cancer",
+            "c": "Gastritis",
+            "d": "Chlamydia"
+        },
+        "an": 4
+    },
+    {
+        "ma": "എന്ത് അവസ്ഥയുള്ള ആളുകൾ പാൽ, ചീസ്, വെണ്ണ എന്നിവ ഒഴിവാക്കണം?",
+        "en": "People that have what condition should avoid milk, cheese and butter?",
+        "o": {
+            "a": "Color blindness",
+            "b": "Cystic fibrosis",
+            "c": "Sickle-cell disease",
+            "d": "Lactose intolerance"
+        },
+        "an": 4
+    },
+    {
+        "ma": "അപസ്മാരം ബാധിച്ച ആളുകൾ എന്തിൽ നിന്ന് കഷ്ടപ്പെടുന്നു?",
+        "en": "From what do people with epilepsy suffer?",
+        "o": {
+            "a": "Skin rashes",
+            "b": "Seizures",
+            "c": "Brittle bones",
+            "d": "Diarrhea"
+        },
+        "an": 2
+    },
+    {
+        "ma": "നിർജ്ജലീകരണത്തിനുള്ള സൂചകം ഏതാണ്?",
+        "en": "Which might be an indicator for dehydration?",
+        "o": {
+            "a": "Dark red blood",
+            "b": "Colorless blood",
+            "c": "Dark yellow urine",
+            "d": "Colorless urine"
+        },
+        "an": 3
+    },
+    {
+        "ma": "പതിനെട്ടാം നൂറ്റാണ്ടിനുമുമ്പ് നീണ്ട കടൽ യാത്രകളിൽ നാവികർക്കിടയിൽ ഏത് രോഗമാണ് പ്രത്യേകിച്ചും സാധാരണമായിരുന്നത്?",
+        "en": "Which disease was especially common among sailors on long sea voyages before the 18th century?",
+        "o": {
+            "a": "Scurvy",
+            "b": "Hives",
+            "c": "Hepatitis",
+            "d": "Cholera"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഒരു തരം പഠന വൈകല്യം എന്താണ്?",
+        "en": "Which is a type of learning disability?",
+        "o": {
+            "a": "Dyslexia",
+            "b": "Dysarthria",
+            "c": "Dystonia",
+            "d": "Dysplasia"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഏറ്റവും സാധാരണമായ വൃക്കയിലെ കല്ലിന്റെ പ്രധാന ഘടകം ഏതാണ്?",
+        "en": "What is the main component of the most common type of kidney stone?",
+        "o": {
+            "a": "Calcium oxalate",
+            "b": "Potassium chloride",
+            "c": "Ethylene glycol",
+            "d": "Carbon dioxide"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ജീവിതത്തിന്റെ രസതന്ത്രം ഏത് ഘടകത്തെ ചുറ്റിപ്പറ്റിയാണ്?",
+        "en": "The chemistry of life centers around which element?",
+        "o": {
+            "a": "Phosphorus",
+            "b": "Lithium",
+            "c": "Carbon",
+            "d": "Magnesium"
+        },
+        "an": 3
+    },
+    {
+        "ma": "സസ്തനികളിലെ പാൽ ഉൽപാദനത്തെ നിയന്ത്രിക്കുന്ന പ്രോട്ടീൻ ഏതാണ്?",
+        "en": "Which protein regulates milk production in mammals?",
+        "o": {
+            "a": "Hepcidin",
+            "b": "Relaxin",
+            "c": "Prolactin",
+            "d": "Galanin"
+        },
+        "an": 3
+    },
+    {
+        "ma": "കുടുംബ പരമ്പരയെക്കുറിച്ചുള്ള പഠനം എന്താണ്?",
+        "en": "What is the study of family lineages?",
+        "o": {
+            "a": "Heraldry",
+            "b": "Cliometrics",
+            "c": "Genealogy",
+            "d": "Teleology"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ശരീര കോശം കീറുന്നതിലൂടെ ഏത് തരത്തിലുള്ള മുറിവാണ് ഉണ്ടാകുന്നത്?",
+        "en": "What type of wound is produced by the tearing of body tissue?",
+        "o": {
+            "a": "Congelation",
+            "b": "Decussation",
+            "c": "Relocation",
+            "d": "Laceration"
+        },
+        "an": 4
+    },
+    {
+        "ma": "നനഞ്ഞ പ്രതലത്തിൽ ഒരു കാറിന്റെ ട്രാക്ഷൻ അനിയന്ത്രിതമായി നഷ്ടപ്പെടുന്നത് എന്താണ്?",
+        "en": "What is the uncontrollable loss of traction of a car on a wet surface?",
+        "o": {
+            "a": "Aquaplanning",
+            "b": "Bernoulli effect",
+            "c": "Cinderella effect",
+            "d": "Placebo effect"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ചർമ്മരോഗങ്ങൾ ഏത് രോഗത്തിന്റെ സവിശേഷതയാണ്?",
+        "en": "Which disease is characterized by skin lesions?",
+        "o": {
+            "a": "Influenza",
+            "b": "Pneumonia",
+            "c": "Leprosy",
+            "d": "Cholera"
+        },
+        "an": 3
+    },
+    {
+        "ma": "കാൽമുട്ടിന് താഴെയുള്ള ഒരു പ്രത്യേക സ്ഥലത്ത് ചുറ്റിക കൊണ്ട് അടിച്ചുകൊണ്ട് ഒരു ഡോക്ടർ എന്താണ് പരിശോധിക്കുന്നത്?",
+        "en": "What does a doctor test by hitting a particular spot below the knee with a hammer?",
+        "o": {
+            "a": "Pain response",
+            "b": "Reflex",
+            "c": "Consciousness",
+            "d": "Proprioception"
+        },
+        "an": 2
+    },
+    {
+        "ma": "എന്താണ് ഹോമോ എറക്ടസ്?",
+        "en": "What is Homo erectus?",
+        "o": {
+            "a": "Extinct primate",
+            "b": "Asian black bear",
+            "c": "Psychological state",
+            "d": "Philosophical theory"
+        },
+        "an": 1
+    },
+    {
+        "ma": "കുടലിന്റെ വീക്കം എന്താണ്?",
+        "en": "What is an inflammation of the bowel?",
+        "o": {
+            "a": "Myeloma",
+            "b": "Fibrous dysplasia",
+            "c": "Hepatitis",
+            "d": "Gastroenteritis"
+        },
+        "an": 4
+    },
+    {
+        "ma": "തലയോട്ടി എന്തിന്റെ ഭാഗമാണ്?",
+        "en": "The cranium is the part of the ...?",
+        "o": {
+            "a": "Skull",
+            "b": "Liver",
+            "c": "Thighs",
+            "d": "Pelvis"
+        },
+        "an": 1
+    },
+    {
+        "ma": "തലച്ചോറിലെ നാഡീകോശങ്ങളെ നശിപ്പിക്കുന്ന രോഗം ഏതാണ്?",
+        "en": "Which disease destroys nerve cells in the brain?",
+        "o": {
+            "a": "Obesity",
+            "b": "Alzheimer's",
+            "c": "Cholera",
+            "d": "Asthma"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ചൂടുള്ള റോഡുകളിൽ 'മരീചിക പ്രഭാവത്തിന്' കാരണമാകുന്നത് എന്താണ്?",
+        "en": "What cause the 'mirage effect' on hot roads?",
+        "o": {
+            "a": "Paramagnetism",
+            "b": "Turbulance",
+            "c": "Refraction",
+            "d": "Scattering"
+        },
+        "an": 3
+    },
+    {
+        "ma": "വിള്ളൽ സമയത്ത് ഏത് പേശിയാണ് സങ്കോചിക്കുന്നത്?",
+        "en": "Which muscle contracts during hiccup?",
+        "o": {
+            "a": "Cremaster",
+            "b": "Hyoglossus",
+            "c": "Diaphragm",
+            "d": "Serratus anterior"
+        },
+        "an": 3
+    },
+    {
+        "ma": "അമ്മയും ഭ്രൂണവും തമ്മിലുള്ള ഒരു വിനിമയ ഉപരിതലമായി എന്താണ് പ്രവർത്തിക്കുന്നത്?",
+        "en": "What acts as an exchange surface between mother and embryo?",
+        "o": {
+            "a": "Placenta",
+            "b": "Anus",
+            "c": "Ovaries",
+            "d": "Cervix"
+        },
+        "an": 1
+    },
+    {
+        "ma": "'ഹെപ്പറ്റൈറ്റിസ്' ഏത് പ്രധാന അവയവത്തെയാണ് ബാധിക്കുന്നത്?",
+        "en": "'Hepatitis' affects which major organ?",
+        "o": {
+            "a": "The liver",
+            "b": "The heart",
+            "c": "The lungs",
+            "d": "The brain"
+        },
+        "an": 1
+    },
+    {
+        "ma": "BMI യിൽ B എന്താണ് അർത്ഥമാക്കുന്നത്?",
+        "en": "What does B stand for in BMI?",
+        "o": {
+            "a": "Background",
+            "b": "Body",
+            "c": "Back",
+            "d": "Base"
+        },
+        "an": 2
+    },
+    {
+        "ma": "'ന്യൂറിറ്റിസ്' ശരീരത്തിന്റെ ഏത് ഭാഗത്തെയാണ് ബാധിക്കുന്നത്?",
+        "en": "'Neuritis' affects which part of the body?",
+        "o": {
+            "a": "Skin",
+            "b": "Muscles",
+            "c": "Nerves",
+            "d": "Brain"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏതാണ് വിറ്റാമിൻ ബി സമുച്ചയത്തിൽ അംഗമല്ലാത്തത്?",
+        "en": "Which of the following is not a member of the vitamin B complex?",
+        "o": {
+            "a": "Thiamine",
+            "b": "Riboflavin",
+            "c": "Folic acid",
+            "d": "Ascorbic acid"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഏറ്റവും ചെറിയ വ്യാസമുള്ള രക്തക്കുഴലുകൾ ഏതാണ്?",
+        "en": "Which blood vessels have the smallest diameter?",
+        "o": {
+            "a": "Capillaries",
+            "b": "Arterioles",
+            "c": "Venules",
+            "d": "Lymphatic"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏതാണ് വായുവിലൂടെ പകരുന്ന രോഗം?",
+        "en": "Which of the following is an air-borne disease?",
+        "o": {
+            "a": "Measles",
+            "b": "Typhoid",
+            "c": "Pink eye",
+            "d": "None of the above"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ശരീരത്തിലെ ഏത് അവയവമാണ് bile എന്നറിയപ്പെടുന്ന ദ്രാവകം ഉത്പാദിപ്പിക്കുന്നത്?",
+        "en": "Which organ of the body produces the fluid known as bile?",
+        "o": {
+            "a": "Liver",
+            "b": "Pancreas",
+            "c": "Gall bladder",
+            "d": "Kidney"
+        },
+        "an": 1
+    },
+    {
+        "ma": "താഴെ കൊടുത്തിരിക്കുന്ന ഹോർമോണുകളിൽ ഏതാണ് സ്റ്റിറോയിഡ്?",
+        "en": "Which of the following hormones is a steroid?",
+        "o": {
+            "a": "Estrogen",
+            "b": "Glucagon",
+            "c": "Insulin",
+            "d": "Oxytocin"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഓങ്കോളജി എന്താണ് പഠിക്കുന്നത്?",
+        "en": "Oncology is the study of what?",
+        "o": {
+            "a": "Birds",
+            "b": "Cancer",
+            "c": "Mammals",
+            "d": "Soil"
+        },
+        "an": 2
+    },
+    {
+        "ma": "Numismatics എന്തിനെ കുറിച്ചുള്ള പഠനമാണ്?",
+        "en": "Numismatics is the study of what?",
+        "o": {
+            "a": "Coins",
+            "b": "Numbers",
+            "c": "Stamps",
+            "d": "Space"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ആപേക്ഷിക ഈർപ്പം അളക്കാൻ ഉപയോഗിക്കുന്ന ഉപകരണത്തിന്റെ പേര്?",
+        "en": "Name the instrument that is used to measure Relative Humidity?",
+        "o": {
+            "a": "Hygrometer",
+            "b": "Hydrometer",
+            "c": "Barometer",
+            "d": "Mercury Thermometer"
+        },
+        "an": 1
+    },
+    {
+        "ma": "പാലിന്റെ സാന്ദ്രത അളക്കാൻ ഉപയോഗിക്കുന്ന ഉപകരണത്തിന്റെ പേര്?",
+        "en": "Name an instrument which is used to measure the Density of milk?",
+        "o": {
+            "a": "Lactometer",
+            "b": "Hydrometer",
+            "c": "Barometer",
+            "d": "Hygrometer"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വൈദ്യുത പ്രതിരോധം അളക്കാൻ ഉപയോഗിക്കുന്ന ഉപകരണത്തിന്റെ പേര്?",
+        "en": "Name an instrument used to measure electric resistance?",
+        "o": {
+            "a": "Ohmmeter",
+            "b": "Electrometer",
+            "c": "Galvanometer",
+            "d": "Spectrometer"
+        },
+        "an": 1
+    },
+    {
+        "ma": "മനുഷ്യശരീരത്തിൽ എവിടെയാണ് മെറ്റാറ്റാർസലുകൾ(metatarsals) കണ്ടെത്താൻ കഴിയുക?",
+        "en": "Where in the human body can we find the metatarsals?",
+        "o": {
+            "a": "Brain",
+            "b": "Foot",
+            "c": "Lungs",
+            "d": "Throat"
+        },
+        "an": 2
+    },
+    {
+        "ma": "'എംആർഐ'യിലെ 'എം' എന്തിനെ പ്രതിനിധീകരിക്കുന്നു?",
+        "en": "For what does the 'M' in 'MRI' stand?",
+        "o": {
+            "a": "Mutagen",
+            "b": "Molecule",
+            "c": "Magnetic",
+            "d": "Methanol"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഒരു ഹിമാനിയിൽ ആഴത്തിലുള്ള വിള്ളൽ എന്താണ്?",
+        "en": "What is a deep crack in a glacier?",
+        "o": {
+            "a": "Moraine",
+            "b": "Nunatak",
+            "c": "Calanque",
+            "d": "Crevasse "
+        },
+        "an": 4
+    },
+    {
+        "ma": "പാശ്ചാത്യ വൈദ്യശാസ്ത്രത്തിന്റെ പിതാവായി കണക്കാക്കപ്പെടുന്നത് ആരാണ്?",
+        "en": "Who is considered the father of Western medicine?",
+        "o": {
+            "a": "Hippocrates",
+            "b": "Pythagoras",
+            "c": "Pliny the Elder",
+            "d": "Epicurus"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഒരു നിശ്ചിത മെറ്റീരിയലിൽ പ്രകാശവേഗതയ്ക്ക് ഒരു അളവ് നൽകുന്നത് എന്താണ്?",
+        "en": "What provides a measure for the speed of light in a given material?",
+        "o": {
+            "a": "Refractive index",
+            "b": "Transversive index",
+            "c": "Convective index",
+            "d": "Ablative index"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഭൂമിയുടെ ഉപരിതലത്തിലുള്ള രൂപങ്ങളെക്കുറിച്ചുള്ള പഠനം എന്താണ്?",
+        "en": "What is the study of shapes on the surface of Earth?",
+        "o": {
+            "a": "Topography",
+            "b": "Typography",
+            "c": "Discography",
+            "d": "Radiography"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഏത് തരത്തിലുള്ള മരുന്നാണ് രക്തസ്രാവം നിർത്തുന്നത്?",
+        "en": "What type of drug stops bleeding?",
+        "o": {
+            "a": "Barbiturate",
+            "b": "Laxative",
+            "c": "Beta blocker",
+            "d": "Antihemorrhagic"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഇതിൽ ഏതാണ് സൈക്കോട്ടിക് ഡിസോർഡർ (psychotic disorder)?",
+        "en": "Which of these is a psychotic disorder?",
+        "o": {
+            "a": "Depression",
+            "b": "Anorexia nervosa",
+            "c": "Parkinson's disease",
+            "d": "Schizophrenia"
+        },
+        "an": 4
+    },
+    {
+        "ma": "കൈത്തണ്ടയും കൈപ്പത്തിയും തമ്മിലുള്ള ബന്ധം എന്താണ്?",
+        "en": "Which is a connection between forearm and palm?",
+        "o": {
+            "a": "Coronal suture",
+            "b": "Pubic symphisis",
+            "c": "Lumbisacral joint",
+            "d": "Carpal tunnel"
+        },
+        "an": 4
+    },
+    {
+        "ma": "പൊക്കിൾക്കൊടിയിൽ എന്താണ് ഘടിപ്പിച്ചിരിക്കുന്നത്?",
+        "en": "What is attached to the umbilical cord?",
+        "o": {
+            "a": "Kidney",
+            "b": "Breasts",
+            "c": "Ovaries",
+            "d": "Placenta"
+        },
+        "an": 4
+    },
+    {
+        "ma": "അസംസ്‌കൃത എണ്ണയിൽ നിന്ന് ഉരുത്തിരിഞ്ഞ മെറ്റീരിയൽ ഏതാണ്?",
+        "en": "Which material is derived from crude oil?",
+        "o": {
+            "a": "Polyethylene",
+            "b": "Rayon",
+            "c": "Cotton",
+            "d": "Asbestos"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഗുരുതരമായ രോഗങ്ങളെക്കുറിച്ച് അസാധാരണമായി വിഷമിക്കുന്നവർ ആരാണ്?",
+        "en": "Who is abnormally worried about having serious diseases?",
+        "o": {
+            "a": "Kleptomaniac",
+            "b": "Insomniac",
+            "c": "Hypochondriac",
+            "d": "Megalomaniac"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ക്ഷീരപഥത്തിന്റെ വ്യാസം എന്താണ്?",
+        "en": "What is the diameter of the Milky Way?",
+        "o": {
+            "a": "30,000 light years",
+            "b": "10,000 light years",
+            "c": "1,20,000 light years",
+            "d": "20,00,000 light years"
+        },
+        "an": 3
+    },
+    {
+        "ma": "F.Hoyle ഉം Lyttleton ഉം മുന്നോട്ട് വെച്ച അനുമാനം ഏതാണ്?",
+        "en": "Which Hypothesis was put forward by F.Hoyle and Lyttleton?",
+        "o": {
+            "a": "Nebular Hypothesis",
+            "b": "Cepheid Hypothesis",
+            "c": "Interstellar Dust Hypothesis",
+            "d": "Nova Hypothesis"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഭൂമിയിലെ ജീവന്റെ ഫോസിൽ രേഖയ്ക്ക് മുമ്പുള്ള കാലഘട്ടത്തെ പ്രതിനിധീകരിക്കുന്നത് ഏത് യുഗമാണ്?",
+        "en": "Which Eon represents the time before the fossil record of life on Earth?",
+        "o": {
+            "a": "Proterozoic",
+            "b": "Archean",
+            "c": "Phanerozoic",
+            "d": "Hadean"
+        },
+        "an": 4
+    },
+    {
+        "ma": "'ദ ഏജ് ഓഫ് ദ എർത്ത്' എന്ന പുസ്തകം പ്രസിദ്ധീകരിച്ച ജിയോളജിസ്റ്റ്?",
+        "en": "Which geologist published the book ‘The Age of the Earth’?",
+        "o": {
+            "a": "Charles Lyell",
+            "b": "Arthur Holmes",
+            "c": "Roderick Murchison",
+            "d": "Abraham Werner"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ 6000 മീറ്ററിൽ കൂടുതൽ ഉയരത്തിൽ സാധാരണയായി കാണപ്പെടുന്ന ഉയർന്ന മേഘങ്ങൾ ഏതാണ്?",
+        "en": "Which among the following are high clouds generally found at a height greater than 6000 metres?",
+        "o": {
+            "a": "Cirrus",
+            "b": "Stratus",
+            "c": "Cumulus",
+            "d": "Cumulonimbus"
+        },
+        "an": 1
+    },
+    {
+        "ma": "താഴ്ന്ന വേലിയേറ്റത്തിനും ഉയർന്ന വേലിയേറ്റത്തിനും ഇടയിലുള്ള കാലയളവിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What is the time period between a low tide and a high tide called?",
+        "o": {
+            "a": "Ebb Tide",
+            "b": "Flow Tide",
+            "c": "Receding Tide",
+            "d": "Outgoing Tide"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ചന്ദ്രന്റെ ഭ്രമണപഥത്തിൽ ഭൂമിയിൽ നിന്ന് ഏറ്റവും അകലെയുള്ള പോയിന്റ് എന്താണ്?",
+        "en": "What is the point in the Moon’s orbit that is farthest to the Earth called?",
+        "o": {
+            "a": "Apogee",
+            "b": "Perigee",
+            "c": "Aphelion",
+            "d": "Perihelion"
+        },
+        "an": 1
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏതാണ് കടുവ ഉപജാതി വംശനാശം സംഭവിക്കാത്തത്?",
+        "en": "Which of the following tiger subspecies is not extinct?",
+        "o": {
+            "a": "Balinese",
+            "b": "Caspian",
+            "c": "Sumatran",
+            "d": "Javan"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ആനയുടെ തുമ്പിക്കൈയിൽ എത്ര അസ്ഥികളുണ്ട്?",
+        "en": "How many bones are there in an elephant's trunk?",
+        "o": {
+            "a": "0",
+            "b": "1",
+            "c": "2",
+            "d": "8"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്ന ജോഡി വിളകൾ തോട്ടങ്ങളിൽ വളരുന്നു",
+        "en": "The following pair of crops is grown in plantations",
+        "o": {
+            "a": "Rice and wheat",
+            "b": "Jute and cotton",
+            "c": "Tea and coffee",
+            "d": "Millets and Maize"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ക്രസ്റ്റേഷ്യനുകളിൽ അംഗമായ മൃഗം ഏതാണ്?",
+        "en": "What animal is a member of the Crustaceans?",
+        "o": {
+            "a": "Cricket",
+            "b": "Crab",
+            "c": "Gnat",
+            "d": "Anteater"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വാതിലുകളുടെയും കാബിനറ്റിന്റെയും ഉപരിതലം ഏത് കനം കുറഞ്ഞ മരക്കഷണമാണ്?",
+        "en": "What thin slice of wood covers the surface of doors and cabinet?",
+        "o": {
+            "a": "Billet",
+            "b": "Veneer",
+            "c": "Mortise",
+            "d": "Cannel"
+        },
+        "an": 2
+    },
+    {
+        "ma": "പ്രാവുകൾ ഏത് കഴിവിനാണ് അറിയപ്പെടുന്നത്?",
+        "en": "pigeons are known for what ability?",
+        "o": {
+            "a": "Homing",
+            "b": "Diving",
+            "c": "Venom defense",
+            "d": "Live birth"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സ്റ്റാലാക്റ്റൈറ്റുകൾ നമുക്ക് എവിടെ കണ്ടെത്താനാകും?",
+        "en": "Where can we find stalactites?",
+        "o": {
+            "a": "In a cave",
+            "b": "In the kitchen",
+            "c": "In a desert",
+            "d": "In a forest"
+        },
+        "an": 1
+    },
+    {
+        "ma": "അറോറ ബോറിയാലിസിന്റെ പൊതുവായ പേര് എന്താണ്?",
+        "en": "What is the common name for aurora borealis?",
+        "o": {
+            "a": "Grape",
+            "b": "Bamboo",
+            "c": "Flu",
+            "d": "Northern lights"
+        },
+        "an": 4
+    },
+    {
+        "ma": "അട്ട ഒരു ...?",
+        "en": "The leech is a ...?",
+        "o": {
+            "a": "Metabolite",
+            "b": "Herbivore",
+            "c": "Parasite",
+            "d": "Autotroph"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഒരു നിഷ്ക്രിയ അഗ്നിപർവ്വതം ...?",
+        "en": "A dormant volcano is...?",
+        "o": {
+            "a": "Extinct",
+            "b": "Inactive",
+            "c": "Erupting",
+            "d": "Below sea level"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഏത് ദ്വീപിലെ 90% സസ്യങ്ങളും മൃഗങ്ങളും ഭൂമിയിൽ മറ്റൊരിടത്തും കാണപ്പെടുന്നില്ല?",
+        "en": "90% of which island's plant and animal species are found nowhere else on Earth?",
+        "o": {
+            "a": "Madagascar",
+            "b": "Timor",
+            "c": "Ireland",
+            "d": "Kodiak Island"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സയാമീസും ബർമീസും ഏത് മൃഗത്തിന്റെ ഇനമാണ്?",
+        "en": "Siamese and Burmese are breeds of which animal?",
+        "o": {
+            "a": "Pig",
+            "b": "Cat",
+            "c": "Donkey",
+            "d": "Dog"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ചിലന്തികൾ, തേളുകൾ, പേന്‍, പുഴു എന്നിവ ഉൾപ്പെടുന്ന ഏത് മൃഗ വിഭാഗമാണ്?",
+        "en": "Which animal class comprises spiders, scorpions, ticks and mites?",
+        "o": {
+            "a": "Annelida",
+            "b": "Merostomata",
+            "c": "Arachnida",
+            "d": "Branchiopoda"
+        },
+        "an": 3
+    },
+    {
+        "ma": "പർവതങ്ങളുടെ രൂപീകരണത്തിന് കാരണമായത് എന്താണ്?",
+        "en": "Which is a cause for the formation of mountains?",
+        "o": {
+            "a": "Plate collision",
+            "b": "Ekman transport",
+            "c": "Soil liquefaction",
+            "d": "Baroclinic fission"
+        },
+        "an": 1
+    },
+    {
+        "ma": "രാത്രിയിൽ മാത്രം സജീവമായ ഒരു മൃഗം എന്താണ്?",
+        "en": "An animal that is active only at night is ...?",
+        "o": {
+            "a": "Crepuscular",
+            "b": "Maturinal",
+            "c": "Nocturnal",
+            "d": "Diurnal"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഏത് മൃഗത്തിന് കടുത്ത കവചമുണ്ട്?",
+        "en": "Which animal has a tough armor?",
+        "o": {
+            "a": "Armadillo",
+            "b": "Dolphin",
+            "c": "Giraffe",
+            "d": "Tiger"
+        },
+        "an": 1
+    },
+    {
+        "ma": "എന്ത് ഇല്ലാത്ത സസ്യങ്ങളാണ് ഫംഗസ്?",
+        "en": "Fungi are plants that lack ...?",
+        "o": {
+            "a": "Oxygen",
+            "b": "Carbon dioxide",
+            "c": "Chlorophyll",
+            "d": "None of these"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഇഴജന്തുക്കളെ ഇഴജന്തുക്കളാക്കുന്നത് എന്താണ്?",
+        "en": "What makes a reptile a reptile?",
+        "o": {
+            "a": "Cold blooded",
+            "b": "Warm Blooded",
+            "c": "Non-Hearing",
+            "d": "Egg-laying"
+        },
+        "an": 4
+    },
+    {
+        "ma": "കാട്ടുപന്നിയുടെ പ്രകൃതിദത്ത വേട്ടക്കാരൻ ഏതാണ്?",
+        "en": "Which is a natural predator of the wild boar?",
+        "o": {
+            "a": "Elk",
+            "b": "Golden eagle",
+            "c": "Wolf",
+            "d": "Walrus"
+        },
+        "an": 3
+    },
+    {
+        "ma": "മണ്ണിലെ ഈർപ്പം നിലനിർത്തുന്ന സവിശേഷത ഉള്ളതിനാൽ താഴെ പറയുന്നവയിൽ ഏതാണ് കുറച്ച് ജലസേചനം ആവശ്യമുള്ള മണ്ണ്?",
+        "en": "Which of the following soil needs little irrigation as it has the feature retaining soil moisture?",
+        "o": {
+            "a": "Red soil",
+            "b": "Alluvial soil",
+            "c": "Black soil",
+            "d": "Laterite soil"
+        },
+        "an": 3
+    }
+]

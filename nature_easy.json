@@ -1,0 +1,222 @@
+[
+    {
+        "ma": "ഏത് മൃഗത്തിന് മുത്തുകൾ ഉത്പാദിപ്പിക്കാൻ കഴിയും?",
+        "en": "Which animal can produce pearls?",
+        "o": {
+            "a": "Oyster",
+            "b": "Cow",
+            "c": "Strurgeon",
+            "d": "Spider"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഭൂമിയുടെ crust and cores ഇടയിൽ എന്താണ് സ്ഥിതിചെയ്യുന്നത്?",
+        "en": "What lies between Earth's crust and cores?",
+        "o": {
+            "a": "Cloak",
+            "b": "Mantle",
+            "c": "Curtain",
+            "d": "Cape"
+        },
+        "an": 2
+    },
+    {
+        "ma": "പുറകിലെ എല്ലില്ലാത്ത മൃഗങ്ങളെ നമ്മൾ എന്താണ് വിളിക്കുന്നത്?",
+        "en": "What do we call animals without a back bone?",
+        "o": {
+            "a": "Chordates",
+            "b": "Reptiles",
+            "c": "Mammals",
+            "d": "Invertebrates"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഏറ്റവും വലിയ പാമ്പ് ഏതാണ്?",
+        "en": "What is the largest snake?",
+        "o": {
+            "a": "Anaconda",
+            "b": "Black mamba",
+            "c": "King cobra",
+            "d": "Rattlesnake"
+        },
+        "an": 1
+    },
+    {
+        "ma": "'Black widow' ചിലന്തിക്ക് അതിന്റെ പേര് എങ്ങനെ ലഭിച്ചു?",
+        "en": "How did the female black widow spider get its name?",
+        "o": {
+            "a": "Doesn't produce cobwebs",
+            "b": "Kills widows",
+            "c": "Return home only once a year",
+            "d": "Eats the male after mating"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ചിലന്തികൾക്ക് എത്ര കാലുകളുണ്ട്?",
+        "en": "How many legs do spiders have?",
+        "o": {
+            "a": "6",
+            "b": "12",
+            "c": "4",
+            "d": "8"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഒരു ഒക്ടോപസിന് എത്ര കൈകളുണ്ട്?",
+        "en": "How many arms does an octopus have?",
+        "o": {
+            "a": "10",
+            "b": "6",
+            "c": "14",
+            "d": "8"
+        },
+        "an": 4
+    },
+    {
+        "ma": "താപനിലയുടെ ഒരു യൂണിറ്റ് അല്ലാത്തത് ഏതാണ്?",
+        "en": "Which is not a unit of temperature?",
+        "o": {
+            "a": "Siemens",
+            "b": "Fahrenheit",
+            "c": "Celsius",
+            "d": "Kelvin"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സൂര്യനിൽ നിന്ന് ഏറ്റവും കൂടുതൽ ചൂട് ലഭിക്കുന്ന മേഖല ഏതാണ്?",
+        "en": "Which region receives the most heat from the Sun?",
+        "o": {
+            "a": "Temperate region",
+            "b": "Tropical region",
+            "c": "Polar region",
+            "d": "Arctic region"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഏത് സസ്യാവയവമാണ് മണ്ണിൽ നിന്ന് വെള്ളവും ധാതുക്കളും എടുക്കുന്നത്?",
+        "en": "What plant organ takes up water and minerals from the soil?",
+        "o": {
+            "a": "Root",
+            "b": "Meristem",
+            "c": "Leaf",
+            "d": "Palisade"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഏത് പക്ഷിയാണ് പലപ്പോഴും ഒരു കാലിൽ നിൽക്കുന്നത്?",
+        "en": "Which bird often stands on one leg?",
+        "o": {
+            "a": "Pigeon",
+            "b": "hummingbird",
+            "c": "Ostrich",
+            "d": "Flamingo"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഈ ഇനങ്ങളിൽ ഏതാണ് മണ്ണിലെ മന്ദഗതിയിലുള്ള വിഘടിപ്പിക്കുന്നത്?",
+        "en": "Which of these items decomposes the slowest in the soil?",
+        "o": {
+            "a": "Newspaper",
+            "b": "Cotton shirt",
+            "c": "Cardboard box",
+            "d": "Plastic bottle"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഏത് പക്ഷിക്ക് നീന്താൻ കഴിയും, പക്ഷേ പറക്കാൻ കഴിയില്ല?",
+        "en": "What bird can swim but not fly?",
+        "o": {
+            "a": "Swan",
+            "b": "Stork",
+            "c": "Penguin",
+            "d": "Eagle"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഏത് മൃഗത്തിലെ മുട്ടയാണ് ഒരു സഞ്ചിയിൽ കൊണ്ടുപോകുന്നത്?",
+        "en": "The male of which animal carry the eggs in a pouch?",
+        "o": {
+            "a": "Seahorse",
+            "b": "Sea urchin",
+            "c": "Octopus",
+            "d": "Angler fish"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ന്യൂസിലാന്റിന്റെ ദേശീയ പക്ഷി ഏതാണ്?",
+        "en": "What is the national bird of New Zealand?",
+        "o": {
+            "a": "Bellbird",
+            "b": "Moa",
+            "c": "Kiwi",
+            "d": "Tui"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഏത് മൃഗങ്ങൾക്ക് കഠിനമായ കവചമുള്ളത്?",
+        "en": "Which animal has tough armor?",
+        "o": {
+            "a": "Giraffe",
+            "b": "Armadillo",
+            "c": "Tiger",
+            "d": "Dolphin"
+        },
+        "an": 2
+    },
+    {
+        "ma": "മറ്റുള്ളവയുടെ ഒരേ കുടുംബത്തിൽ പെടാത്ത ചെടി ഏതാണ്?",
+        "en": "Which plant does not belong to the same family as the others?",
+        "o": {
+            "a": "Tomato",
+            "b": "Lavender",
+            "c": "Potato",
+            "d": "Eggplant"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഈ സസ്യങ്ങളിൽ ഏതാണ് മാംസഭോജി?",
+        "en": "Which of these plants is carnivorous?",
+        "o": {
+            "a": "Cabbage",
+            "b": "Alder",
+            "c": "Nightshade",
+            "d": "Venus flytrap"
+        },
+        "an": 4
+    },
+    {
+        "ma": "മാംസം മാത്രം കഴിക്കുന്ന ജീവി ഏതാണ്?",
+        "en": "Which organism eats only meat?",
+        "o": {
+            "a": "Vegan",
+            "b": "Omnivore",
+            "c": "Herbivore",
+            "d": "Carnivore"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഏറ്റവും ചെറിയ പക്ഷി?",
+        "en": "The smallest bird is?",
+        "o": {
+            "a": "Indian swift",
+            "b": "Humming bird",
+            "c": "Vulture",
+            "d": "Eagle"
+        },
+        "an": 2
+    }
+]

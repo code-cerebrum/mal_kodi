@@ -1,0 +1,1355 @@
+[
+    {
+        "ma": "കമ്പ്യൂട്ടിംഗിൽ, 'CPU' ലെ 'P' എന്താണ്?",
+        "en": "In computing, for what does the 'P' in 'CPU' stand?",
+        "o": {
+            "a": "Processing",
+            "b": "Polynomial",
+            "c": "Predictive",
+            "d": "Partitioning"
+        },
+        "an": 1
+    },
+    {
+        "ma": "യന്ത്രവൽകൃത വിമാനം കണ്ടുപിടിച്ചത് ഏത് സഹോദരങ്ങളാണ്?",
+        "en": "What brothers were pioneers of motorized flight?",
+        "o": {
+            "a": "Montgolfier",
+            "b": "Wright",
+            "c": "Earp",
+            "d": "Grimm"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വെബ് പേജുകൾ സൃഷ്ടിക്കുന്നതിനുള്ള സ്റ്റാൻഡേർഡ് ഭാഷ എന്താണ്?",
+        "en": "What is the standard language for creating web pages?",
+        "o": {
+            "a": "BASIC",
+            "b": "HTML",
+            "c": "MATLAB",
+            "d": "COBOL"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഒരു റഡാർ എന്തിനുവേണ്ടിയാണ് ഉപയോഗിക്കുന്നത്?",
+        "en": "For what is a radar used?",
+        "o": {
+            "a": "Measuring flux",
+            "b": "Detecting objects",
+            "c": "Amplifying sound",
+            "d": "Substituting lasers"
+        },
+        "an": 2
+    },
+    {
+        "ma": "കമ്പ്യൂട്ടറിന്റെ ആപ്ലിക്കേഷൻ സോഫ്റ്റ്വെയറിന്റെ ഉദാഹരണം തിരഞ്ഞെടുക്കുക",
+        "en": "Select the example of application software of computer",
+        "o": {
+            "a": "Ms Word",
+            "b": "Ms Excel",
+            "c": "Both A and B",
+            "d": "MS-DOS"
+        },
+        "an": 3
+    },
+    {
+        "ma": "പ്രിന്ററിന്റെ ഗുണനിലവാരം എങ്ങനെയാണ് അളക്കുന്നത്?",
+        "en": "How the quality of printer is measured?",
+        "o": {
+            "a": "Alphabet per strike",
+            "b": "Words per Inch",
+            "c": "Strike per Inch",
+            "d": "Dots per Inch"
+        },
+        "an": 4
+    },
+    {
+        "ma": "ഒരു തരം വിവരങ്ങൾ മാത്രം ഉൾക്കൊള്ളുന്ന ഒരു ഡാറ്റാബേസിന്റെ ഭാഗം എന്താണ്?",
+        "en": "What is part of a database that holds only one type of information?",
+        "o": {
+            "a": "Report",
+            "b": "Field",
+            "c": "Record",
+            "d": "File"
+        },
+        "an": 2
+    },
+    {
+        "ma": "'OS' കമ്പ്യൂട്ടർ ചുരുക്കെഴുത്ത് സാധാരണയായി അർത്ഥമാക്കുന്നത്?",
+        "en": "'OS' computer abbreviation usually means ?",
+        "o": {
+            "a": "Order of Significance",
+            "b": "Open Software",
+            "c": "Operating System",
+            "d": "Optical Sensor"
+        },
+        "an": 3
+    },
+    {
+        "ma": "'.MOV' വിപുലീകരണം സാധാരണയായി ഏത് തരത്തിലുള്ള ഫയലിനെയാണ് സൂചിപ്പിക്കുന്നത്?",
+        "en": "'.MOV' extension refers usually to what kind of file?",
+        "o": {
+            "a": "Image file",
+            "b": "Animation/movie file",
+            "c": "Audio file",
+            "d": "MS Office document"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഒരു ഹോം വീഡിയോ റെക്കോർഡറിന്റെ ഏറ്റവും സാധാരണമായ ഫോർമാറ്റ് VHS ആണ്. VHS എന്നതിന്റെ അർത്ഥം...?",
+        "en": "The most common format for a home video recorder is VHS. VHS stands for...?",
+        "o": {
+            "a": "Video Home System",
+            "b": "Very high speed",
+            "c": "Video horizontal standard",
+            "d": "Voltage house standard"
+        },
+        "an": 1
+    },
+    {
+        "ma": "'.MPG' വിപുലീകരണം സാധാരണയായി ഏത് തരത്തിലുള്ള ഫയലിനെയാണ് സൂചിപ്പിക്കുന്നത്?",
+        "en": "'.MPG' extension refers usually to what kind of file?",
+        "o": {
+            "a": "WordPerfect Document file",
+            "b": "MS Office document",
+            "c": "Animation/movie file",
+            "d": "Image file"
+        },
+        "an": 3
+    },
+    {
+        "ma": "പാന്തർ (10.3), ജാഗ്വാർ (10.2), പ്യൂമ (10.1), ചീറ്റ (10.0) എന്നിവ ഏതുതരം ഓപ്പറേറ്റിംഗ് സിസ്റ്റത്തിന്റെ ഉദാഹരണങ്ങളാണ്?",
+        "en": "Panther (10.3), Jaguar (10.2), Puma (10.1), and Cheetah (10.0) are examples of what kind of operating system?",
+        "o": {
+            "a": "Windows OS",
+            "b": "Mac OS",
+            "c": "Linux OS",
+            "d": "Android OS"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഇനിപ്പറയുന്നവയിൽ ഏതാണ് ജനപ്രിയ കമ്പനിയായ ആപ്പിൾ അവ പുറത്തിറക്കിയ ശരിയായ ക്രമം?",
+        "en": "Which among the following is the correct order in which popular company Apple released them?",
+        "o": {
+            "a": "Mac, iPod, iPad, iPhone",
+            "b": "Mac, iPhone, iPod, iPad",
+            "c": "Mac, iPod, iPhone, iPad",
+            "d": "Mac, iPad, ipod, iPhone"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഒരു കമ്പ്യൂട്ടറിന് ഏത് തരത്തിലുള്ള പ്രവർത്തനങ്ങൾ നടത്താൻ കഴിയും?",
+        "en": "What kind of operations can a computer carry out?",
+        "o": {
+            "a": "Arithmetic and Logical",
+            "b": "Verbal and Logical",
+            "c": "Logical and Cognitive",
+            "d": "Verbal and Arithmetic"
+        },
+        "an": 1
+    },
+    {
+        "ma": "മോണിറ്ററുകൾ, പ്രിന്ററുകൾ, ഡിസ്ക് ഡ്രൈവുകൾ, കീബോർഡ്, മൗസ് എന്നിവ ഇനിപ്പറയുന്നവയിൽ ഏതൊക്കെ വിഭാഗത്തിലാണ് ഉൾപ്പെടുത്തിയിരിക്കുന്നത്?",
+        "en": "Monitors, printers, disk drives, keyboard, mouse are included in which of the following categories?",
+        "o": {
+            "a": "Storage Device",
+            "b": "Hardware",
+            "c": "Software",
+            "d": "All of the Above"
+        },
+        "an": 2
+    },
+    {
+        "ma": "കമ്പ്യൂട്ടർ സിസ്റ്റത്തിൽ സാധ്യമായ തകരാറുകൾ കണ്ടെത്തുന്നതിന് ഉപയോഗിക്കുന്ന പ്രോഗ്രാമുകൾക്ക് ഇനിപ്പറയുന്ന പദങ്ങളിൽ ഏതാണ് പലപ്പോഴും ഉപയോഗിക്കുന്നത്?",
+        "en": "Which of the following terms is often used for the programs that are used to find out possible faults in the computer system?",
+        "o": {
+            "a": "Operating system extensions",
+            "b": "Cookies",
+            "c": "Diagnostic software",
+            "d": "Boot Diskettes"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഡാറ്റയുടെയോ പ്രോഗ്രാം ഫയലുകളുടെയോ പകർപ്പുകൾ എല്ലായ്പ്പോഴും ഒരു സുരക്ഷിതമായി സൂക്ഷിക്കുന്നു. ഇനിപ്പറയുന്നവയിൽ ഏതാണ് ഈ കോപ്പികൾക്ക് നൽകിയിരിക്കുന്ന പേര്?",
+        "en": "The copies of data or program files are always stored as a safety. Which of the following is the name given to these copies?",
+        "o": {
+            "a": "Backups",
+            "b": "Programs",
+            "c": "Extras",
+            "d": "Stores"
+        },
+        "an": 1
+    },
+    {
+        "ma": "പേഴ്സണൽ കമ്പ്യൂട്ടറിന്റെ ഇനിപ്പറയുന്ന ഘടകങ്ങളിൽ ഏതാണ് സിസ്റ്റത്തിന്റെ തീയതിയും സമയവും പരിപാലിക്കുന്നത്?",
+        "en": "Which of the following components of Personal Computer maintains date and time of the system?",
+        "o": {
+            "a": "CMOS RAM",
+            "b": "VRAM",
+            "c": "PROM",
+            "d": "Motherboard"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇതിൽ ഏതാണ് ഇന്ത്യൻ സ്മാർട്ട്‌ഫോൺ നിർമ്മാതാവ്?",
+        "en": "Which of these is an Indian smartphone manufacturer?",
+        "o": {
+            "a": "Karbonn",
+            "b": "Xiaomi",
+            "c": "Oppo",
+            "d": "Vivo"
+        },
+        "an": 1
+    },
+    {
+        "ma": "MS Windows 10-ൽ മുൻകൂട്ടി ഇൻസ്റ്റാൾ ചെയ്തിട്ടുള്ള വെബ് ബ്രൗസർ ഏതാണ്?",
+        "en": "Which web browser comes pre-installed with MS Windows 10?",
+        "o": {
+            "a": "Edge",
+            "b": "Chrome",
+            "c": "Safari",
+            "d": "Firefox"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വിൻഡോസ് ഒഎസിനായി എംഎസ് എക്സൽ എപ്പോഴാണ് ആരംഭിച്ചത്?",
+        "en": "When was MS Excel launched for Windows OS?",
+        "o": {
+            "a": "1986",
+            "b": "1985",
+            "c": "1987",
+            "d": "1988"
+        },
+        "an": 3
+    },
+    {
+        "ma": "കോൺഫറൻസുകൾക്കും മീറ്റിംഗുകൾക്കും തത്സമയം ഉപയോഗിക്കാനാകുന്ന Microsoft Office ആപ് ഏതാണ്?",
+        "en": "Which of these Microsoft Office apps can be used for conferences and meetings in real time?",
+        "o": {
+            "a": "MS Powerpoint",
+            "b": "MS Excel",
+            "c": "Skype for Business",
+            "d": "MS Project"
+        },
+        "an": 3
+    },
+    {
+        "ma": "MS PowerPoint-ലോ മറ്റേതെങ്കിലും സോഫ്‌റ്റ്‌വെയറിലോ നിലവിലുള്ള ഒരു അവതരണമോ പ്രോഗ്രാമോ എങ്ങനെ തുറക്കാനാകും?",
+        "en": "How can an existing presentation or program be opened in MS PowerPoint or in any other software?",
+        "o": {
+            "a": "Ctrl + P",
+            "b": "Ctrl +  O",
+            "c": "Ctrl +  S",
+            "d": "Ctrl + Shift + O"
+        },
+        "an": 2
+    },
+    {
+        "ma": "റാമിന്റെ പൂർണ്ണ രൂപം എന്താണ്?",
+        "en": "What is the full form of RAM?",
+        "o": {
+            "a": "Random Access Memory",
+            "b": "Read Only Memory",
+            "c": "Register Access Memory",
+            "d": "Remote Access Memory"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഒരു കമ്പ്യൂട്ടർ ഇന്റർനെറ്റുമായി ബന്ധിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന ഉപകരണം ഏതാണ്?",
+        "en": "What is the device used to connect a computer to the Internet?",
+        "o": {
+            "a": "Router",
+            "b": "Modem",
+            "c": "Hub",
+            "d": "Switch"
+        },
+        "an": 2
+    },
+    {
+        "ma": "മിക്ക സ്മാർട്ട്ഫോണുകളിലും ഉപയോഗിക്കുന്ന ഓപ്പറേറ്റിംഗ് സിസ്റ്റം എന്താണ്?",
+        "en": "What is the operating system used in most smartphones?",
+        "o": {
+            "a": "Windows",
+            "b": "iOS",
+            "c": "Android",
+            "d": "Blackberry OS"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഡോക്യുമെന്റുകൾ സൃഷ്ടിക്കുന്നതിനും എഡിറ്റ് ചെയ്യുന്നതിനും ഏത് തരത്തിലുള്ള സോഫ്‌റ്റ്‌വെയറാണ് ഉപയോഗിക്കുന്നത്?",
+        "en": "Which type of software is used to create and edit documents?",
+        "o": {
+            "a": "Productivity software",
+            "b": "Graphic software",
+            "c": "Antivirus software",
+            "d": "System software"
+        },
+        "an": 1
+    },
+    {
+        "ma": "'സ്പാം' എന്ന പദം സാങ്കേതികവിദ്യയിൽ എന്താണ് സൂചിപ്പിക്കുന്നത്?",
+        "en": "What does the term “spam” refer to in technology?",
+        "o": {
+            "a": "Unsolicited email",
+            "b": "Malicious software",
+            "c": "Blocked website",
+            "d": "Broken link"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സിഡികളിലും ഡിവിഡികളിലും ഡാറ്റ വായിക്കുകയും എഴുതുകയും ചെയ്യുന്ന ഉപകരണം ഏതാണ്?",
+        "en": "What is the device that reads and writes data on CDs and DVDs?",
+        "o": {
+            "a": "Hard disk drive",
+            "b": "CD-ROM drive",
+            "c": "USB drive",
+            "d": "Floppy disk drive"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വൈറസുകളിൽ നിന്നും ക്ഷുദ്രവെയറിൽ നിന്നും കമ്പ്യൂട്ടറിനെ സംരക്ഷിക്കാൻ ഏത് തരം സോഫ്‌റ്റ്‌വെയറാണ് ഉപയോഗിക്കുന്നത്?",
+        "en": "Which type of software is used to protect a computer from viruses and malware?",
+        "o": {
+            "a": "Antivirus software",
+            "b": "Graphic software",
+            "c": "Productivity software",
+            "d": "System software"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഐഫോൺ നിർമ്മിച്ച കമ്പനിയുടെ പേരെന്താണ്?",
+        "en": "What is the name of the company that created the iPhone?",
+        "o": {
+            "a": "Samsung",
+            "b": "Microsoft",
+            "c": "Apple",
+            "d": "Google"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഉപയോക്താക്കൾക്ക് ഫോട്ടോകളും വീഡിയോകളും പങ്കിടാൻ കഴിയുന്ന ജനപ്രിയ സോഷ്യൽ നെറ്റ്‌വർക്കിംഗ് സൈറ്റിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular social networking site where users can share photos and videos?",
+        "o": {
+            "a": "Instagram",
+            "b": "Twitter",
+            "c": "Snapchat",
+            "d": "TikTok"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വെബ് വികസനത്തിന് ഉപയോഗിക്കുന്ന പ്രോഗ്രാമിംഗ് ഭാഷയുടെ പേരെന്താണ്?",
+        "en": "What is the name of the programming language used for web development?",
+        "o": {
+            "a": "Python",
+            "b": "C++",
+            "c": "HTML",
+            "d": "Java"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഒരു കമ്പ്യൂട്ടറിൽ ഡാറ്റ സംഭരിക്കാനും ആക്സസ് ചെയ്യാനും ഉപയോഗിക്കുന്ന ഉപകരണം ഏതാണ്?",
+        "en": "What is the device used to store and access data on a computer?",
+        "o": {
+            "a": "Hard disk drive",
+            "b": "CD-ROM drive",
+            "c": "USB drive",
+            "d": "Floppy disk drive"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഏറ്റവും വ്യാപകമായി ഉപയോഗിക്കുന്ന ഇമെയിൽ സേവന ദാതാവ് ഏതാണ്?",
+        "en": "What is the most widely used email service provider?",
+        "o": {
+            "a": "Yahoo Mail",
+            "b": "Gmail",
+            "c": "Hotmail",
+            "d": "AOL Mail"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ചരക്കുകളും സേവനങ്ങളും വാങ്ങുന്നതിനും വിൽക്കുന്നതിനുമുള്ള ജനപ്രിയ ഓൺലൈൻ മാർക്കറ്റിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular online marketplace for buying and selling goods and services?",
+        "o": {
+            "a": "Amazon",
+            "b": "eBay",
+            "c": "Etsy",
+            "d": "Walmart"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇന്റർനെറ്റിൽ തിരയാൻ വ്യാപകമായി ഉപയോഗിക്കുന്ന സെർച്ച് എഞ്ചിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the search engine that is widely used to search the Internet?",
+        "o": {
+            "a": "Yahoo",
+            "b": "Bing",
+            "c": "Google",
+            "d": "DuckDuckGo"
+        },
+        "an": 3
+    },
+    {
+        "ma": "സിപിയുവിന്റെ പൂർണ്ണ രൂപം എന്താണ്?",
+        "en": "What is the full form of CPU?",
+        "o": {
+            "a": "Central Processing Unit",
+            "b": "Central Program Unit",
+            "c": "Central Processing User",
+            "d": "Central Program User"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സ്മാർട്ട്‌ഫോണുകൾക്കായുള്ള ജനപ്രിയ തൽക്ഷണ സന്ദേശമയയ്‌ക്കൽ ആപ്പിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular instant messaging app for smartphones?",
+        "o": {
+            "a": "WhatsApp",
+            "b": "Facebook Messenger",
+            "c": "Snapchat",
+            "d": "Instagram Direct"
+        },
+        "an": 1
+    },
+    {
+        "ma": "മിക്ക ലാപ്‌ടോപ്പുകളിലും ഡെസ്‌ക്‌ടോപ്പുകളിലും ഉപയോഗിക്കുന്ന ഓപ്പറേറ്റിംഗ് സിസ്റ്റത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the operating system used in most laptops and desktops?",
+        "o": {
+            "a": "Windows",
+            "b": "iOS",
+            "c": "Android",
+            "d": "MacOS"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ജനപ്രിയ വീഡിയോ പങ്കിടൽ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular video sharing platform?",
+        "o": {
+            "a": "YouTube",
+            "b": "Vimeo",
+            "c": "Dailymotion",
+            "d": "TikTok"
+        },
+        "an": 1
+    },
+    {
+        "ma": "പുസ്തകങ്ങൾ വാങ്ങുന്നതിനും വിൽക്കുന്നതിനുമുള്ള ജനപ്രിയ ഇ-കൊമേഴ്‌സ് വെബ്‌സൈറ്റിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular e-commerce website for buying and selling books?",
+        "o": {
+            "a": "Amazon",
+            "b": "Barnes & Noble",
+            "c": "Books-A-Million",
+            "d": "Powell's Books"
+        },
+        "an": 1
+    },
+    {
+        "ma": "കമ്പ്യൂട്ടറുകൾക്കിടയിൽ ഡാറ്റ കൈമാറുന്നതിനോ ഡാറ്റ സംഭരിക്കുന്നതിനോ ഉപയോഗിക്കുന്ന ഉപകരണം ഏതാണ്?",
+        "en": "What is the device used to transfer data between computers or to store data?",
+        "o": {
+            "a": "Hard disk drive",
+            "b": "CD-ROM drive",
+            "c": "USB drive",
+            "d": "Floppy disk drive"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഓൺലൈൻ പേയ്‌മെന്റുകൾക്കായി ഉപയോഗിക്കുന്ന ജനപ്രിയ ഡിജിറ്റൽ വാലറ്റിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular digital wallet used for online payments?",
+        "o": {
+            "a": "PayPal",
+            "b": "Venmo",
+            "c": "Apple Pay",
+            "d": "Google Wallet"
+        },
+        "an": 1
+    },
+    {
+        "ma": "കമ്പ്യൂട്ടറിന്റെ ഉറവിടങ്ങളും ചുമതലകളും നിയന്ത്രിക്കാനും നിയന്ത്രിക്കാനും ഉപയോഗിക്കുന്ന ഉപകരണത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the device used to control and manage a computer's resources and tasks?",
+        "o": {
+            "a": "Keyboard",
+            "b": "Monitor",
+            "c": "Mouse",
+            "d": "Operating System"
+        },
+        "an": 4
+    },
+    {
+        "ma": "സ്മാർട്ട്ഫോണുകളിൽ ഉപയോഗിക്കുന്ന ജനപ്രിയ വെർച്വൽ അസിസ്റ്റന്റിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular virtual assistant used in smartphones?",
+        "o": {
+            "a": "Siri",
+            "b": "Alexa",
+            "c": "Google Assistant",
+            "d": "Bixby"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഫയലുകൾ ഓൺലൈനായി സംഭരിക്കുന്നതിനും ആക്‌സസ് ചെയ്യുന്നതിനുമുള്ള ജനപ്രിയ ക്ലൗഡ് സ്റ്റോറേജ് സേവനത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular cloud storage service for storing and accessing files online?",
+        "o": {
+            "a": "Google Drive",
+            "b": "Dropbox",
+            "c": "iCloud",
+            "d": "OneDrive"
+        },
+        "an": 2
+    },
+    {
+        "ma": "HTTP യുടെ പൂർണ്ണ രൂപം എന്താണ്?",
+        "en": "What is the full form of HTTP?",
+        "o": {
+            "a": "Hypertext Transfer Protocol",
+            "b": "Hypertext Transfer Portal",
+            "c": "Hypertext Transfer Page",
+            "d": "Hypertext Transfer Program"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഉപയോക്താക്കൾക്ക് ഹ്രസ്വ-ഫോം വീഡിയോകൾ പങ്കിടാൻ കഴിയുന്ന ജനപ്രിയ സോഷ്യൽ മീഡിയ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular social media platform where users can share short-form videos?",
+        "o": {
+            "a": "TikTok",
+            "b": "Instagram",
+            "c": "Snapchat",
+            "d": "Vine"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ജനപ്രിയ ഡിജിറ്റൽ സംഗീത സ്ട്രീമിംഗ് സേവനത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular digital music streaming service?",
+        "o": {
+            "a": "Spotify",
+            "b": "Apple Music",
+            "c": "Pandora",
+            "d": "Soundcloud"
+        },
+        "an": 1
+    },
+    {
+        "ma": "അനലോഗ് സിഗ്നലുകളെ ഡിജിറ്റൽ സിഗ്നലുകളാക്കി മാറ്റാൻ ഉപയോഗിക്കുന്ന ഉപകരണത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the device used to convert analog signals into digital signals?",
+        "o": {
+            "a": "Router",
+            "b": "Modem",
+            "c": "Hub",
+            "d": "Switch"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഓൺലൈൻ ഇടപാടുകൾക്കായി ഉപയോഗിക്കുന്ന ജനപ്രിയ ഓൺലൈൻ പേയ്‌മെന്റ് സംവിധാനത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular online payment system used for online transactions?",
+        "o": {
+            "a": "PayPal",
+            "b": "Venmo",
+            "c": "Apple Pay",
+            "d": "Google Wallet"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഒരു കമ്പ്യൂട്ടർ നെറ്റ്‌വർക്കിലേക്ക് ഒന്നിലധികം ഉപകരണങ്ങളെ ബന്ധിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന ഉപകരണത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the device used to connect multiple devices to a computer network?",
+        "o": {
+            "a": "Router",
+            "b": "Modem",
+            "c": "Hub",
+            "d": "Switch"
+        },
+        "an": 3
+    },
+    {
+        "ma": "മിക്ക സ്മാർട്ട്ഫോണുകളിലും ഉപയോഗിക്കുന്ന ജനപ്രിയ മൊബൈൽ ഓപ്പറേറ്റിംഗ് സിസ്റ്റത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular mobile operating system used in most smartphones?",
+        "o": {
+            "a": "Windows",
+            "b": "iOS",
+            "c": "Android",
+            "d": "Blackberry OS"
+        },
+        "an": 2
+    },
+    {
+        "ma": "കമ്പ്യൂട്ടറിൽ നിന്ന് പ്രിന്ററിലേക്ക് ഡാറ്റ കൈമാറാൻ ഉപയോഗിക്കുന്ന ഉപകരണത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the device used to transfer data from a computer to a printer?",
+        "o": {
+            "a": "Router",
+            "b": "Modem",
+            "c": "Hub",
+            "d": "Switch"
+        },
+        "an": 4
+    },
+    {
+        "ma": "URL-ന്റെ പൂർണ്ണ രൂപം എന്താണ്?",
+        "en": "What is the full form of URL?",
+        "o": {
+            "a": "Uniform Resource Locator",
+            "b": "Uniform Resource Link",
+            "c": "Universal Resource Locator",
+            "d": "Universal Resource Link"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഒരു നെറ്റ്‌വർക്കിലെ ഉപകരണങ്ങൾ തമ്മിലുള്ള ഡാറ്റയുടെ ഒഴുക്ക് നിയന്ത്രിക്കാൻ ഉപയോഗിക്കുന്ന ഉപകരണത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the device used to control the flow of data between devices in a network?",
+        "o": {
+            "a": "Router",
+            "b": "Modem",
+            "c": "Hub",
+            "d": "Switch"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വാഹനങ്ങളിൽ ഉപയോഗിക്കുന്ന ജനപ്രിയ ഓൺലൈൻ നാവിഗേഷൻ സംവിധാനത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular online navigation system used in vehicles?",
+        "o": {
+            "a": "Google Maps",
+            "b": "Waze",
+            "c": "Apple Maps",
+            "d": "HERE Maps"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ബിസിനസുകളും വ്യക്തികളും ഉപയോഗിക്കുന്ന ജനപ്രിയ ഫയൽ പങ്കിടലിന്റെയും സഹകരണ പ്ലാറ്റ്‌ഫോമിന്റെയും പേരെന്താണ്?",
+        "en": "What is the name of the popular file sharing and collaboration platform used by businesses and individuals?",
+        "o": {
+            "a": "Google Drive",
+            "b": "Dropbox",
+            "c": "iCloud",
+            "d": "OneDrive"
+        },
+        "an": 2
+    },
+    {
+        "ma": "റിമോട്ട് മീറ്റിംഗുകൾക്കും സഹകരണത്തിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ വീഡിയോ കോൺഫറൻസിംഗ് പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular video conferencing platform used for remote meetings and collaboration?",
+        "o": {
+            "a": "Zoom",
+            "b": "Skype",
+            "c": "Microsoft Teams",
+            "d": "Google Meet"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഓൺലൈനിൽ വിവരങ്ങൾ തിരയാൻ ഉപയോഗിക്കുന്ന ജനപ്രിയ സെർച്ച് എഞ്ചിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular search engine used to search for information online?",
+        "o": {
+            "a": "Yahoo",
+            "b": "Bing",
+            "c": "Google",
+            "d": "Baidu"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ജനപ്രിയ വോയ്‌സ് നിയന്ത്രിത സ്മാർട്ട് ഹോം ഉപകരണത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular voice-controlled smart home device?",
+        "o": {
+            "a": "Google Home",
+            "b": "Amazon Echo",
+            "c": "Apple HomePod",
+            "d": "Nest Hub"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഡോക്യുമെന്റുകൾ സൃഷ്ടിക്കുന്നതിനും എഡിറ്റുചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and editing documents?",
+        "o": {
+            "a": "Microsoft Word",
+            "b": "Google Docs",
+            "c": "Pages",
+            "d": "LibreOffice Writer"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സ്‌പ്രെഡ്‌ഷീറ്റുകൾ സൃഷ്‌ടിക്കാനും എഡിറ്റുചെയ്യാനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and editing spreadsheets?",
+        "o": {
+            "a": "Microsoft Excel",
+            "b": "Google Sheets",
+            "c": "Numbers",
+            "d": "LibreOffice Calc"
+        },
+        "an": 1
+    },
+    {
+        "ma": "അവതരണങ്ങൾ സൃഷ്ടിക്കുന്നതിനും എഡിറ്റ് ചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and editing presentations?",
+        "o": {
+            "a": "Microsoft PowerPoint",
+            "b": "Google Slides",
+            "c": "Keynote",
+            "d": "LibreOffice Impress"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സ്‌മാർട്ട്‌ഫോണുകളിൽ ഉപയോഗിക്കുന്ന ജനപ്രിയ തൽക്ഷണ സന്ദേശമയയ്‌ക്കൽ, വീഡിയോ കോൾ ആപ്പിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular instant messaging and video call app used on smartphones?",
+        "o": {
+            "a": "WhatsApp",
+            "b": "Viber",
+            "c": "WeChat",
+            "d": "Telegram"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സാധനങ്ങൾ വാങ്ങുന്നതിനും വിൽക്കുന്നതിനുമുള്ള ജനപ്രിയ ഓൺലൈൻ മാർക്കറ്റിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular online marketplace for buying and selling goods?",
+        "o": {
+            "a": "Amazon",
+            "b": "eBay",
+            "c": "Alibaba",
+            "d": "Rakuten"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഗെയിമിംഗിനും വിനോദത്തിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ വെർച്വൽ റിയാലിറ്റി ഹെഡ്‌സെറ്റിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular virtual reality headset used for gaming and entertainment?",
+        "o": {
+            "a": "Oculus Rift",
+            "b": "PlayStation VR",
+            "c": "HTC Vive",
+            "d": "Microsoft HoloLens"
+        },
+        "an": 3
+    },
+    {
+        "ma": "സ്മാർട്ട്‌ഫോണുകളിൽ ഉപയോഗിക്കുന്ന ജനപ്രിയ ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് പവർ പേഴ്‌സണൽ അസിസ്റ്റന്റിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular artificial intelligence powered personal assistant used in smartphones?",
+        "o": {
+            "a": "Siri",
+            "b": "Alexa",
+            "c": "Google Assistant",
+            "d": "Bixby"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഗ്രാഫിക് ഡിസൈനുകൾ സൃഷ്ടിക്കുന്നതിനും എഡിറ്റ് ചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and editing graphic designs?",
+        "o": {
+            "a": "Adobe Photoshop",
+            "b": "CorelDRAW",
+            "c": "GIMP",
+            "d": "Inkscape"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വീഡിയോ ഉള്ളടക്കം സൃഷ്‌ടിക്കുന്നതിനും എഡിറ്റുചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and editing video content?",
+        "o": {
+            "a": "Adobe Premiere Pro",
+            "b": "Final Cut Pro",
+            "c": "DaVinci Resolve",
+            "d": "iMovie"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഓഡിയോ ഉള്ളടക്കം സൃഷ്‌ടിക്കുന്നതിനും എഡിറ്റുചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and editing audio content?",
+        "o": {
+            "a": "Adobe Audition",
+            "b": "Logic Pro X",
+            "c": "FL Studio",
+            "d": "GarageBand"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ബിസിനസുകൾക്കും വ്യക്തികൾക്കും വേണ്ടിയുള്ള ജനപ്രിയ ഓൺലൈൻ ഫയൽ സംഭരണത്തിന്റെയും പങ്കിടൽ സേവനത്തിന്റെയും പേരെന്താണ്?",
+        "en": "What is the name of the popular online file storage and sharing service for businesses and individuals?",
+        "o": {
+            "a": "Google Drive",
+            "b": "Dropbox",
+            "c": "iCloud",
+            "d": "OneDrive"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വെബ് ഡിസൈനുകൾ സൃഷ്ടിക്കുന്നതിനും എഡിറ്റ് ചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and editing web designs?",
+        "o": {
+            "a": "Adobe Dreamweaver",
+            "b": "Wix",
+            "c": "WordPress",
+            "d": "Weebly"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഫോട്ടോകൾ പങ്കിടാനും എഡിറ്റുചെയ്യാനും ഉപയോഗിക്കുന്ന ജനപ്രിയ മൊബൈൽ ആപ്ലിക്കേഷന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular mobile application used for sharing and editing photos?",
+        "o": {
+            "a": "Instagram",
+            "b": "Snapchat",
+            "c": "Flickr",
+            "d": "Pinterest"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഹ്രസ്വ-ഫോം വീഡിയോകൾ പങ്കിടാൻ ഉപയോഗിക്കുന്ന ജനപ്രിയ മൊബൈൽ ആപ്ലിക്കേഷന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular mobile application used for sharing short-form videos?",
+        "o": {
+            "a": "TikTok",
+            "b": "Instagram",
+            "c": "Snapchat",
+            "d": "Vine"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സംഗീത നിർമ്മാണത്തിനും ശബ്‌ദ രൂപകൽപ്പനയ്‌ക്കും ഉപയോഗിക്കുന്ന ജനപ്രിയ ഡിജിറ്റൽ ഓഡിയോ വർക്ക്‌സ്റ്റേഷന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular digital audio workstation used for music production and sound design?",
+        "o": {
+            "a": "Ableton Live",
+            "b": "Logic Pro X",
+            "c": "FL Studio",
+            "d": "Cubase"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഇന്റർനെറ്റ് ആക്‌സസ് ചെയ്യുന്നതിനുള്ള ജനപ്രിയ വെബ് ബ്രൗസറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular web browser for accessing the Internet?",
+        "o": {
+            "a": "Safari",
+            "b": "Chrome",
+            "c": "Internet Explorer",
+            "d": "Firefox"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ബിസിനസുകൾ ഉപയോഗിക്കുന്ന ജനപ്രിയ ക്ലൗഡ് അധിഷ്‌ഠിത പ്രോജക്‌റ്റ് മാനേജ്‌മെന്റ് സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular cloud-based project management software used by businesses?",
+        "o": {
+            "a": "Asana",
+            "b": "Trello",
+            "c": "Basecamp",
+            "d": "Monday"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഓൺലൈൻ ഇടപാടുകൾക്കായി ഉപയോഗിക്കുന്ന ജനപ്രിയ ഓൺലൈൻ പേയ്‌മെന്റ് സംവിധാനത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular online payment system used for online transactions?",
+        "o": {
+            "a": "PayPal",
+            "b": "Apple Pay",
+            "c": "Venmo",
+            "d": "Square"
+        },
+        "an": 1
+    },
+    {
+        "ma": "3D മോഡലിംഗ്, ആനിമേഷൻ, റെൻഡറിംഗ് എന്നിവയ്‌ക്കായി ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for 3D modeling, animation and rendering?",
+        "o": {
+            "a": "Autodesk 3DS Max",
+            "b": "Blender",
+            "c": "Cinema 4D",
+            "d": "Houdini"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഫയൽ വലുപ്പം കുറയ്ക്കുന്നതിന് ഉപയോഗിക്കുന്ന ജനപ്രിയ ഫയൽ കംപ്രഷൻ സോഫ്റ്റ്വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular file compression software used for reducing file size?",
+        "o": {
+            "a": "WinRAR",
+            "b": "WinZip",
+            "c": "7-Zip",
+            "d": "PeaZip"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഒരു കമ്പ്യൂട്ടറിൽ ഒന്നിലധികം ഓപ്പറേറ്റിംഗ് സിസ്റ്റങ്ങൾ പ്രവർത്തിപ്പിക്കുന്നതിന് ഉപയോഗിക്കുന്ന ജനപ്രിയ വെർച്വൽ മെഷീൻ സോഫ്റ്റ്വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular virtual machine software used for running multiple operating systems on one computer?",
+        "o": {
+            "a": "VMware",
+            "b": "Oracle VirtualBox",
+            "c": "Hyper-V",
+            "d": "Parallels"
+        },
+        "an": 2
+    },
+    {
+        "ma": "കമ്പ്യൂട്ടറുകളെ വൈറസുകളിൽ നിന്നും ക്ഷുദ്രവെയറിൽ നിന്നും സംരക്ഷിക്കാൻ ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for protecting computers against viruses and malware?",
+        "o": {
+            "a": "McAfee",
+            "b": "Norton",
+            "c": "Kaspersky",
+            "d": "AVG"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഡാറ്റാബേസുകൾ സൃഷ്ടിക്കുന്നതിനും കൈകാര്യം ചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and managing databases?",
+        "o": {
+            "a": "Microsoft Access",
+            "b": "Oracle Database",
+            "c": "MySQL",
+            "d": "SQL Server"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വെബ്‌സൈറ്റ് അനലിറ്റിക്‌സിനും ട്രാക്കിംഗിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for website analytics and tracking?",
+        "o": {
+            "a": "Google Analytics",
+            "b": "Piwik",
+            "c": "Adobe Analytics",
+            "d": "Matomo"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഡാറ്റ ദൃശ്യവൽക്കരണത്തിനും വിശകലനത്തിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for data visualization and analysis?",
+        "o": {
+            "a": "Tableau",
+            "b": "Power BI",
+            "c": "QlikView",
+            "d": "TIBCO Spotfire"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വെബ് ആപ്ലിക്കേഷനുകളും സേവനങ്ങളും ഹോസ്റ്റുചെയ്യുന്നതിനുള്ള ജനപ്രിയ ക്ലൗഡ് കമ്പ്യൂട്ടിംഗ് പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular cloud computing platform for hosting web applications and services?",
+        "o": {
+            "a": "Amazon Web Services (AWS)",
+            "b": "Google Cloud Platform",
+            "c": "Microsoft Azure",
+            "d": "IBM Cloud"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സോഫ്‌റ്റ്‌വെയർ വികസനത്തിനും പരിശോധനയ്‌ക്കും ഉപയോഗിക്കുന്ന ജനപ്രിയ ഓപ്പൺ സോഴ്‌സ് സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular open-source software used for software development and testing?",
+        "o": {
+            "a": "GitHub",
+            "b": "Bitbucket",
+            "c": "GitLab",
+            "d": "Mercurial"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഓൺലൈൻ കോഡിംഗിനും സോഫ്റ്റ്‌വെയർ വികസനത്തിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ ഓൺലൈൻ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular online platform used for online coding and software development?",
+        "o": {
+            "a": "Codepen",
+            "b": "Repl.it",
+            "c": "JSFiddle",
+            "d": "CodeSandbox"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വെബ് വികസനത്തിന് ഉപയോഗിക്കുന്ന ജനപ്രിയ പ്രോഗ്രാമിംഗ് ഭാഷയുടെ പേരെന്താണ്?",
+        "en": "What is the name of the popular programming language used for web development?",
+        "o": {
+            "a": "Python",
+            "b": "Java",
+            "c": "JavaScript",
+            "d": "Ruby"
+        },
+        "an": 3
+    },
+    {
+        "ma": "വെബ് ആപ്ലിക്കേഷനുകൾ വികസിപ്പിക്കുന്നതിന് ഉപയോഗിക്കുന്ന ജനപ്രിയ ചട്ടക്കൂടിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular framework used for developing web applications?",
+        "o": {
+            "a": "React",
+            "b": "Angular",
+            "c": "Vue",
+            "d": "Ember"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഓൺലൈൻ സ്റ്റോറുകൾ നിർമ്മിക്കുന്നതിനും ഓൺലൈനിൽ ഉൽപ്പന്നങ്ങൾ വിൽക്കുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ ഇ-കൊമേഴ്‌സ് പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular e-commerce platform used for building online stores and selling products online?",
+        "o": {
+            "a": "Shopify",
+            "b": "Magento",
+            "c": "WooCommerce",
+            "d": "BigCommerce"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വലിയ തോതിലുള്ള ഡാറ്റ സംഭരണവും പ്രോസസ്സിംഗും ഹോസ്റ്റുചെയ്യുന്നതിനും കൈകാര്യം ചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular platform used for hosting and managing large-scale data storage and processing?",
+        "o": {
+            "a": "Hadoop",
+            "b": "Spark",
+            "c": "Cassandra",
+            "d": "HBase"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഉപയോക്തൃ ഇന്റർഫേസുകൾ നിർമ്മിക്കുന്നതിന് ഉപയോഗിക്കുന്ന ജനപ്രിയ ഫ്രണ്ട്-എൻഡ് ലൈബ്രറിയുടെ പേരെന്താണ്?",
+        "en": "What is the name of the popular front-end library used for building user interfaces?",
+        "o": {
+            "a": "jQuery",
+            "b": "Bootstrap",
+            "c": "Foundation",
+            "d": "Materialize"
+        },
+        "an": 2
+    },
+    {
+        "ma": "മൊബൈൽ ആപ്ലിക്കേഷനുകൾ വികസിപ്പിക്കുന്നതിന് ഉപയോഗിക്കുന്ന ജനപ്രിയ ചട്ടക്കൂടിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular framework used for developing mobile applications?",
+        "o": {
+            "a": "React Native",
+            "b": "Ionic",
+            "c": "Xamarin",
+            "d": "Flutter"
+        },
+        "an": 1
+    },
+    {
+        "ma": "മൊബൈൽ ഉപകരണങ്ങൾക്കായി ഉപയോഗിക്കുന്ന ജനപ്രിയ ഓപ്പറേറ്റിംഗ് സിസ്റ്റത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular operating system used for mobile devices?",
+        "o": {
+            "a": "iOS",
+            "b": "Android",
+            "c": "Windows Mobile",
+            "d": "BlackBerry OS"
+        },
+        "an": 1
+    },
+    {
+        "ma": "തൽക്ഷണ സന്ദേശമയയ്‌ക്കലിനും വീഡിയോ കോളുകൾക്കുമായി ഉപയോഗിക്കുന്ന ജനപ്രിയ ആപ്പിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular app used for instant messaging and video calls?",
+        "o": {
+            "a": "WhatsApp",
+            "b": "Facebook Messenger",
+            "c": "Skype",
+            "d": "Telegram"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ചരക്കുകളും സേവനങ്ങളും വാങ്ങുന്നതിനും വിൽക്കുന്നതിനുമുള്ള ജനപ്രിയ ഓൺലൈൻ മാർക്കറ്റിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular online marketplace for buying and selling goods and services?",
+        "o": {
+            "a": "Amazon",
+            "b": "eBay",
+            "c": "Etsy",
+            "d": "Alibaba"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഓൺലൈൻ സർവേകൾ സൃഷ്ടിക്കുന്നതിനും പങ്കിടുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular platform used for creating and sharing online surveys?",
+        "o": {
+            "a": "Google Forms",
+            "b": "Typeform",
+            "c": "SurveyMonkey",
+            "d": "JotForm"
+        },
+        "an": 3
+    },
+    {
+        "ma": "വീഡിയോ എഡിറ്റിംഗിനും പോസ്റ്റ്-പ്രൊഡക്ഷനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for video editing and post-production?",
+        "o": {
+            "a": "Adobe Premiere Pro",
+            "b": "Final Cut Pro",
+            "c": "DaVinci Resolve",
+            "d": "Lightworks"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഫോട്ടോ എഡിറ്റിംഗിനും കൃത്രിമത്വത്തിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for photo editing and manipulation?",
+        "o": {
+            "a": "Adobe Photoshop",
+            "b": "GIMP",
+            "c": "Corel Painter",
+            "d": "Krita"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ചിത്രങ്ങൾ പങ്കിടുന്നതിനും ഹോസ്റ്റുചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ ഓൺലൈൻ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular online platform used for sharing and hosting images?",
+        "o": {
+            "a": "Flickr",
+            "b": "Imgur",
+            "c": "Picasa",
+            "d": "SmugMug"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വീഡിയോകൾ പങ്കിടുന്നതിനും ഹോസ്റ്റുചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ ഓൺലൈൻ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular online platform used for sharing and hosting videos?",
+        "o": {
+            "a": "YouTube",
+            "b": "Vimeo",
+            "c": "Dailymotion",
+            "d": "Twitch"
+        },
+        "an": 1
+    },
+    {
+        "ma": "സംഗീതവും പോഡ്‌കാസ്റ്റുകളും സ്ട്രീമിംഗിനായി ഉപയോഗിക്കുന്ന ജനപ്രിയ ഓൺലൈൻ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular online platform used for streaming music and podcasts?",
+        "o": {
+            "a": "Spotify",
+            "b": "Apple Music",
+            "c": "SoundCloud",
+            "d": "Tidal"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഡിജിറ്റൽ ഓഡിയോ വർക്ക്‌സ്റ്റേഷനും സംഗീത നിർമ്മാണത്തിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for digital audio workstation and music production?",
+        "o": {
+            "a": "Ableton Live",
+            "b": "Logic Pro X",
+            "c": "FL Studio",
+            "d": "Cubase"
+        },
+        "an": 2
+    },
+    {
+        "ma": "ഡിജിറ്റൽ ആർട്ടുകളും ചിത്രീകരണങ്ങളും സൃഷ്ടിക്കുന്നതിനും രൂപകൽപ്പന ചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and designing digital art and illustrations?",
+        "o": {
+            "a": "Adobe Illustrator",
+            "b": "Sketch",
+            "c": "Inkscape",
+            "d": "Affinity Designer"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഡോക്യുമെന്റുകൾ, സ്‌പ്രെഡ്‌ഷീറ്റുകൾ, അവതരണങ്ങൾ എന്നിവ സൃഷ്‌ടിക്കുന്നതിനും കൈകാര്യം ചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and managing documents, spreadsheets and presentations?",
+        "o": {
+            "a": "Microsoft Office",
+            "b": "Google Workspace",
+            "c": "LibreOffice",
+            "d": "Apple iWork"
+        },
+        "an": 1
+    },
+    {
+        "ma": "പ്രോജക്റ്റ് മാനേജ്മെന്റിനും ടീം സഹകരണത്തിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for project management and team collaboration?",
+        "o": {
+            "a": "Asana",
+            "b": "Trello",
+            "c": "Basecamp",
+            "d": "Monday"
+        },
+        "an": 3
+    },
+    {
+        "ma": "ഹ്യൂമൻ റിസോഴ്‌സും പേറോളും കൈകാര്യം ചെയ്യാൻ ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for managing human resources and payroll?",
+        "o": {
+            "a": "ADP",
+            "b": "Paychex",
+            "c": "Workday",
+            "d": "BambooHR"
+        },
+        "an": 1
+    },
+    {
+        "ma": "അക്കൗണ്ടിംഗിനും ബുക്ക് കീപ്പിംഗിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for accounting and bookkeeping?",
+        "o": {
+            "a": "QuickBooks",
+            "b": "Xero",
+            "c": "FreshBooks",
+            "d": "Wave"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഡാറ്റാബേസുകൾ സൃഷ്ടിക്കുന്നതിനും കൈകാര്യം ചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and managing databases?",
+        "o": {
+            "a": "Microsoft Access",
+            "b": "FileMaker Pro",
+            "c": "MySQL",
+            "d": "Oracle Database"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഫയലുകൾ ഓൺലൈനായി സംഭരിക്കുന്നതിനും പങ്കിടുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ ക്ലൗഡ് സ്റ്റോറേജ് സേവനത്തിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular cloud storage service used for storing and sharing files online?",
+        "o": {
+            "a": "Dropbox",
+            "b": "Google Drive",
+            "c": "OneDrive",
+            "d": "iCloud"
+        },
+        "an": 2
+    },
+    {
+        "ma": "വെബ്‌സൈറ്റുകൾ വികസിപ്പിക്കുന്നതിനും ഹോസ്റ്റുചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular platform used for developing and hosting websites?",
+        "o": {
+            "a": "WordPress",
+            "b": "Wix",
+            "c": "Squarespace",
+            "d": "Weebly"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഓൺലൈനിൽ ഉൽപ്പന്നങ്ങളും സേവനങ്ങളും വിൽക്കാൻ ഉപയോഗിക്കുന്ന ജനപ്രിയ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular platform used for selling products and services online?",
+        "o": {
+            "a": "Shopify",
+            "b": "Magento",
+            "c": "WooCommerce",
+            "d": "BigCommerce"
+        },
+        "an": 1
+    },
+    {
+        "ma": "വെബ് പേജുകൾ സൃഷ്ടിക്കുന്നതിനും എഡിറ്റ് ചെയ്യുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and editing web pages?",
+        "o": {
+            "a": "Adobe Dreamweaver",
+            "b": "BlueGriffon",
+            "c": "KompoZer",
+            "d": "SeaMonkey"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഡിജിറ്റൽ മാർക്കറ്റിംഗ് കാമ്പെയ്‌നുകൾ സൃഷ്ടിക്കുന്നതിനും നിയന്ത്രിക്കുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ സോഫ്‌റ്റ്‌വെയറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular software used for creating and managing digital marketing campaigns?",
+        "o": {
+            "a": "Hootsuite",
+            "b": "Sprout Social",
+            "c": "Hubspot",
+            "d": "Marketo"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇന്റർനെറ്റിൽ തിരയാൻ ഉപയോഗിക്കുന്ന ജനപ്രിയ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular platform used for searching the internet?",
+        "o": {
+            "a": "Google",
+            "b": "Yahoo",
+            "c": "Bing",
+            "d": "DuckDuckGo"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇന്റർനെറ്റ് ആക്‌സസ് ചെയ്യാൻ ഉപയോഗിക്കുന്ന ജനപ്രിയ ബ്രൗസറിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular browser used for accessing the internet?",
+        "o": {
+            "a": "Google Chrome",
+            "b": "Mozilla Firefox",
+            "c": "Microsoft Edge",
+            "d": "Apple Safari"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഇമെയിൽ അയയ്‌ക്കുന്നതിനും സ്വീകരിക്കുന്നതിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular platform used for sending and receiving email?",
+        "o": {
+            "a": "Gmail",
+            "b": "Yahoo Mail",
+            "c": "Outlook",
+            "d": "ProtonMail"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഓൺലൈൻ ബുക്കിംഗിനും യാത്രാ റിസർവേഷനും ഉപയോഗിക്കുന്ന ജനപ്രിയ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular platform used for online booking and travel reservations?",
+        "o": {
+            "a": "Booking.com",
+            "b": "Expedia",
+            "c": "TripAdvisor",
+            "d": "Hotels.com"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഓൺലൈൻ ഷോപ്പിംഗിനും ഡെലിവറി സേവനങ്ങൾക്കും ഉപയോഗിക്കുന്ന ജനപ്രിയ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular platform used for online shopping and delivery services?",
+        "o": {
+            "a": "Amazon",
+            "b": "Walmart",
+            "c": "Target",
+            "d": "Instacart"
+        },
+        "an": 1
+    },
+    {
+        "ma": "ഓൺലൈൻ നിക്ഷേപത്തിനും ഓഹരി വ്യാപാരത്തിനും ഉപയോഗിക്കുന്ന ജനപ്രിയ പ്ലാറ്റ്‌ഫോമിന്റെ പേരെന്താണ്?",
+        "en": "What is the name of the popular platform used for online investment and stock trading?",
+        "o": {
+            "a": "Robinhood",
+            "b": "E*TRADE",
+            "c": "TD Ameritrade",
+            "d": "Fidelity Investments"
+        },
+        "an": 1
+    }
+]
