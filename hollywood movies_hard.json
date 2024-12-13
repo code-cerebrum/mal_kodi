@@ -8,7 +8,7 @@
             "c": "A device used to stabilize the dream.",
             "d": "A trigger for shared dreaming."
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "എന്താണ് സ്റ്റാൻലി കുബ്രിക്ക് സംവിധാനം ചെയ്ത '2001: A Space Odyssey' യിലെ HAL 9000 പ്രശസ്തമാക്കുന്നത്?",
@@ -19,7 +19,7 @@
             "c": "Its ability to predict human decisions.",
             "d": "Its role in the discovery of the monolith."
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "എന്താണ് 1999-ലെ 'The Matrix' എന്ന സിനിമയിലെ 'ഡിജാ വു' സീൻ സൂചിപ്പിക്കുന്നത്?",
@@ -30,7 +30,7 @@
             "c": "The presence of an Agent.",
             "d": "A reset in the simulation."
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "ക്വെന്റിൻ ടാരന്റീനോയുടെ 'Pulp Fiction' എന്ന സിനിമയിൽ ബ്രീഫ്‌കേസിനുള്ളിൽ എന്താണ് ഉള്ളത്?",
@@ -41,7 +41,7 @@
             "c": "Marcellus Wallace's soul.",
             "d": "A stash of money."
         },
-        "ans": 3
+        "an": 3
     },
     {
         "ma": "'The Godfather' എന്ന സിനിമയിലെ നോൺ-സോക്കിങ് സീനിൽ എന്താണ് പരാമർശിക്കുന്നത്?",
@@ -52,7 +52,7 @@
             "c": "A bribe.",
             "d": "A plea for mercy."
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "എന്താണ് 1974-ൽ പുറത്തിറങ്ങിയ ചിത്രം 'ചൈനാടൗൺ' പ്രശസ്തമാക്കുന്നത്?",
@@ -63,7 +63,7 @@
             "c": "Its plot revolves around water rights in Los Angeles.",
             "d": "It was directed by Steven Spielberg."
         },
-        "ans": 3
+        "an": 3
     },
     {
         "ma": "'കാസബ്ലാങ്ക' എന്ന സിനിമയിലെ പ്രശസ്തമായ ഡയലോഗ് 'Here's looking at you, kid' ആരാണ് പറഞ്ഞത്?",
@@ -74,7 +74,7 @@
             "c": "Victor Laszlo",
             "d": "Sam the Pianist"
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "ജെയിംസ് കാമറൂൺ സംവിധാനം ചെയ്ത 'അവതാർ' എന്ന സിനിമയിലെ പ്രധാന ഗ്രഹത്തിന് എന്ത് പേര്?",
@@ -85,7 +85,7 @@
             "c": "Andromeda",
             "d": "Nova Prime"
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "'ഫൈറ്റ് ക്ലബ്ബ്' എന്ന സിനിമയിലെ നായകന്റെ വൃത്തിയെക്കുറിച്ചുള്ള സത്യമാണ്?",
@@ -96,7 +96,7 @@
             "c": "He's an insomniac office worker.",
             "d": "He's a journalist."
         },
-        "ans": 3
+        "an": 3
     },
     {
         "ma": "1994-ൽ പുറത്തിറങ്ങിയ 'ഷാഷാങ്ക് റിഡംഷൻ' എന്ന സിനിമയുടെ ആസ്പദമായ നോവൽ ആരുടെ രചനയാണ്?",
@@ -107,7 +107,7 @@
             "c": "Michael Crichton",
             "d": "Dean Koontz"
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "2014-ൽ പുറത്തിറങ്ങിയ 'Interstellar' എന്ന സിനിമയിൽ പിതാവും മകനും തമ്മിലുള്ള ബന്ധം എന്താണ്?", 
@@ -118,7 +118,7 @@
             "c": "A strong emotional connection.",
             "d": "An artificial intelligence and its creator."
         },
-        "ans": 3
+        "an": 3
     },
     {
         "ma": "1915-ൽ പുറത്തിറങ്ങിയ 'The Birth of a Nation' എന്ന സിനിമയിൽ പ്രമേയം എന്താണ്?", 
@@ -129,7 +129,7 @@
             "c": "The American Revolution.",
             "d": "The founding of the United States."
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "'Gladiator' എന്ന സിനിമയിലെ മാക്സിമസ് ഒരു എളുപ്പം പിടിക്കാനായിരുന്ന പ്രോജക്ടിന്റെ എന്താണ്?", 
@@ -140,7 +140,7 @@
             "c": "A gladiator seeking vengeance.",
             "d": "A Roman Emperor."
         },
-        "ans": 3
+        "an": 3
     },
     {
         "ma": "'Forrest Gump' എന്ന സിനിമയിൽ, ഫോർറെസ്റ്റ് ഗംപ പസപ്പിച്ച് അറിയപ്പെടുന്ന ഒരു ഗുഡ് എന്താണ്?", 
@@ -151,7 +151,7 @@
             "c": "Winning a medal at the Olympics.",
             "d": "Owning a successful shrimp business."
         },
-        "ans": 4
+        "an": 4
     },
     {
         "ma": "2017-ൽ പുറത്തിറങ്ങിയ 'Get Out' എന്ന സിനിമയിൽ പ്രമേയം എന്താണ്?", 
@@ -162,7 +162,7 @@
             "c": "The afterlife and supernatural encounters.",
             "d": "Aliens attempting to take over the world."
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "'Blade Runner' എന്ന സിനിമയുടെ 2049 പതിപ്പിൽ പ്രധാന സെഞ്ചുറി ഏതാണ്?", 
@@ -173,7 +173,7 @@
             "c": "Flying vehicles.",
             "d": "Self-aware robots."
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "'Schindler's List' എന്ന സിനിമയിൽ ഓസ്കർ ഷിന്റ്ലർ ഒരു സാധനം സൂക്ഷിച്ചു വച്ചത് എന്താണ്?", 
@@ -184,7 +184,7 @@
             "c": "Diamonds.",
             "d": "Books containing secret documents."
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "2010-ൽ 'Social Network' എന്ന സിനിമയിൽ, മാർക് സുകർബര്‍ഗിന്റെ പ്രമുഖ സൃഷ്ടനം എന്തായിരുന്നു?", 
@@ -195,7 +195,7 @@
             "c": "Instagram.",
             "d": "Facebook."
         },
-        "ans": 4
+        "an": 4
     },
     {
         "ma": "'Memento' എന്ന സിനിമയിൽ, മുൻപത്തെ സംഭവങ്ങൾ ഓർമ്മിക്കാൻ നായകന് എന്താണ് ഉപയോഗിക്കുന്നത്?", 
@@ -206,7 +206,7 @@
             "c": "Tattoos.",
             "d": "Voice recordings."
         },
-        "ans": 3
+        "an": 3
     },
     {
         "ma": "2012-ൽ പുറത്തിറങ്ങിയ 'The Avengers' എന്ന സിനിമയിൽ, ജെറി ഹേൾഡ് എന്ന സാത്താനി ഏത് കഥാപാത്രത്തിന് പ്രതിനിധാനം ചെയ്യുന്നു?", 
@@ -217,7 +217,7 @@
             "c": "Thanos",
             "d": "Loki"
         },
-        "ans": 4
+        "an": 4
     },
     {
         "ma": "1942-ൽ 'Casablanca' എന്ന സിനിമയിൽ റിക് ബ്ലൈൻന്റെ ഒരു സങ്കടം എന്താണ്?", 
@@ -228,7 +228,7 @@
             "c": "Political ideologies.",
             "d": "Romantic betrayal."
         },
-        "ans": 4
+        "an": 4
     },
     {
         "ma": "1999-ലെ 'The Matrix' എന്ന സിനിമയിൽ, മോർഫിയസ് നിയോയ്ക്ക് എന്ത് വാഗ്ദാനം ചെയ്യുന്നു?", 
@@ -239,7 +239,7 @@
             "c": "A chance to control time.",
             "d": "The secret to immortality."
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "'Titanic' എന്ന സിനിമയിലെ ജാക്കും റോസ് തമ്മിലുള്ള പ്രണയ സത്യം എന്താണ്?", 
@@ -250,7 +250,7 @@
             "c": "A love that conquers all obstacles.",
             "d": "A promise of eternal commitment."
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "2014-ൽ 'Guardians of the Galaxy' എന്ന സിനിമയിൽ, ടാനോസ് ഏത് പദം പ്രതിനിധാനം ചെയ്യുന്നു?", 
@@ -261,7 +261,7 @@
             "c": "Peace and unity.",
             "d": "Hope and resilience."
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "'The Shawshank Redemption' എന്ന സിനിമയിൽ, ഏത് പ്രതിസന്ധി ആസ്പദമായ സ്റ്റീവ്‌സ് വിചാരിച്ചത്?", 
@@ -272,7 +272,7 @@
             "c": "Power and loyalty.",
             "d": "Isolation and clever escape."
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "2015-ൽ 'Mad Max: Fury Road' എന്ന സിനിമയിൽ, Imperator Furiosa ആരാണ്?", 
@@ -283,7 +283,7 @@
             "c": "An ally of Mad Max.",
             "d": "The leader of Citadel inhabitants."
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "1987-ൽ 'The Untouchables' എന്ന സിനിമയിൽ, എലിയോട്ട് നേസ് ഒരു പ്രമേയം എന്താണ്?", 
@@ -294,7 +294,7 @@
             "c": "Immigration challenges.",
             "d": "Financial fraud."
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "'Inglourious Basterds' എന്ന സിനിമയിൽ, ഹാൻസിലി ഹിറ്റ്ലർ എങ്ങനെ നേരിടുന്നു?", 
@@ -305,7 +305,7 @@
             "c": "An enemy who betrays Hitler.",
             "d": "A secret agent of the Allies."
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "2010-ൽ 'Inception' എന്ന സിനിമയിൽ, ഡ്രീം ലോജ്ജിങ് എങ്ങനെ പ്രവർത്തിക്കുന്നു?",
@@ -316,7 +316,7 @@
             "c": "By reversing time within dreams.",
             "d": "By connecting neural frequencies."
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "1975-ൽ 'Jaws' എന്ന സിനിമയിൽ, ബ്ലൂവാട്ടർ എങ്ങനെ പ്രതിനിധാനം ചെയ്യുന്നു?",
@@ -327,7 +327,7 @@
             "c": "Safe ocean waters.",
             "d": "Pure marine ecosystem."
         },
-        "ans": 2
+        "an": 2
     },
     {
         "ma": "1997-ലെ 'Titanic' എന്ന സിനിമയിൽ, ജാക്കും റോസും തമ്മിലുള്ള സന്ദർഭം എങ്ങനെ അവസാനിച്ചു?",
@@ -338,7 +338,7 @@
             "c": "Jack drowns, leaving Rose to survive.",
             "d": "They escape together to a different continent."
         },
-        "ans": 3
+        "an": 3
     },
     {
         "ma": "2017-ൽ 'Wonder Woman' എന്ന സിനിമയിൽ, ഡിയാനായാണ് ഏറ്റവും വലിയ സത്യത്തെ അറിയുന്നത് എന്താണ്?",
@@ -349,7 +349,7 @@
             "c": "Humans are their greatest adversaries.",
             "d": "Immortality isn’t a choice but a curse."
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "1960-ൽ 'Psycho' എന്ന സിനിമയിൽ, നോർമൻ ബATES-ന്റെ എത്ര സൈക്കോളജിക്കൽ സങ്കടങ്ങളുണ്ട്?",
@@ -360,7 +360,7 @@
             "c": "Split personality disorder.",
             "d": "Paranoia and extreme isolation."
         },
-        "ans": 3
+        "an": 3
     },
     {
         "ma": "1994-ലെ 'Forrest Gump' എന്ന സിനിമയിൽ, ഫോറെസ്റ്റ് ഗംപ് തന്റെ ജീവിതത്തിലുണ്ടായ ഒപ്പം പറയുന്ന പ്രധാന സന്ദേശം എന്താണ്?",
@@ -371,7 +371,7 @@
             "c": "Persistence is stronger than intelligence.",
             "d": "Love is the foundation of all success."
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "1985-ൽ 'Back to the Future' എന്ന സിനിമയിൽ, ഡോക്ടർ ബ്രൗൺ ബഹുദൂരം യാത്ര ചെയ്യുന്നതിന് എന്ത് ഉപകരണം ഉപയോഗിക്കുന്നു?",
@@ -382,7 +382,7 @@
             "c": "Chrono Converter.",
             "d": "Quantum Drive."
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "2015-ൽ 'Star Wars: The Force Awakens' എന്ന സിനിമയിൽ, Kylo Ren-ന്റെ സത്തിക്കു ഗതിയെ കുറിച്ചുള്ള പ്രമേയം എന്താണ്?",
@@ -393,7 +393,7 @@
             "c": "His conflict between good and evil.",
             "d": "His hidden desire for redemption."
         },
-        "ans": 3
+        "an": 3
     },
     {
         "ma": "2008-ൽ 'The Dark Knight' എന്ന സിനിമയിൽ, Jokerni പ്രതിനിധാനം ചെയ്യുന്ന പ്രധാന ആശയം എന്താണ്?",
@@ -404,7 +404,7 @@
             "c": "Order and stability.",
             "d": "Cunning strategic intellect."
         },
-        "ans": 1
+        "an": 1
     },
     {
         "ma": "1979-ലെ 'Alien' എന്ന സിനിമയിൽ, Alien species-ന്റെ ഏറ്റവും ശക്തമായ അവയവം എന്താണ്?",
@@ -415,6 +415,6 @@
             "c": "Sharp inner jaws.",
             "d": "Regenerative powers."
         },
-        "ans": 3
+        "an": 3
     }
 ]
