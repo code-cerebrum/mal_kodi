@@ -1,0 +1,860 @@
+[
+    {
+      "ma": "ഡിസ്നിയിലെ മിക്കി മൗസിന്റെ കണ്ടുപിടിത്തക്കാരൻആർ?വാൾട്ട് ഡിസ്നി?", 
+      "en": "Who created Mickey Mouse?", 
+      "o": {
+        "a": "Walt Disney",
+        "b": "Steven Spielberg",
+        "c": "George Lucas",
+        "d": "Tom Hanks"
+      },
+      "ans": 1
+    },
+    {
+      "ma": "ലോകപ്രശസ്ത മാവേൽ സൂപ്പർ ഹീറോ സ്പൈഡർ മാൻ ആരുടെ സ്വത്തായിരുന്നു?", 
+      "en": "Who plays Spider-Man in the original Spider-Man movie trilogy?", 
+      "o": {
+        "a": "Chris Evans",
+        "b": "Robert Downey Jr.",
+        "c": "Tobey Maguire",
+        "d": "Chris Hemsworth"
+      },
+      "ans": 3
+    },
+    {
+      "ma": "ടൈറ്റാനിക് സിനിമയിലെ നായകനും നായിക‌യും ആരായിരുന്നു?", 
+      "en": "Who starred as the main characters in Titanic?", 
+      "o": {
+        "a": "Brad Pitt and Jennifer Aniston",
+        "b": "Leonardo DiCaprio and Kate Winslet",
+        "c": "Tom Cruise and Nicole Kidman",
+        "d": "Will Smith and Margot Robbie"
+      },
+      "ans": 2
+    },
+    {
+      "ma": "ഹാരി പോട്ടർ സിനിമ കൃതിയുടെ രചയിതാവ്?", 
+      "en": "Who wrote the Harry Potter book series?", 
+      "o": {
+        "a": "J.K. Rowling",
+        "b": "Stephen King",
+        "c": "Roald Dahl",
+        "d": "Rick Riordan"
+      },
+      "ans": 1
+    },
+    {
+      "ma": "ഏത് സിനിമയിൽ R2-D2 ഒരു റോബോട്ട് കഥാപാത്രമായി വന്നിട്ടുണ്ട്?", 
+      "en": "In which movie series is R2-D2 a famous robot character?", 
+      "o": {
+        "a": "Star Trek",
+        "b": "Star Wars",
+        "c": "Transformers",
+        "d": "Wall-E"
+      },
+      "ans": 2
+    },
+    {
+      "ma": "ജെയിംസ് കാമറൺ സംവിധാനം ചെയ്ത വിശ്വപ്രസിദ്ധ സിനിമ?", 
+      "en": "Which famous movie was directed by James Cameron?", 
+      "o": {
+        "a": "Avatar",
+        "b": "Jurassic Park",
+        "c": "Inception",
+        "d": "The Avengers"
+      },
+      "ans": 1
+    },
+    {
+      "ma": "ഏത് സിനിമയിൽ ബ്ലാക്ക് പാന്ററിനെ ചിത്രീകരിച്ചത്?", 
+      "en": "Who played Black Panther in the Marvel movie?", 
+      "o": {
+        "a": "Michael B. Jordan",
+        "b": "Chadwick Boseman",
+        "c": "Will Smith",
+        "d": "Denzel Washington"
+      },
+      "ans": 2
+    },
+    {
+      "ma": "ഫൊറസ്റ്റ് ഗംപ് സിനിമയിലെ മുഖ്യകഥാപാത്രം ആരാണ്?", 
+      "en": "Who starred as Forrest Gump in the movie?", 
+      "o": {
+        "a": "Brad Pitt",
+        "b": "Tom Hanks",
+        "c": "Robert Downey Jr.",
+        "d": "Matt Damon"
+      },
+      "ans": 2
+    },
+    {
+      "ma": "ഹാരി പോട്ടർ സിനിമയിൽ ഹെർമയോണി ഗ്രെഞ്ചർ ആരായിരുന്നു?", 
+      "en": "Who played Hermione Granger in Harry Potter movies?", 
+      "o": {
+        "a": "Emma Watson",
+        "b": "Emma Roberts",
+        "c": "Jennifer Lawrence",
+        "d": "Scarlett Johansson"
+      },
+      "ans": 1
+    },
+    {
+      "ma": "ഏത് സിനിമാ വിഭാഗത്തിൽ ജെയിംസ് ബോൺഡ് പ്രസിദ്ധനാണ്?", 
+      "en": "In which movie genre is James Bond famous?", 
+      "o": {
+        "a": "Comedy",
+        "b": "Horror",
+        "c": "Spy Thriller",
+        "d": "Romantic Drama"
+      },
+      "ans": 3
+    },
+    {
+      "ma": "ഏത് സിനിമയിൽ ജാക്ക് ഡാവൺസിലിയെ ചിത്രീകരിച്ചു?", 
+      "en": "Who played Jack in the movie Titanic?", 
+      "o": {
+        "a": "Brad Pitt",
+        "b": "Matt Damon",
+        "c": "Leonardo DiCaprio",
+        "d": "Chris Hemsworth"
+      },
+      "ans": 3
+    },
+    {
+      "ma": "ഏത് സിനിമയിൽ മിന്നി വാൻ ഒരു കഥാപാത്രമാണ്?", 
+      "en": "In which animated movie is Minnie a character?", 
+      "o": {
+        "a": "Frozen",
+        "b": "Mickey Mouse",
+        "c": "Toy Story",
+        "d": "Shrek"
+      },
+      "ans": 2
+    },
+    {
+      "ma": "ഏത് സിനിമാനിർമ്മാതാവ് സ്റ്റാർ വാർസ് സൃഷ്ടിച്ചു?", 
+      "en": "Who created the Star Wars movie franchise?", 
+      "o": {
+        "a": "Steven Spielberg",
+        "b": "James Cameron",
+        "c": "George Lucas",
+        "d": "Quentin Tarantino"
+      },
+      "ans": 3
+    },
+    {
+      "ma": "ഏത് സിനിമയിൽ ഐറൺ മാൻ കഥാപാത്രമാണ്?", 
+      "en": "Who played Iron Man in Marvel movies?", 
+      "o": {
+        "a": "Chris Evans",
+        "b": "Chris Hemsworth",
+        "c": "Robert Downey Jr.",
+        "d": "Mark Ruffalo"
+      },
+      "ans": 3
+    },
+    {
+      "ma": "ഡിസ്നി കാർട്ടൂൺ 'ഫ്രോസൺ'ൽ മുഖ്യകഥാപാത്രങ്ങൾ ആരൊക്കെ?", 
+      "en": "Who are the main characters in Disney's Frozen?", 
+      "o": {
+        "a": "Elsa and Anna",
+        "b": "Cinderella and Snow White",
+        "c": "Rapunzel and Flynn",
+        "d": "Belle and Beast"
+      },
+      "ans": 1
+    },
+    {
+      "ma": "ഹോളിവുഡിലെ പ്രശസ്ത കോമഡി നടൻ?", 
+      "en": "Who is a famous Hollywood comedy actor?", 
+      "o": {
+        "a": "Robert De Niro",
+        "b": "Tom Cruise",
+        "c": "Jim Carrey",
+        "d": "Leonardo DiCaprio"
+      },
+      "ans": 3
+    },
+    {
+      "ma": "മാവേൽ മൂവിസ് ഏത് കഥാപാത്രം രൂപപ്പെടുത്തി?", 
+      "en": "Who created the Marvel movie characters?", 
+      "o": {
+        "a": "Walt Disney",
+        "b": "Stan Lee",
+        "c": "Steven Spielberg",
+        "d": "James Cameron"
+      },
+      "ans": 2
+    },
+    {
+      "ma": "ഏത് സിനിമയിൽ ട്രാൻസ്ഫോർമേഴ്സ് കഥാപാത്രങ്ങൾ വന്നു?", 
+      "en": "Which movie series features Transformers?", 
+      "o": {
+        "a": "Star Wars",
+        "b": "Transformers",
+        "c": "Jurassic Park",
+        "d": "Avatar"
+      },
+      "ans": 2
+    },
+    {
+      "ma": "ഹോളിവുഡിലെ പ്രശസ്ത ആക്ഷൻ നടൻ?", 
+      "en": "Who is a famous Hollywood action actor?", 
+      "o": {
+        "a": "Tom Hanks",
+        "b": "Brad Pitt",
+        "c": "Dwayne Johnson",
+        "d": "Leonardo DiCaprio"
+      },
+      "ans": 3
+    },
+    {
+      "ma": "ഡിസ്നിയിലെ 'ദ ലയൺ കിംഗ്' സിനിമയുടെ കഥാപാത്രങ്ങൾ?", 
+      "en": "What are the main characters in Disney's 'The Lion King'?", 
+      "o": {
+        "a": "Mickey and Minnie",
+        "b": "Simba and Mufasa",
+        "c": "Elsa and Anna",
+        "d": "Woody and Buzz"
+      },
+      "ans": 2
+    },
+    {
+        "ma": "ബോൺഡ് സിനിമകളിലെ പ്രശസ്ത ഏജന്റിന്റെ നമ്പർ?", 
+        "en": "What is the famous James Bond agent number?", 
+        "o": {
+          "a": "007",
+          "b": "008",
+          "c": "006",
+          "d": "009"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഹാരി പോട്ടർ സിനിമയിലെ വിളർപ്പൻ?", 
+        "en": "Who is the headmaster of Hogwarts in Harry Potter?", 
+        "o": {
+          "a": "Severus Snape",
+          "b": "Albus Dumbledore",
+          "c": "Voldemort",
+          "d": "Hagrid"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ബിൽഡിൻഗ്ന്റെ ഏറ്റവും പ്രസിദ്ധമായ കഥാപാത്രം?", 
+        "en": "Who is the most famous Disney princess?", 
+        "o": {
+          "a": "Elsa",
+          "b": "Cinderella",
+          "c": "Mulan",
+          "d": "Ariel"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "അവതാർ സിനിമയുടെ സംവിധായകൻ?", 
+        "en": "Who directed the movie Avatar?", 
+        "o": {
+          "a": "Steven Spielberg",
+          "b": "James Cameron",
+          "c": "George Lucas",
+          "d": "Christopher Nolan"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ടൈറ്റാനിക് സിനിമയിലെ കപ്പിടം?", 
+        "en": "What was the name of the ship in Titanic?", 
+        "o": {
+          "a": "Queen Mary",
+          "b": "Titanic",
+          "c": "Nautilus",
+          "d": "Endeavour"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "മാവേൽ കിനോപ്രപഞ്ചത്തിലെ മുഖ്യ വില്ലൻ?", 
+        "en": "Who is the main villain in the Avengers?", 
+        "o": {
+          "a": "Loki",
+          "b": "Red Skull",
+          "c": "Thanos",
+          "d": "Ultron"
+        },
+        "ans": 3
+      },
+      {
+        "ma": "ഫൊറസ്റ്റ് ഗംപ് സിനിമയിലെ ശ്രദ്ധേയമായ വാചകം?", 
+        "en": "Famous quote from Forrest Gump?", 
+        "o": {
+          "a": "I'll be back",
+          "b": "Life is like a box of chocolates",
+          "c": "May the Force be with you",
+          "d": "To infinity and beyond"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ജാക്ക് സ്പാർകോ കഥാപാത്രം ആരാണ്?", 
+        "en": "Who plays Jack Sparrow in Pirates of the Caribbean?", 
+        "o": {
+          "a": "Brad Pitt",
+          "b": "Orlando Bloom",
+          "c": "Johnny Depp",
+          "d": "Robert Downey Jr."
+        },
+        "ans": 3
+      },
+      {
+        "ma": "മാവേൽ മൂവീസിലെ ക്യാപ്റ്റൻ അമേരിക്ക ചിത്രീകരിച്ചയാൾ?", 
+        "en": "Who plays Captain America in Marvel movies?", 
+        "o": {
+          "a": "Chris Evans",
+          "b": "Chris Hemsworth",
+          "c": "Robert Downey Jr.",
+          "d": "Mark Ruffalo"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഹോളിവുഡിലെ ഏറ്റവും പ്രശസ്ത കാർട്ടൂൺ കമ്പനി?", 
+        "en": "Most famous Hollywood cartoon company?", 
+        "o": {
+          "a": "Dreamworks",
+          "b": "Pixar",
+          "c": "Disney",
+          "d": "Warner Bros"
+        },
+        "ans": 3
+      },
+      {
+        "ma": "മാവേൽ മൂവീസിലെ ഹൾക്ക് ചിത്രീകരിച്ചയാൾ?", 
+        "en": "Who plays Hulk in Marvel movies?", 
+        "o": {
+          "a": "Chris Evans",
+          "b": "Mark Ruffalo",
+          "c": "Chris Hemsworth",
+          "d": "Robert Downey Jr."
+        },
+        "ans": 2
+      },
+      {
+        "ma": "മാവേൽ മൂവീസിലെ ക്യാപ്റ്റൻ മാർവൽ ചിത്രീകരിച്ചയാൾ?", 
+        "en": "Who plays Captain Marvel in Marvel movies?", 
+        "o": {
+          "a": "Scarlett Johansson",
+          "b": "Brie Larson",
+          "c": "Gal Gadot",
+          "d": "Jennifer Lawrence"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഏറ്റവും ചെറിയ മാവേൽ ഹീറോ?", 
+        "en": "Smallest Marvel superhero?", 
+        "o": {
+          "a": "Spider-Man",
+          "b": "Ant-Man",
+          "c": "Iron Man",
+          "d": "Thor"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ഏറ്റവും പുതിയ പ്രിൻസസ്?", 
+        "en": "Newest Disney princess?", 
+        "o": {
+          "a": "Moana",
+          "b": "Elsa",
+          "c": "Rapunzel",
+          "d": "Merida"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഏത് സിനിമയുടെ ടാഗ്‌ലൈൻ 'ഞാൻ ഒരു ഹിറ്റ്മാൻ'?", 
+        "en": "Which movie's tagline is 'I am a hitman'?", 
+        "o": {
+          "a": "John Wick",
+          "b": "Mission Impossible",
+          "c": "James Bond",
+          "d": "Fast and Furious"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ചിപ്മംക്‌സ് ചിത്രം ആരുടെ ചിത്രീകരണം?", 
+        "en": "Which animation company made Chipmunks?", 
+        "o": {
+          "a": "Dreamworks",
+          "b": "Disney",
+          "c": "Pixar",
+          "d": "20th Century Fox"
+        },
+        "ans": 4
+      },
+      {
+        "ma": "ഏത് സിനിമ സ്പേസ് ട്രാവലിനെക്കുറിച്ചുള്ളതാണ്?", 
+        "en": "Which movie is about space travel?", 
+        "o": {
+          "a": "Interstellar",
+          "b": "Titanic",
+          "c": "Forrest Gump",
+          "d": "Jurassic Park"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഏത് സിനിമ വാഴ്ചയെക്കുറിച്ചുള്ളതാണ്?", 
+        "en": "Which movie is about a kingdom?", 
+        "o": {
+          "a": "The Lion King",
+          "b": "Titanic",
+          "c": "Jurassic Park",
+          "d": "Avatar"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ഏറ്റവും പഴയ കാർട്ടൂൺ കഥാപാത്രം?", 
+        "en": "Oldest Disney cartoon character?", 
+        "o": {
+          "a": "Donald Duck",
+          "b": "Mickey Mouse",
+          "c": "Goofy",
+          "d": "Pluto"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഏത് സിനിമയിൽ മെഴിൻ ഒരു കഥാപാത്രമാണ്?", 
+        "en": "Which animated movie features a mermaid?", 
+        "o": {
+          "a": "Frozen",
+          "b": "The Little Mermaid",
+          "c": "Finding Nemo",
+          "d": "Moana"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ടോം ഹാങ്ക്സ് മികച്ച നടൻ പുരസ്കാരം നേടിയ സിനിമ?", 
+        "en": "Tom Hanks' Oscar-winning movie?", 
+        "o": {
+          "a": "Forrest Gump",
+          "b": "Saving Private Ryan",
+          "c": "Cast Away",
+          "d": "Toy Story"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "മാവേൽ മൂവീസിലെ ഏറ്റവും ശക്തനായ ഹീറോ?", 
+        "en": "Strongest Marvel superhero?", 
+        "o": {
+          "a": "Iron Man",
+          "b": "Thor",
+          "c": "Hulk",
+          "d": "Captain Marvel"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ജൺഗിൾ കഥ സംവിധാനം ചെയ്ത സംവിധായകൻ?", 
+        "en": "Who directed Disney's Jungle Book?", 
+        "o": {
+          "a": "Walt Disney",
+          "b": "John Favreau",
+          "c": "Steven Spielberg",
+          "d": "George Lucas"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഏത് മാവേൽ സിനിമയിൽ ഒരു വിഷണുവിൽ മൂന്ന് കണ്ണുകളുണ്ട്?", 
+        "en": "Which Marvel movie features a character with three eyes?", 
+        "o": {
+          "a": "Thor",
+          "b": "Doctor Strange",
+          "c": "Black Panther",
+          "d": "Guardians of the Galaxy"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ഏറ്റവും പുതിയ സിനിമ?", 
+        "en": "Latest Disney animated movie?", 
+        "o": {
+          "a": "Frozen 2",
+          "b": "Encanto",
+          "c": "Raya and the Last Dragon",
+          "d": "Soul"
+        },
+        "ans": 3
+      },
+      {
+        "ma": "ഏത് സിനിമ സ്വതന്ത്ര യുദ്ധത്തെക്കുറിച്ചുള്ളതാണ്?", 
+        "en": "Movie about independence fight?", 
+        "o": {
+          "a": "Braveheart",
+          "b": "Gladiator",
+          "c": "300",
+          "d": "Troy"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഹോളിവുഡിലെ ഏറ്റവും പ്രശസ്ത കോമഡി നടൻ?", 
+        "en": "Most famous Hollywood comedy actor?", 
+        "o": {
+          "a": "Adam Sandler",
+          "b": "Will Ferrell",
+          "c": "Jim Carrey",
+          "d": "Kevin Hart"
+        },
+        "ans": 3
+      },
+      {
+        "ma": "ഏത് മാവേൽ ഹീറോ ഇൻഫിനിറ്റി സ്റ്റോൺ ശേഖരിക്കാൻ പോയി?", 
+        "en": "Which Marvel hero sought Infinity Stones?", 
+        "o": {
+          "a": "Iron Man",
+          "b": "Thor",
+          "c": "Thanos",
+          "d": "Captain America"
+        },
+        "ans": 3
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ഏറ്റവും വിജയിച്ച ആനിമേഷൻ?", 
+        "en": "Most successful Disney animation?", 
+        "o": {
+          "a": "Frozen",
+          "b": "Lion King",
+          "c": "Zootopia",
+          "d": "Toy Story"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഏത് സിനിമയിൽ ഒരു റോബോട്ട് മനുഷ്യനെ രക്ഷിക്കുന്നുണ്ട്?", 
+        "en": "Movie with a robot saving humans?", 
+        "o": {
+          "a": "Transformers",
+          "b": "I, Robot",
+          "c": "Terminator",
+          "d": "Wall-E"
+        },
+        "ans": 4
+      },
+      {
+        "ma": "ഹോളിവുഡിലെ ഏറ്റവും വലിയ കഥാസൃഷ്ടിക്കാരൻ?", 
+        "en": "Most famous Hollywood screenwriter?", 
+        "o": {
+          "a": "Steven Spielberg",
+          "b": "Quentin Tarantino",
+          "c": "Christopher Nolan",
+          "d": "Martin Scorsese"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഏത് മാവേൽ ഹീറോ മനുഷ്യനെ ഉയരത്തിൽ പറക്കിക്കാൻ കഴിയും?", 
+        "en": "Marvel hero who can fly high?", 
+        "o": {
+          "a": "Spider-Man",
+          "b": "Iron Man",
+          "c": "Black Panther",
+          "d": "Captain America"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ഏറ്റവും മികച്ച വില്ലൻ?", 
+        "en": "Best Disney villain?", 
+        "o": {
+          "a": "Ursula",
+          "b": "Maleficent",
+          "c": "Cruella De Vil",
+          "d": "Scar"
+        },
+        "ans": 4
+      },
+      {
+        "ma": "ഏത് സിനിമ ഒരു ഇടിഞ്ഞ കപ്പലിനെക്കുറിച്ചുള്ളതാണ്?", 
+        "en": "Movie about a sinking ship?", 
+        "o": {
+          "a": "Cast Away",
+          "b": "Titanic",
+          "c": "Pirates of the Caribbean",
+          "d": "Life of Pi"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഹോളിവുഡിലെ ഏറ്റവും പ്രായം കുറഞ്ഞ സംവിധായകൻ?", 
+        "en": "Youngest Hollywood director?", 
+        "o": {
+          "a": "Steven Spielberg",
+          "b": "J.J. Abrams",
+          "c": "Damien Chazelle",
+          "d": "Quentin Tarantino"
+        },
+        "ans": 3
+      },
+      {
+        "ma": "ഏത് മാവേൽ ഹീറോ ഒരു ഷീൽഡ് ഉപയോഗിക്കുന്നുണ്ട്?", 
+        "en": "Marvel hero who uses a shield?", 
+        "o": {
+          "a": "Thor",
+          "b": "Captain America",
+          "c": "Hulk",
+          "d": "Iron Man"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ഏറ്റവും ഭംഗിയുള്ള പ്രിൻസസ്?", 
+        "en": "Most beautiful Disney princess?", 
+        "o": {
+          "a": "Cinderella",
+          "b": "Belle",
+          "c": "Elsa",
+          "d": "Jasmine"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഏത് സിനിമ മനുഷ്യരുടെ ഭാവി പ്രവചിക്കുന്നുണ്ട്?", 
+        "en": "Movie predicting human future?", 
+        "o": {
+          "a": "Minority Report",
+          "b": "Inception",
+          "c": "Matrix",
+          "d": "Interstellar"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഏത് മാവേൽ ഹീറോ ഇരുട്ടിൽ കാഴ്ച വയ്ക്കാൻ കഴിയും?", 
+        "en": "Marvel hero who can see in the dark?", 
+        "o": {
+          "a": "Spider-Man",
+          "b": "Daredevil",
+          "c": "Black Panther",
+          "d": "Iron Man"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ഏറ്റവും പുതിയ വില്ലൻ?", 
+        "en": "Newest Disney villain?", 
+        "o": {
+          "a": "Cruella",
+          "b": "Mother Gothel",
+          "c": "Maleficent",
+          "d": "Ursula"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഏത് സിനിമ ഡൈനസറിനെക്കുറിച്ചുള്ളതാണ്?", 
+        "en": "Movie about dinosaurs?", 
+        "o": {
+          "a": "Avatar",
+          "b": "Jurassic Park",
+          "c": "King Kong",
+          "d": "Godzilla"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഹോളിവുഡിലെ ഏറ്റവും വലിയ നിർമ്മാതാവ്?", 
+        "en": "Biggest Hollywood producer?", 
+        "o": {
+          "a": "Steven Spielberg",
+          "b": "Jerry Bruckheimer",
+          "c": "Kevin Feige",
+          "d": "James Cameron"
+        },
+        "ans": 3
+      },
+      {
+        "ma": "ഏത് മാവേൽ ഹീറോ ഒരു മിഥ്യാ ലോകത്ത് വസിക്കുന്നുണ്ട്?", 
+        "en": "Marvel hero living in a fictional world?", 
+        "o": {
+          "a": "Black Panther",
+          "b": "Thor",
+          "c": "Spider-Man",
+          "d": "Iron Man"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ഏറ്റവും പഴയ കഥാപാത്രം?", 
+        "en": "Oldest Disney character?", 
+        "o": {
+          "a": "Mickey Mouse",
+          "b": "Donald Duck",
+          "c": "Goofy",
+          "d": "Pluto"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഏത് സിനിമ മനോഹരമായ മനുഷ്യ കഥാപാത്രങ്ങളെക്കുറിച്ചാണ്?", 
+        "en": "Movie about beautiful human characters?", 
+        "o": {
+          "a": "Avatar",
+          "b": "Titanic",
+          "c": "Jurassic Park",
+          "d": "Transformers"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഹോളിവുഡിലെ ഏറ്റവും പ്രശസ്ത നടൻ?", 
+        "en": "Most famous Hollywood actor?", 
+        "o": {
+          "a": "Tom Cruise",
+          "b": "Brad Pitt",
+          "c": "Leonardo DiCaprio",
+          "d": "Tom Hanks"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഏത് മാവേൽ ഹീറോ ഒരു മൂഡ്ല ഉണ്ടാക്കാൻ കഴിയും?", 
+        "en": "Marvel hero who can create a shield?", 
+        "o": {
+          "a": "Iron Man",
+          "b": "Black Panther",
+          "c": "Scarlet Witch",
+          "d": "Captain America"
+        },
+        "ans": 3
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ഏറ്റവും വലിയ വിജയം?", 
+        "en": "Biggest Disney success?", 
+        "o": {
+          "a": "Frozen",
+          "b": "The Lion King",
+          "c": "Moana",
+          "d": "Zootopia"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഏത് സിനിമ പലതരം ഭാഷകളെക്കുറിച്ചുള്ളതാണ്?", 
+        "en": "Movie about multiple languages?", 
+        "o": {
+          "a": "Babel",
+          "b": "Arrival",
+          "c": "Lost in Translation",
+          "d": "The Interpreter"
+        },
+        "ans": 4
+      },
+      {
+        "ma": "ഹോളിവുഡിലെ ഏറ്റവും വലിയ ക്യാമറാമാൻ?", 
+        "en": "Most famous Hollywood cinematographer?", 
+        "o": {
+          "a": "Steven Spielberg",
+          "b": "Roger Deakins",
+          "c": "Christopher Nolan",
+          "d": "Martin Scorsese"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഏത് മാവേൽ ഹീറോ ഒരു ഹാൾക്ക് മനുഷ്യനെ രക്ഷിക്കുന്നുണ്ട്?", 
+        "en": "Marvel hero who saves humans like Hulk?", 
+        "o": {
+          "a": "Thor",
+          "b": "Iron Man",
+          "c": "Captain America",
+          "d": "Black Panther"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ഏറ്റവും കൂടുതൽ വിജയിച്ച പ്രിൻസസ്?", 
+        "en": "Most successful Disney princess?", 
+        "o": {
+          "a": "Elsa",
+          "b": "Cinderella",
+          "c": "Belle",
+          "d": "Jasmine"
+        },
+        "ans": 1
+      },
+      {
+        "ma": "ഏത് സിനിമ ഒരു ഗ്രഹത്തിലെ ജീവിതത്തെക്കുറിച്ചുള്ളതാണ്?", 
+        "en": "Movie about life on another planet?", 
+        "o": {
+          "a": "Interstellar",
+          "b": "Avatar",
+          "c": "Gravity",
+          "d": "The Martian"
+        },
+        "ans": 4
+      },
+      {
+        "ma": "ഹോളിവുഡിലെ ഏറ്റവും മികച്ച നിർമ്മാതാവ്?", 
+        "en": "Best Hollywood producer?", 
+        "o": {
+          "a": "Steven Spielberg",
+          "b": "Jerry Bruckheimer",
+          "c": "Kevin Feige",
+          "d": "James Cameron"
+        },
+        "ans": 3
+      },
+      {
+        "ma": "ഏത് മാവേൽ ഹീറോ ഒരു ഷിൽഡ് ഉണ്ടാക്കി?", 
+        "en": "Marvel hero who made a shield?", 
+        "o": {
+          "a": "Iron Man",
+          "b": "Black Panther",
+          "c": "Tony Stark",
+          "d": "Captain America"
+        },
+        "ans": 4
+      },
+      {
+        "ma": "ഡിസ്നിയിലെ ഏറ്റവും ശക്തമായ വില്ലൻ?", 
+        "en": "Strongest Disney villain?", 
+        "o": {
+          "a": "Scar",
+          "b": "Maleficent",
+          "c": "Ursula",
+          "d": "Cruella"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഏത് സിനിമ ഒരു ഗ്രഹത്തിലെ ഭൂപടത്തെക്കുറിച്ചുള്ളതാണ്?", 
+        "en": "Movie about a planet's map?", 
+        "o": {
+          "a": "Interstellar",
+          "b": "Avatar",
+          "c": "Gravity",
+          "d": "The Martian"
+        },
+        "ans": 2
+      },
+      {
+        "ma": "ഹോളിവുഡിലെ ഏറ്റവും വലിയ സംവിധായകൻ?", 
+        "en": "Biggest Hollywood director?", 
+        "o": {
+          "a": "Steven Spielberg",
+          "b": "Christopher Nolan",
+          "c": "James Cameron",
+          "d": "Martin Scorsese"
+        },
+        "ans": 1
+      }
+]

@@ -1,0 +1,420 @@
+[
+    {
+        "ma": "2010-ൽ പുറത്തിറങ്ങിയ 'Inception' എന്ന സിനിമയിലെ 'കിക്ക്' എന്ന ആശയം എന്താണ്?",
+        "en": "In the 2010 film 'Inception', what is the concept of a 'kick'?",
+        "o": {
+            "a": "A method to wake up from a dream.",
+            "b": "A tool to enter another dream layer.",
+            "c": "A device used to stabilize the dream.",
+            "d": "A trigger for shared dreaming."
+        },
+        "ans": 1
+    },
+    {
+        "ma": "എന്താണ് സ്റ്റാൻലി കുബ്രിക്ക് സംവിധാനം ചെയ്ത '2001: A Space Odyssey' യിലെ HAL 9000 പ്രശസ്തമാക്കുന്നത്?",
+        "en": "What makes HAL 9000 from Stanley Kubrick's '2001: A Space Odyssey' iconic?",
+        "o": {
+            "a": "Its red eye and soft voice.",
+            "b": "Its malfunction and rebellion against humans.",
+            "c": "Its ability to predict human decisions.",
+            "d": "Its role in the discovery of the monolith."
+        },
+        "ans": 2
+    },
+    {
+        "ma": "എന്താണ് 1999-ലെ 'The Matrix' എന്ന സിനിമയിലെ 'ഡിജാ വു' സീൻ സൂചിപ്പിക്കുന്നത്?",
+        "en": "What does the 'deja vu' scene in the 1999 film 'The Matrix' signify?",
+        "o": {
+            "a": "A change in the Matrix code.",
+            "b": "A glitch in Neo's memory.",
+            "c": "The presence of an Agent.",
+            "d": "A reset in the simulation."
+        },
+        "ans": 1
+    },
+    {
+        "ma": "ക്വെന്റിൻ ടാരന്റീനോയുടെ 'Pulp Fiction' എന്ന സിനിമയിൽ ബ്രീഫ്‌കേസിനുള്ളിൽ എന്താണ് ഉള്ളത്?",
+        "en": "In Quentin Tarantino's 'Pulp Fiction', what is inside the briefcase?",
+        "o": {
+            "a": "Diamonds.",
+            "b": "A glowing gold object.",
+            "c": "Marcellus Wallace's soul.",
+            "d": "A stash of money."
+        },
+        "ans": 3
+    },
+    {
+        "ma": "'The Godfather' എന്ന സിനിമയിലെ നോൺ-സോക്കിങ് സീനിൽ എന്താണ് പരാമർശിക്കുന്നത്?",
+        "en": "In 'The Godfather', what does the 'offer he can't refuse' refer to?",
+        "o": {
+            "a": "A business deal.",
+            "b": "A death threat.",
+            "c": "A bribe.",
+            "d": "A plea for mercy."
+        },
+        "ans": 2
+    },
+    {
+        "ma": "എന്താണ് 1974-ൽ പുറത്തിറങ്ങിയ ചിത്രം 'ചൈനാടൗൺ' പ്രശസ്തമാക്കുന്നത്?",
+        "en": "What makes the 1974 film 'Chinatown' famous?",
+        "o": {
+            "a": "It's the first neo-noir movie.",
+            "b": "It features a real unsolved mystery.",
+            "c": "Its plot revolves around water rights in Los Angeles.",
+            "d": "It was directed by Steven Spielberg."
+        },
+        "ans": 3
+    },
+    {
+        "ma": "'കാസബ്ലാങ്ക' എന്ന സിനിമയിലെ പ്രശസ്തമായ ഡയലോഗ് 'Here's looking at you, kid' ആരാണ് പറഞ്ഞത്?",
+        "en": "Who said the iconic line 'Here's looking at you, kid' in the movie 'Casablanca'?",
+        "o": {
+            "a": "Ilsa Lund",
+            "b": "Rick Blaine",
+            "c": "Victor Laszlo",
+            "d": "Sam the Pianist"
+        },
+        "ans": 2
+    },
+    {
+        "ma": "ജെയിംസ് കാമറൂൺ സംവിധാനം ചെയ്ത 'അവതാർ' എന്ന സിനിമയിലെ പ്രധാന ഗ്രഹത്തിന് എന്ത് പേര്?",
+        "en": "What is the name of the primary planet in James Cameron's 'Avatar'?",
+        "o": {
+            "a": "Pandora",
+            "b": "Zion",
+            "c": "Andromeda",
+            "d": "Nova Prime"
+        },
+        "ans": 1
+    },
+    {
+        "ma": "'ഫൈറ്റ് ക്ലബ്ബ്' എന്ന സിനിമയിലെ നായകന്റെ വൃത്തിയെക്കുറിച്ചുള്ള സത്യമാണ്?",
+        "en": "What is the truth about the narrator's occupation in the movie 'Fight Club'?",
+        "o": {
+            "a": "He's a soap salesman.",
+            "b": "He's an underground fighter.",
+            "c": "He's an insomniac office worker.",
+            "d": "He's a journalist."
+        },
+        "ans": 3
+    },
+    {
+        "ma": "1994-ൽ പുറത്തിറങ്ങിയ 'ഷാഷാങ്ക് റിഡംഷൻ' എന്ന സിനിമയുടെ ആസ്പദമായ നോവൽ ആരുടെ രചനയാണ്?",
+        "en": "Who wrote the novella that inspired the 1994 movie 'The Shawshank Redemption'?",
+        "o": {
+            "a": "John Grisham",
+            "b": "Stephen King",
+            "c": "Michael Crichton",
+            "d": "Dean Koontz"
+        },
+        "ans": 2
+    },
+    {
+        "ma": "2014-ൽ പുറത്തിറങ്ങിയ 'Interstellar' എന്ന സിനിമയിൽ പിതാവും മകനും തമ്മിലുള്ള ബന്ധം എന്താണ്?", 
+        "en": "In the 2014 film 'Interstellar,' what kind of relationship exists between the father and son?",
+        "o": {
+            "a": "Father and adopted son.",
+            "b": "A distant relationship.",
+            "c": "A strong emotional connection.",
+            "d": "An artificial intelligence and its creator."
+        },
+        "ans": 3
+    },
+    {
+        "ma": "1915-ൽ പുറത്തിറങ്ങിയ 'The Birth of a Nation' എന്ന സിനിമയിൽ പ്രമേയം എന്താണ്?", 
+        "en": "What is the theme of the 1915 film 'The Birth of a Nation'?",
+        "o": {
+            "a": "Civil War depiction.",
+            "b": "Racial tensions and Reconstruction.",
+            "c": "The American Revolution.",
+            "d": "The founding of the United States."
+        },
+        "ans": 2
+    },
+    {
+        "ma": "'Gladiator' എന്ന സിനിമയിലെ മാക്സിമസ് ഒരു എളുപ്പം പിടിക്കാനായിരുന്ന പ്രോജക്ടിന്റെ എന്താണ്?", 
+        "en": "What is Maximus's background in the film 'Gladiator'?",
+        "o": {
+            "a": "A former slave.",
+            "b": "A retired soldier.",
+            "c": "A gladiator seeking vengeance.",
+            "d": "A Roman Emperor."
+        },
+        "ans": 3
+    },
+    {
+        "ma": "'Forrest Gump' എന്ന സിനിമയിൽ, ഫോർറെസ്റ്റ് ഗംപ പസപ്പിച്ച് അറിയപ്പെടുന്ന ഒരു ഗുഡ് എന്താണ്?", 
+        "en": "In 'Forrest Gump,' what iconic thing is Forrest known to have accomplished?",
+        "o": {
+            "a": "Becoming a world champion runner.",
+            "b": "Running across the United States.",
+            "c": "Winning a medal at the Olympics.",
+            "d": "Owning a successful shrimp business."
+        },
+        "ans": 4
+    },
+    {
+        "ma": "2017-ൽ പുറത്തിറങ്ങിയ 'Get Out' എന്ന സിനിമയിൽ പ്രമേയം എന്താണ്?", 
+        "en": "What is the central theme of the 2017 movie 'Get Out'?",
+        "o": {
+            "a": "Psychological horror about mind control.",
+            "b": "A social commentary on race and privilege.",
+            "c": "The afterlife and supernatural encounters.",
+            "d": "Aliens attempting to take over the world."
+        },
+        "ans": 2
+    },
+    {
+        "ma": "'Blade Runner' എന്ന സിനിമയുടെ 2049 പതിപ്പിൽ പ്രധാന സെഞ്ചുറി ഏതാണ്?", 
+        "en": "What is the key futuristic technology depicted in 'Blade Runner 2049'?",
+        "o": {
+            "a": "Artificial Intelligence.",
+            "b": "Holographic interactions.",
+            "c": "Flying vehicles.",
+            "d": "Self-aware robots."
+        },
+        "ans": 2
+    },
+    {
+        "ma": "'Schindler's List' എന്ന സിനിമയിൽ ഓസ്കർ ഷിന്റ്ലർ ഒരു സാധനം സൂക്ഷിച്ചു വച്ചത് എന്താണ്?", 
+        "en": "What valuable thing did Oskar Schindler protect in the film 'Schindler's List'?",
+        "o": {
+            "a": "Gold coins.",
+            "b": "The lives of Jewish workers.",
+            "c": "Diamonds.",
+            "d": "Books containing secret documents."
+        },
+        "ans": 2
+    },
+    {
+        "ma": "2010-ൽ 'Social Network' എന്ന സിനിമയിൽ, മാർക് സുകർബര്‍ഗിന്റെ പ്രമുഖ സൃഷ്ടനം എന്തായിരുന്നു?", 
+        "en": "In the 2010 film 'The Social Network,' what was Mark Zuckerberg's primary creation?",
+        "o": {
+            "a": "Google.",
+            "b": "Twitter.",
+            "c": "Instagram.",
+            "d": "Facebook."
+        },
+        "ans": 4
+    },
+    {
+        "ma": "'Memento' എന്ന സിനിമയിൽ, മുൻപത്തെ സംഭവങ്ങൾ ഓർമ്മിക്കാൻ നായകന് എന്താണ് ഉപയോഗിക്കുന്നത്?", 
+        "en": "In the movie 'Memento,' how does the protagonist try to remember past events?",
+        "o": {
+            "a": "A diary.",
+            "b": "Polaroid photos.",
+            "c": "Tattoos.",
+            "d": "Voice recordings."
+        },
+        "ans": 3
+    },
+    {
+        "ma": "2012-ൽ പുറത്തിറങ്ങിയ 'The Avengers' എന്ന സിനിമയിൽ, ജെറി ഹേൾഡ് എന്ന സാത്താനി ഏത് കഥാപാത്രത്തിന് പ്രതിനിധാനം ചെയ്യുന്നു?", 
+        "en": "In the 2012 film 'The Avengers,' which villain does Loki symbolize?",
+        "o": {
+            "a": "Mysterio",
+            "b": "Ultron",
+            "c": "Thanos",
+            "d": "Loki"
+        },
+        "ans": 4
+    },
+    {
+        "ma": "1942-ൽ 'Casablanca' എന്ന സിനിമയിൽ റിക് ബ്ലൈൻന്റെ ഒരു സങ്കടം എന്താണ്?", 
+        "en": "In the movie 'Casablanca,' what drives Rick Blaine's inner turmoil?",
+        "o": {
+            "a": "Unrequited love.",
+            "b": "Business ambitions.",
+            "c": "Political ideologies.",
+            "d": "Romantic betrayal."
+        },
+        "ans": 4
+    },
+    {
+        "ma": "1999-ലെ 'The Matrix' എന്ന സിനിമയിൽ, മോർഫിയസ് നിയോയ്ക്ക് എന്ത് വാഗ്ദാനം ചെയ്യുന്നു?", 
+        "en": "In 'The Matrix,' what choice does Morpheus offer Neo?",
+        "o": {
+            "a": "The red pill and the blue pill.",
+            "b": "An escape from reality.",
+            "c": "A chance to control time.",
+            "d": "The secret to immortality."
+        },
+        "ans": 1
+    },
+    {
+        "ma": "'Titanic' എന്ന സിനിമയിലെ ജാക്കും റോസ് തമ്മിലുള്ള പ്രണയ സത്യം എന്താണ്?", 
+        "en": "What is the love story between Jack and Rose in 'Titanic'?",
+        "o": {
+            "a": "A forbidden romance.",
+            "b": "A tragic class divide.",
+            "c": "A love that conquers all obstacles.",
+            "d": "A promise of eternal commitment."
+        },
+        "ans": 2
+    },
+    {
+        "ma": "2014-ൽ 'Guardians of the Galaxy' എന്ന സിനിമയിൽ, ടാനോസ് ഏത് പദം പ്രതിനിധാനം ചെയ്യുന്നു?", 
+        "en": "In 'Guardians of the Galaxy,' what does Thanos represent?",
+        "o": {
+            "a": "Power and destruction.",
+            "b": "Wisdom and strategy.",
+            "c": "Peace and unity.",
+            "d": "Hope and resilience."
+        },
+        "ans": 1
+    },
+    {
+        "ma": "'The Shawshank Redemption' എന്ന സിനിമയിൽ, ഏത് പ്രതിസന്ധി ആസ്പദമായ സ്റ്റീവ്‌സ് വിചാരിച്ചത്?", 
+        "en": "In 'The Shawshank Redemption,' what pivotal idea sustains Andy Dufresne?",
+        "o": {
+            "a": "Hope and friendship.",
+            "b": "Revenge and survival.",
+            "c": "Power and loyalty.",
+            "d": "Isolation and clever escape."
+        },
+        "ans": 1
+    },
+    {
+        "ma": "2015-ൽ 'Mad Max: Fury Road' എന്ന സിനിമയിൽ, Imperator Furiosa ആരാണ്?", 
+        "en": "In 'Mad Max: Fury Road,' who is Imperator Furiosa?",
+        "o": {
+            "a": "A warrior and rebel leader.",
+            "b": "A ruthless antagonist.",
+            "c": "An ally of Mad Max.",
+            "d": "The leader of Citadel inhabitants."
+        },
+        "ans": 1
+    },
+    {
+        "ma": "1987-ൽ 'The Untouchables' എന്ന സിനിമയിൽ, എലിയോട്ട് നേസ് ഒരു പ്രമേയം എന്താണ്?", 
+        "en": "In 'The Untouchables,' what does Eliot Ness fight against?",
+        "o": {
+            "a": "Organized crime.",
+            "b": "Corruption in politics.",
+            "c": "Immigration challenges.",
+            "d": "Financial fraud."
+        },
+        "ans": 1
+    },
+    {
+        "ma": "'Inglourious Basterds' എന്ന സിനിമയിൽ, ഹാൻസിലി ഹിറ്റ്ലർ എങ്ങനെ നേരിടുന്നു?", 
+        "en": "In 'Inglourious Basterds,' how does Hans Landa interact with Adolf Hitler?",
+        "o": {
+            "a": "An informant for Hitler.",
+            "b": "A cunning Nazi officer.",
+            "c": "An enemy who betrays Hitler.",
+            "d": "A secret agent of the Allies."
+        },
+        "ans": 2
+    },
+    {
+        "ma": "2010-ൽ 'Inception' എന്ന സിനിമയിൽ, ഡ്രീം ലോജ്ജിങ് എങ്ങനെ പ്രവർത്തിക്കുന്നു?",
+        "en": "In the 2010 film 'Inception,' how does dream layering work?",
+        "o": {
+            "a": "Through a device called the Totem.",
+            "b": "By diving into multiple layers of consciousness.",
+            "c": "By reversing time within dreams.",
+            "d": "By connecting neural frequencies."
+        },
+        "ans": 2
+    },
+    {
+        "ma": "1975-ൽ 'Jaws' എന്ന സിനിമയിൽ, ബ്ലൂവാട്ടർ എങ്ങനെ പ്രതിനിധാനം ചെയ്യുന്നു?",
+        "en": "In 'Jaws,' what does the presence of blue water symbolize?",
+        "o": {
+            "a": "An untouched marine world.",
+            "b": "Danger lurking beneath the surface.",
+            "c": "Safe ocean waters.",
+            "d": "Pure marine ecosystem."
+        },
+        "ans": 2
+    },
+    {
+        "ma": "1997-ലെ 'Titanic' എന്ന സിനിമയിൽ, ജാക്കും റോസും തമ്മിലുള്ള സന്ദർഭം എങ്ങനെ അവസാനിച്ചു?",
+        "en": "In 'Titanic,' how does the relationship between Jack and Rose end?",
+        "o": {
+            "a": "Jack sacrifices himself for Rose.",
+            "b": "Both reunite on a lifeboat.",
+            "c": "Jack drowns, leaving Rose to survive.",
+            "d": "They escape together to a different continent."
+        },
+        "ans": 3
+    },
+    {
+        "ma": "2017-ൽ 'Wonder Woman' എന്ന സിനിമയിൽ, ഡിയാനായാണ് ഏറ്റവും വലിയ സത്യത്തെ അറിയുന്നത് എന്താണ്?",
+        "en": "In 'Wonder Woman,' what ultimate truth does Diana discover?",
+        "o": {
+            "a": "Ares isn’t the true enemy.",
+            "b": "Her powers originate from divine heritage.",
+            "c": "Humans are their greatest adversaries.",
+            "d": "Immortality isn’t a choice but a curse."
+        },
+        "ans": 1
+    },
+    {
+        "ma": "1960-ൽ 'Psycho' എന്ന സിനിമയിൽ, നോർമൻ ബATES-ന്റെ എത്ര സൈക്കോളജിക്കൽ സങ്കടങ്ങളുണ്ട്?",
+        "en": "In 'Psycho,' how many psychological traits does Norman Bates have?",
+        "o": {
+            "a": "Multiple mental disorders.",
+            "b": "Obsessive personality traits.",
+            "c": "Split personality disorder.",
+            "d": "Paranoia and extreme isolation."
+        },
+        "ans": 3
+    },
+    {
+        "ma": "1994-ലെ 'Forrest Gump' എന്ന സിനിമയിൽ, ഫോറെസ്റ്റ് ഗംപ് തന്റെ ജീവിതത്തിലുണ്ടായ ഒപ്പം പറയുന്ന പ്രധാന സന്ദേശം എന്താണ്?",
+        "en": "In 'Forrest Gump,' what is the central message that Forrest shares?",
+        "o": {
+            "a": "Life is a box of chocolates.",
+            "b": "Fortune and destiny are inseparable.",
+            "c": "Persistence is stronger than intelligence.",
+            "d": "Love is the foundation of all success."
+        },
+        "ans": 1
+    },
+    {
+        "ma": "1985-ൽ 'Back to the Future' എന്ന സിനിമയിൽ, ഡോക്ടർ ബ്രൗൺ ബഹുദൂരം യാത്ര ചെയ്യുന്നതിന് എന്ത് ഉപകരണം ഉപയോഗിക്കുന്നു?",
+        "en": "In 'Back to the Future,' what device does Doc Brown use to time travel?",
+        "o": {
+            "a": "Flux Capacitor.",
+            "b": "Temporal Engine.",
+            "c": "Chrono Converter.",
+            "d": "Quantum Drive."
+        },
+        "ans": 1
+    },
+    {
+        "ma": "2015-ൽ 'Star Wars: The Force Awakens' എന്ന സിനിമയിൽ, Kylo Ren-ന്റെ സത്തിക്കു ഗതിയെ കുറിച്ചുള്ള പ്രമേയം എന്താണ്?",
+        "en": "In 'Star Wars: The Force Awakens,' what is the essence of Kylo Ren's inner conflict?",
+        "o": {
+            "a": "His loyalty to the light side.",
+            "b": "Struggles with his loyalty to Darth Vader.",
+            "c": "His conflict between good and evil.",
+            "d": "His hidden desire for redemption."
+        },
+        "ans": 3
+    },
+    {
+        "ma": "2008-ൽ 'The Dark Knight' എന്ന സിനിമയിൽ, Jokerni പ്രതിനിധാനം ചെയ്യുന്ന പ്രധാന ആശയം എന്താണ്?",
+        "en": "In 'The Dark Knight,' what does the Joker symbolize?",
+        "o": {
+            "a": "Anarchy and chaos.",
+            "b": "Justice and morality.",
+            "c": "Order and stability.",
+            "d": "Cunning strategic intellect."
+        },
+        "ans": 1
+    },
+    {
+        "ma": "1979-ലെ 'Alien' എന്ന സിനിമയിൽ, Alien species-ന്റെ ഏറ്റവും ശക്തമായ അവയവം എന്താണ്?",
+        "en": "In 'Alien,' what is the most formidable part of the Alien species?",
+        "o": {
+            "a": "Acidic blood.",
+            "b": "Unbreakable exoskeleton.",
+            "c": "Sharp inner jaws.",
+            "d": "Regenerative powers."
+        },
+        "ans": 3
+    }
+]
